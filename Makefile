@@ -1,6 +1,6 @@
 GCC = gcc-11
 FLAGS = -ansi -pedantic -Wall 
-CFLAGS = -lm -lpthread -fopenmp 
+CFLAGS = -lm -lpthread -fopenmp -std=c99
 THEPROGS = Algoritmo_3 Algoritmo_1 Algoritmo_2
 
 PROGS:   Algoritmo_3 Algoritmo_1 Algoritmo_2

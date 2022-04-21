@@ -20,7 +20,7 @@
 */
 
 /*Interfaces*/
-#include "module.h"
+#include "modulo.h"
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
@@ -65,9 +65,9 @@ int main(int argc, char *argv[])
 
     printMatrix(N,Ma);
     printTransposed(N, Mb);
-    sampleStart();
+    SampleStart();
     MM1fOMP(Nthreads, N, Ma, Mb, Mc);
-    sampleEnd();
+    SampleEnd();
     /* free(Ma);
     // free(Mb);
     // free(Mc);*/

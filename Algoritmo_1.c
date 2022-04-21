@@ -21,7 +21,7 @@
 */
 
 /*Interfaces*/
-#include "module.h"
+#include "modulo.h"
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
@@ -35,7 +35,7 @@
 /* Se reserva el espacio de memoria según el valor */
 static double MEM_CHUNK[DATA_SZ];
 
-/* /* Se implementa paso a paso benchmark Multiplicaión de Matrices
+/* Se implementa paso a paso benchmark Multiplicaión de Matrices
 	Algoritmo clásico ( filas x columnas) de matrices
 	de igual dimensión*/
 int main(int argc, char *argv[])
@@ -66,9 +66,9 @@ int main(int argc, char *argv[])
 
     printMatrix(N,Ma);
     printMatrix(N,Mb);
-    sampleStart();
+    SampleStart();
     MM1cOMP(Nthreads, N, Ma, Mb, Mc);
-    sampleEnd();
+    SampleEnd();
     /* free(Ma);
     // free(Mb);
     // free(Mc);*/

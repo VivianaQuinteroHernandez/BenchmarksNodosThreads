@@ -14,7 +14,6 @@
 #include <errno.h>
 #include <omp.h>
 #include <pthread.h>
-#define _ISOC99_SOURCE
 
 /* Se crea una variable con un valor alto para reservar memoria*/
 /*#define DATA_SZ (1024*1024*64*3)*/
@@ -62,8 +61,8 @@ void initMatrix(int SZ, double *Ma, double *Mb, double *Mr){
 	int i, j;
 	for(i=0; i<SZ; ++i){
 		for(j=0; j<SZ; ++j){
-			Ma[j+i*SZ]= 3.2*(i+j);
-			Mb[j+i*SZ]= 2.4*(j-i);
+			Ma[j+i*SZ]= randMM();
+			Mb[j+i*SZ]= randMM();
 			Mr[j+i*SZ]= 0.0;
 		}
 	}
@@ -226,7 +225,8 @@ double ** ReservarMEM(int size){
 	double **ptr = (double **) malloc(size*size*sizeof(double*));
 	
 	/*Iteración para que cada ountero posicione en la reserva Mem*/
-	for(int i=0; i<size; ++i)
+	int i;
+	for(i=0; i<size; ++i)
 		ptr[i] = &valor[i*size];
 		
 	return ptr;	
@@ -238,8 +238,8 @@ void IniciarMatriz(double **matA, double **matB, double **matC, int size){
 	for(i=0; i<size; ++i){
 		for(j=0; j<size; ++j){
 			
-			matA[i][j] = 3.2 * (i+j);
-			matB[i][j] = 2.4 * (j-i);
+			matA[i][j] = randMM();
+			matB[i][j] = randMM();
 			matC[i][j] = 0.0;
 		}
 	}
