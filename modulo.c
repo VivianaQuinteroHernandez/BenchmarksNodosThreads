@@ -14,12 +14,13 @@
 #include <errno.h>
 #include <omp.h>
 #include <pthread.h>
+#define _ISOC99_SOURCE
 
 /* Se crea una variable con un valor alto para reservar memoria*/
-//#define DATA_SZ (1024*1024*64*3)
+/*#define DATA_SZ (1024*1024*64*3)*/
 
 /* Se reserva el espacio de memoria según el valor */
-//static double MEM_CHUNK[DATA_SZ];
+/*static double MEM_CHUNK[DATA_SZ];*/
 
 /*Definiciòn de constantes*/
 struct timespec inicio, fin;
@@ -27,15 +28,15 @@ struct timespec inicio, fin;
 /******************funciones **********/
 /*Inicio: medida de tiempo*/
 void SampleStart(){
-	clock_gettime(CLOCK_MONOTONIC, &inicio); //& està indicando la direcciòn de inicio
+	clock_gettime(CLOCK_MONOTONIC, &inicio); /*& està indicando la direcciòn de inicio*/
 }
 
 /*Fin: medida de tiempo*/
 void SampleEnd(){
-	clock_gettime(CLOCK_MONOTONIC, &fin); //& està indicando la direcciòn de inicio
+	clock_gettime(CLOCK_MONOTONIC, &fin); /*& està indicando la direcciòn de inicio*/
 	/* Se imprime el tiempo*/
 	double tiempoTotal;
-	tiempoTotal = (fin.tv_sec - inicio.tv_sec)*1e9;//tv_sec es una funciòn de struct//// 1e9 son macrosegundos
+	tiempoTotal = (fin.tv_sec - inicio.tv_sec)*1e9;/*tv_sec es una funciòn de struct 1e9 son macrosegundos*/
 	tiempoTotal = (tiempoTotal + (fin.tv_nsec - inicio.tv_nsec))*1e-9;
 	printf(" %f \n", tiempoTotal);
 	
@@ -184,7 +185,7 @@ void MM1fOMP(int threads, int size, double *a, double *b, double *c){
  * Nota la función setrá del tipo voidla cual retomará
  un warning potencial de riesgo. Pensar en eso, para mejorarla*/
 void *multMM(void *argThreads){
-	//arg: tiene el ID del hilo
+	/*arg: tiene el ID del hilo*/
 	int i,j,k;
 	int porcionSize, iniFila, finFila;
 	double suma;
@@ -195,11 +196,11 @@ void *multMM(void *argThreads){
 	double **MB = ((structHilos*) argThreads) -> b;
 	double **MC = ((structHilos*) argThreads) -> c;
 
-	// Se determina la porción a ser enviada a cada hilo
+	/* Se determina la porción a ser enviada a cada hilo*/
 	porcionSize = sizeTH/nThreadTH;
-	//Se pasa el inicio de la fila, según el id del hilo
+	/*Se pasa el inicio de la fila, según el id del hilo*/
 	iniFila = idTH*porcionSize;
-	//Se pasa el fin de la fila, según el id del hilo
+	/*Se pasa el fin de la fila, según el id del hilo*/
 	finFila = (idTH+1)*porcionSize;
 	
 	for(i = iniFila; i < finFila; ++i){
@@ -218,20 +219,20 @@ void *multMM(void *argThreads){
 /**** FUNCIONES PARA EL PROGRAMA DE PTHREADS ****/
 /** 2- Función reserva de memoria para matrices de doble puntero*/
 double ** ReservarMEM(int size){
-	//Reservamos memoria de simensión NxN double contigua
-	double * valor = (double *) malloc(size*size*sizeof(double));//malloc reserva de memoria
+	/*Reservamos memoria de simensión NxN double contigua*/
+	double * valor = (double *) malloc(size*size*sizeof(double));/*malloc reserva de memoria*/
 
-	//Reserva de un vector de 'punteros double' con simensión size
+	/*Reserva de un vector de 'punteros double' con simensión size*/
 	double **ptr = (double **) malloc(size*size*sizeof(double*));
 	
-	//Iteración para que cada ountero posicione en la reserva Mem
+	/*Iteración para que cada ountero posicione en la reserva Mem*/
 	for(int i=0; i<size; ++i)
 		ptr[i] = &valor[i*size];
 		
 	return ptr;	
 	
 }
-//* 3- Función de inicialización de matrices
+/* 3- Función de inicialización de matrices*/
 void IniciarMatriz(double **matA, double **matB, double **matC, int size){
 	int i, j;
 	for(i=0; i<size; ++i){
@@ -244,7 +245,7 @@ void IniciarMatriz(double **matA, double **matB, double **matC, int size){
 	}
 }
 
-//* 6- Se necesita función para impresión de las matrices (doble puntero)
+/* 6- Se necesita función para impresión de las matrices (doble puntero)*/
 void printMatriz(double **matriz, int size){
 	if(size < 5){
 		int i, j;
