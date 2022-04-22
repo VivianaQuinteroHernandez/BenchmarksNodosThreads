@@ -26,7 +26,7 @@ close($machineFile);
 # Crear un vector de ejecutables y se hace con el simbolo @
 chomp($machineName);
 @Executables=("Algoritmo_1","Algoritmo_2","Algoritmo_3");
-@Dimension=("100","200","400","800","1600","3200");
+@Dimension=("100","200","400","1000","2000","3000");
 @Threads=("1","2","4","8");
 $File="results/results-$machineName.csv";
 open(FILE,">>",$File) or die "Could not open file $File";
