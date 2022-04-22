@@ -10,7 +10,7 @@
 $PATH = `pwd`;# el signo pesos ($) para las variables
 chomp($PATH);#chomp para que no salte de línea
 # Una variable que represente la cantidad de repeticiones
-$N = 1;
+$N = 36;
 
 system "make clean"; # clean the previous compilation
 system "make all"; # compile the program
