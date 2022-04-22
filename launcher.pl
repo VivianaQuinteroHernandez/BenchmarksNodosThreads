@@ -10,7 +10,7 @@
 $PATH = `pwd`;# el signo pesos ($) para las variables
 chomp($PATH);#chomp para que no salte de línea
 # Una variable que represente la cantidad de repeticiones
-$N = 3;
+$N = 1;
 
 system "make clean"; # clean the previous compilation
 system "make all"; # compile the program
@@ -25,22 +25,25 @@ close($machineFile);
 
 # Crear un vector de ejecutables y se hace con el simbolo @
 chomp($machineName);
-@Executables=("Algorithm_1","Algorithm_2","Algorithm_3");
+@Executables=("Algoritmo_1","Algoritmo_2","Algoritmo_3");
 @Dimension=("100","200","400","800","1600","3200");
-@Threads=("1","2","4","6","8");
+@Threads=("1","2","4","8");
+$File="results/results-$machineName.csv";
+open(FILE,">>",$File) or die "Could not open file $File";
+print FILE "Node,NumThreads,Load,Algorithm,Time\n";
+close($File);
 foreach $size (@Dimension){
 	foreach $exe (@Executables){
-		$File="results/results-$machineName.csv";
-		#print"$File \n";
 		open(FILE,">>",$File) or die "Could not open file $File";
-		print FILE "Node,Load,Algorithm,Time\n";
+		#print"$File \n";
 		foreach $thread (@Threads){
 			for($i=0;$i<$N;$i++){
 				print FILE "$machineName,$thread,$size,$exe,";
 				system "$PATH/$exe $size $thread >> $File";
 				print FILE "\n";
-			}	
+			}
 		}
+			
 		close($File);
 	}
 	

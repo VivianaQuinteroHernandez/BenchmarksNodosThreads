@@ -5,6 +5,8 @@ THEPROGS = Algoritmo_3 Algoritmo_1 Algoritmo_2
 
 PROGS:   Algoritmo_3 Algoritmo_1 Algoritmo_2
 
+all: Algoritmo_1 Algoritmo_2 Algoritmo_3
+
 Algoritmo_1:
 	$(GCC) $(FLAGS) modulo.c -c -D_POSIX_C_SOURCE=199309L $(CFLAGS)
 	$(GCC) $(FLAGS) $@.c -c $(CFLAGS)

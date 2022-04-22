@@ -1,0 +1,145 @@
+Node,NumThreads,Load,Algorithm,Time
+A,1,100,Algoritmo_1, 0.003235 
+
+A,2,100,Algoritmo_1, 0.005074 
+
+A,4,100,Algoritmo_1, 0.002698 
+
+A,8,100,Algoritmo_1, 0.001932 
+
+A,1,100,Algoritmo_2, 0.006565 
+
+A,2,100,Algoritmo_2, 0.004072 
+
+A,4,100,Algoritmo_2, 0.002289 
+
+A,8,100,Algoritmo_2, 0.001753 
+
+A,1,100,Algoritmo_3, 0.006930 
+
+A,2,100,Algoritmo_3, 0.004208 
+
+A,4,100,Algoritmo_3, 0.002622 
+
+A,8,100,Algoritmo_3, 0.002157 
+
+A,1,200,Algoritmo_1, 0.030705 
+
+A,2,200,Algoritmo_1, 0.022288 
+
+A,4,200,Algoritmo_1, 0.016172 
+
+A,8,200,Algoritmo_1, 0.010161 
+
+A,1,200,Algoritmo_2, 0.031167 
+
+A,2,200,Algoritmo_2, 0.020719 
+
+A,4,200,Algoritmo_2, 0.013501 
+
+A,8,200,Algoritmo_2, 0.008944 
+
+A,1,200,Algoritmo_3, 0.027072 
+
+A,2,200,Algoritmo_3, 0.023016 
+
+A,4,200,Algoritmo_3, 0.016644 
+
+A,8,200,Algoritmo_3, 0.011740 
+
+A,1,400,Algoritmo_1, 0.210108 
+
+A,2,400,Algoritmo_1, 0.114638 
+
+A,4,400,Algoritmo_1, 0.067657 
+
+A,8,400,Algoritmo_1, 0.053962 
+
+A,1,400,Algoritmo_2, 0.216208 
+
+A,2,400,Algoritmo_2, 0.112928 
+
+A,4,400,Algoritmo_2, 0.069295 
+
+A,8,400,Algoritmo_2, 0.051241 
+
+A,1,400,Algoritmo_3, 0.223136 
+
+A,2,400,Algoritmo_3, 0.112802 
+
+A,4,400,Algoritmo_3, 0.068717 
+
+A,8,400,Algoritmo_3, 0.063077 
+
+A,1,800,Algoritmo_1, 2.186920 
+
+A,2,800,Algoritmo_1, 1.136315 
+
+A,4,800,Algoritmo_1, 0.636041 
+
+A,8,800,Algoritmo_1, 0.406829 
+
+A,1,800,Algoritmo_2, 1.682830 
+
+A,2,800,Algoritmo_2, 0.860339 
+
+A,4,800,Algoritmo_2, 0.486900 
+
+A,8,800,Algoritmo_2, 0.321430 
+
+A,1,800,Algoritmo_3, 2.282375 
+
+A,2,800,Algoritmo_3, 1.160982 
+
+A,4,800,Algoritmo_3, 0.658216 
+
+A,8,800,Algoritmo_3, 0.497224 
+
+A,1,1600,Algoritmo_1, 18.185163 
+
+A,2,1600,Algoritmo_1, 9.235580 
+
+A,4,1600,Algoritmo_1, 5.786347 
+
+A,8,1600,Algoritmo_1, 5.228165 
+
+A,1,1600,Algoritmo_2, 13.421577 
+
+A,2,1600,Algoritmo_2, 7.012711 
+
+A,4,1600,Algoritmo_2, 4.110773 
+
+A,8,1600,Algoritmo_2, 2.533069 
+
+A,1,1600,Algoritmo_3, 22.403805 
+
+A,2,1600,Algoritmo_3, 11.453873 
+
+A,4,1600,Algoritmo_3, 7.327006 
+
+A,8,1600,Algoritmo_3, 6.805515 
+
+A,1,3200,Algoritmo_1, 361.847978 
+
+A,2,3200,Algoritmo_1, 368.510479 
+
+A,4,3200,Algoritmo_1, 219.902495 
+
+A,8,3200,Algoritmo_1, 246.883878 
+
+A,1,3200,Algoritmo_2, 133.213367 
+
+A,2,3200,Algoritmo_2, 73.643622 
+
+A,4,3200,Algoritmo_2, 47.130919 
+
+A,8,3200,Algoritmo_2, 31.337547 
+
+A,1,3200,Algoritmo_3, 485.501925 
+
+A,2,3200,Algoritmo_3, 487.032354 
+
+A,4,3200,Algoritmo_3, 360.083446 
+
+A,8,3200,Algoritmo_3, 328.597550 
+

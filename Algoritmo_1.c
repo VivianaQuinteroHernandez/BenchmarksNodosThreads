@@ -1,6 +1,6 @@
 /* 	
 * Universidad Sergio Arboleda
-* Date: 2022-03-30
+* Date: Abril-30
 * Author: ÁNgela Viviana Quintero Hernández
 * Subject: Parallel and Distributed Computing.
 * Topic: Posix implemetation (Library)
