@@ -1,0 +1,4098 @@
+Node,NumThreads,Load,Algorithm,Time
+D,1,100,Algoritmo_1, 0.005958 
+
+D,1,100,Algoritmo_1, 0.005477 
+
+D,1,100,Algoritmo_1, 0.006536 
+
+D,1,100,Algoritmo_1, 0.007071 
+
+D,1,100,Algoritmo_1, 0.007256 
+
+D,1,100,Algoritmo_1, 0.007830 
+
+D,1,100,Algoritmo_1, 0.008164 
+
+D,1,100,Algoritmo_1, 0.002611 
+
+D,1,100,Algoritmo_1, 0.002625 
+
+D,1,100,Algoritmo_1, 0.002545 
+
+D,1,100,Algoritmo_1, 0.002536 
+
+D,1,100,Algoritmo_1, 0.008184 
+
+D,1,100,Algoritmo_1, 0.007781 
+
+D,1,100,Algoritmo_1, 0.005592 
+
+D,1,100,Algoritmo_1, 0.002612 
+
+D,1,100,Algoritmo_1, 0.002544 
+
+D,1,100,Algoritmo_1, 0.008094 
+
+D,1,100,Algoritmo_1, 0.007530 
+
+D,1,100,Algoritmo_1, 0.002902 
+
+D,1,100,Algoritmo_1, 0.002545 
+
+D,1,100,Algoritmo_1, 0.002543 
+
+D,1,100,Algoritmo_1, 0.002537 
+
+D,1,100,Algoritmo_1, 0.002562 
+
+D,1,100,Algoritmo_1, 0.002579 
+
+D,1,100,Algoritmo_1, 0.002552 
+
+D,1,100,Algoritmo_1, 0.002530 
+
+D,1,100,Algoritmo_1, 0.002537 
+
+D,1,100,Algoritmo_1, 0.008043 
+
+D,1,100,Algoritmo_1, 0.002868 
+
+D,1,100,Algoritmo_1, 0.007497 
+
+D,1,100,Algoritmo_1, 0.006246 
+
+D,1,100,Algoritmo_1, 0.002596 
+
+D,1,100,Algoritmo_1, 0.002532 
+
+D,1,100,Algoritmo_1, 0.002540 
+
+D,1,100,Algoritmo_1, 0.006559 
+
+D,1,100,Algoritmo_1, 0.005321 
+
+D,2,100,Algoritmo_1, 0.003302 
+
+D,2,100,Algoritmo_1, 0.003384 
+
+D,2,100,Algoritmo_1, 0.003003 
+
+D,2,100,Algoritmo_1, 0.004068 
+
+D,2,100,Algoritmo_1, 0.002899 
+
+D,2,100,Algoritmo_1, 0.004122 
+
+D,2,100,Algoritmo_1, 0.001325 
+
+D,2,100,Algoritmo_1, 0.001439 
+
+D,2,100,Algoritmo_1, 0.001387 
+
+D,2,100,Algoritmo_1, 0.001324 
+
+D,2,100,Algoritmo_1, 0.001347 
+
+D,2,100,Algoritmo_1, 0.001335 
+
+D,2,100,Algoritmo_1, 0.003395 
+
+D,2,100,Algoritmo_1, 0.001659 
+
+D,2,100,Algoritmo_1, 0.001314 
+
+D,2,100,Algoritmo_1, 0.001341 
+
+D,2,100,Algoritmo_1, 0.003145 
+
+D,2,100,Algoritmo_1, 0.001660 
+
+D,2,100,Algoritmo_1, 0.004075 
+
+D,2,100,Algoritmo_1, 0.002665 
+
+D,2,100,Algoritmo_1, 0.001400 
+
+D,2,100,Algoritmo_1, 0.001318 
+
+D,2,100,Algoritmo_1, 0.001350 
+
+D,2,100,Algoritmo_1, 0.001342 
+
+D,2,100,Algoritmo_1, 0.001318 
+
+D,2,100,Algoritmo_1, 0.001349 
+
+D,2,100,Algoritmo_1, 0.001354 
+
+D,2,100,Algoritmo_1, 0.001322 
+
+D,2,100,Algoritmo_1, 0.001388 
+
+D,2,100,Algoritmo_1, 0.001321 
+
+D,2,100,Algoritmo_1, 0.001339 
+
+D,2,100,Algoritmo_1, 0.001342 
+
+D,2,100,Algoritmo_1, 0.001317 
+
+D,2,100,Algoritmo_1, 0.001358 
+
+D,2,100,Algoritmo_1, 0.001352 
+
+D,2,100,Algoritmo_1, 0.001320 
+
+D,4,100,Algoritmo_1, 0.001567 
+
+D,4,100,Algoritmo_1, 0.001535 
+
+D,4,100,Algoritmo_1, 0.002001 
+
+D,4,100,Algoritmo_1, 0.001589 
+
+D,4,100,Algoritmo_1, 0.001523 
+
+D,4,100,Algoritmo_1, 0.001596 
+
+D,4,100,Algoritmo_1, 0.001507 
+
+D,4,100,Algoritmo_1, 0.001518 
+
+D,4,100,Algoritmo_1, 0.001545 
+
+D,4,100,Algoritmo_1, 0.000886 
+
+D,4,100,Algoritmo_1, 0.001523 
+
+D,4,100,Algoritmo_1, 0.001539 
+
+D,4,100,Algoritmo_1, 0.001547 
+
+D,4,100,Algoritmo_1, 0.000730 
+
+D,4,100,Algoritmo_1, 0.001581 
+
+D,4,100,Algoritmo_1, 0.001588 
+
+D,4,100,Algoritmo_1, 0.001514 
+
+D,4,100,Algoritmo_1, 0.001580 
+
+D,4,100,Algoritmo_1, 0.001581 
+
+D,4,100,Algoritmo_1, 0.001600 
+
+D,4,100,Algoritmo_1, 0.001605 
+
+D,4,100,Algoritmo_1, 0.001531 
+
+D,4,100,Algoritmo_1, 0.002485 
+
+D,4,100,Algoritmo_1, 0.001634 
+
+D,4,100,Algoritmo_1, 0.002218 
+
+D,4,100,Algoritmo_1, 0.001533 
+
+D,4,100,Algoritmo_1, 0.001518 
+
+D,4,100,Algoritmo_1, 0.001541 
+
+D,4,100,Algoritmo_1, 0.001522 
+
+D,4,100,Algoritmo_1, 0.002037 
+
+D,4,100,Algoritmo_1, 0.002243 
+
+D,4,100,Algoritmo_1, 0.001769 
+
+D,4,100,Algoritmo_1, 0.001974 
+
+D,4,100,Algoritmo_1, 0.001531 
+
+D,4,100,Algoritmo_1, 0.001553 
+
+D,4,100,Algoritmo_1, 0.001588 
+
+D,8,100,Algoritmo_1, 0.000896 
+
+D,8,100,Algoritmo_1, 0.000952 
+
+D,8,100,Algoritmo_1, 0.000834 
+
+D,8,100,Algoritmo_1, 0.000930 
+
+D,8,100,Algoritmo_1, 0.000825 
+
+D,8,100,Algoritmo_1, 0.000894 
+
+D,8,100,Algoritmo_1, 0.000896 
+
+D,8,100,Algoritmo_1, 0.000899 
+
+D,8,100,Algoritmo_1, 0.000938 
+
+D,8,100,Algoritmo_1, 0.000880 
+
+D,8,100,Algoritmo_1, 0.000958 
+
+D,8,100,Algoritmo_1, 0.000839 
+
+D,8,100,Algoritmo_1, 0.000578 
+
+D,8,100,Algoritmo_1, 0.000528 
+
+D,8,100,Algoritmo_1, 0.000664 
+
+D,8,100,Algoritmo_1, 0.000845 
+
+D,8,100,Algoritmo_1, 0.000962 
+
+D,8,100,Algoritmo_1, 0.000887 
+
+D,8,100,Algoritmo_1, 0.000927 
+
+D,8,100,Algoritmo_1, 0.000882 
+
+D,8,100,Algoritmo_1, 0.000895 
+
+D,8,100,Algoritmo_1, 0.000880 
+
+D,8,100,Algoritmo_1, 0.001244 
+
+D,8,100,Algoritmo_1, 0.000924 
+
+D,8,100,Algoritmo_1, 0.000881 
+
+D,8,100,Algoritmo_1, 0.001016 
+
+D,8,100,Algoritmo_1, 0.001074 
+
+D,8,100,Algoritmo_1, 0.000895 
+
+D,8,100,Algoritmo_1, 0.000846 
+
+D,8,100,Algoritmo_1, 0.000896 
+
+D,8,100,Algoritmo_1, 0.000894 
+
+D,8,100,Algoritmo_1, 0.000881 
+
+D,8,100,Algoritmo_1, 0.000927 
+
+D,8,100,Algoritmo_1, 0.000519 
+
+D,8,100,Algoritmo_1, 0.000717 
+
+D,8,100,Algoritmo_1, 0.000513 
+
+D,1,100,Algoritmo_2, 0.002735 
+
+D,1,100,Algoritmo_2, 0.002671 
+
+D,1,100,Algoritmo_2, 0.002631 
+
+D,1,100,Algoritmo_2, 0.002620 
+
+D,1,100,Algoritmo_2, 0.008208 
+
+D,1,100,Algoritmo_2, 0.003747 
+
+D,1,100,Algoritmo_2, 0.004837 
+
+D,1,100,Algoritmo_2, 0.002621 
+
+D,1,100,Algoritmo_2, 0.002682 
+
+D,1,100,Algoritmo_2, 0.002691 
+
+D,1,100,Algoritmo_2, 0.002686 
+
+D,1,100,Algoritmo_2, 0.002627 
+
+D,1,100,Algoritmo_2, 0.002624 
+
+D,1,100,Algoritmo_2, 0.002705 
+
+D,1,100,Algoritmo_2, 0.002680 
+
+D,1,100,Algoritmo_2, 0.002626 
+
+D,1,100,Algoritmo_2, 0.008469 
+
+D,1,100,Algoritmo_2, 0.002620 
+
+D,1,100,Algoritmo_2, 0.008712 
+
+D,1,100,Algoritmo_2, 0.002680 
+
+D,1,100,Algoritmo_2, 0.002710 
+
+D,1,100,Algoritmo_2, 0.002620 
+
+D,1,100,Algoritmo_2, 0.002627 
+
+D,1,100,Algoritmo_2, 0.002708 
+
+D,1,100,Algoritmo_2, 0.002674 
+
+D,1,100,Algoritmo_2, 0.002621 
+
+D,1,100,Algoritmo_2, 0.004523 
+
+D,1,100,Algoritmo_2, 0.007491 
+
+D,1,100,Algoritmo_2, 0.002698 
+
+D,1,100,Algoritmo_2, 0.002698 
+
+D,1,100,Algoritmo_2, 0.002627 
+
+D,1,100,Algoritmo_2, 0.002621 
+
+D,1,100,Algoritmo_2, 0.008554 
+
+D,1,100,Algoritmo_2, 0.008103 
+
+D,1,100,Algoritmo_2, 0.005007 
+
+D,1,100,Algoritmo_2, 0.002623 
+
+D,2,100,Algoritmo_2, 0.002955 
+
+D,2,100,Algoritmo_2, 0.001377 
+
+D,2,100,Algoritmo_2, 0.001385 
+
+D,2,100,Algoritmo_2, 0.001387 
+
+D,2,100,Algoritmo_2, 0.001378 
+
+D,2,100,Algoritmo_2, 0.001348 
+
+D,2,100,Algoritmo_2, 0.001367 
+
+D,2,100,Algoritmo_2, 0.001382 
+
+D,2,100,Algoritmo_2, 0.001346 
+
+D,2,100,Algoritmo_2, 0.001402 
+
+D,2,100,Algoritmo_2, 0.001369 
+
+D,2,100,Algoritmo_2, 0.001349 
+
+D,2,100,Algoritmo_2, 0.001362 
+
+D,2,100,Algoritmo_2, 0.001393 
+
+D,2,100,Algoritmo_2, 0.001349 
+
+D,2,100,Algoritmo_2, 0.001373 
+
+D,2,100,Algoritmo_2, 0.001374 
+
+D,2,100,Algoritmo_2, 0.001354 
+
+D,2,100,Algoritmo_2, 0.001380 
+
+D,2,100,Algoritmo_2, 0.001359 
+
+D,2,100,Algoritmo_2, 0.001347 
+
+D,2,100,Algoritmo_2, 0.001346 
+
+D,2,100,Algoritmo_2, 0.001362 
+
+D,2,100,Algoritmo_2, 0.001352 
+
+D,2,100,Algoritmo_2, 0.001378 
+
+D,2,100,Algoritmo_2, 0.001337 
+
+D,2,100,Algoritmo_2, 0.003668 
+
+D,2,100,Algoritmo_2, 0.001391 
+
+D,2,100,Algoritmo_2, 0.001350 
+
+D,2,100,Algoritmo_2, 0.001382 
+
+D,2,100,Algoritmo_2, 0.001381 
+
+D,2,100,Algoritmo_2, 0.001349 
+
+D,2,100,Algoritmo_2, 0.001352 
+
+D,2,100,Algoritmo_2, 0.001386 
+
+D,2,100,Algoritmo_2, 0.001351 
+
+D,2,100,Algoritmo_2, 0.001368 
+
+D,4,100,Algoritmo_2, 0.001853 
+
+D,4,100,Algoritmo_2, 0.001563 
+
+D,4,100,Algoritmo_2, 0.001584 
+
+D,4,100,Algoritmo_2, 0.001582 
+
+D,4,100,Algoritmo_2, 0.001553 
+
+D,4,100,Algoritmo_2, 0.001572 
+
+D,4,100,Algoritmo_2, 0.001598 
+
+D,4,100,Algoritmo_2, 0.001875 
+
+D,4,100,Algoritmo_2, 0.001554 
+
+D,4,100,Algoritmo_2, 0.001573 
+
+D,4,100,Algoritmo_2, 0.001580 
+
+D,4,100,Algoritmo_2, 0.001588 
+
+D,4,100,Algoritmo_2, 0.001548 
+
+D,4,100,Algoritmo_2, 0.001601 
+
+D,4,100,Algoritmo_2, 0.002014 
+
+D,4,100,Algoritmo_2, 0.001680 
+
+D,4,100,Algoritmo_2, 0.000759 
+
+D,4,100,Algoritmo_2, 0.000785 
+
+D,4,100,Algoritmo_2, 0.000738 
+
+D,4,100,Algoritmo_2, 0.000816 
+
+D,4,100,Algoritmo_2, 0.000740 
+
+D,4,100,Algoritmo_2, 0.000818 
+
+D,4,100,Algoritmo_2, 0.000744 
+
+D,4,100,Algoritmo_2, 0.000724 
+
+D,4,100,Algoritmo_2, 0.001556 
+
+D,4,100,Algoritmo_2, 0.001616 
+
+D,4,100,Algoritmo_2, 0.001585 
+
+D,4,100,Algoritmo_2, 0.000869 
+
+D,4,100,Algoritmo_2, 0.000882 
+
+D,4,100,Algoritmo_2, 0.001548 
+
+D,4,100,Algoritmo_2, 0.001573 
+
+D,4,100,Algoritmo_2, 0.001623 
+
+D,4,100,Algoritmo_2, 0.001641 
+
+D,4,100,Algoritmo_2, 0.000742 
+
+D,4,100,Algoritmo_2, 0.000858 
+
+D,4,100,Algoritmo_2, 0.001551 
+
+D,8,100,Algoritmo_2, 0.000938 
+
+D,8,100,Algoritmo_2, 0.000915 
+
+D,8,100,Algoritmo_2, 0.001073 
+
+D,8,100,Algoritmo_2, 0.000960 
+
+D,8,100,Algoritmo_2, 0.000906 
+
+D,8,100,Algoritmo_2, 0.000918 
+
+D,8,100,Algoritmo_2, 0.001007 
+
+D,8,100,Algoritmo_2, 0.000984 
+
+D,8,100,Algoritmo_2, 0.000929 
+
+D,8,100,Algoritmo_2, 0.000939 
+
+D,8,100,Algoritmo_2, 0.000858 
+
+D,8,100,Algoritmo_2, 0.000595 
+
+D,8,100,Algoritmo_2, 0.000870 
+
+D,8,100,Algoritmo_2, 0.000944 
+
+D,8,100,Algoritmo_2, 0.000909 
+
+D,8,100,Algoritmo_2, 0.000922 
+
+D,8,100,Algoritmo_2, 0.001031 
+
+D,8,100,Algoritmo_2, 0.000907 
+
+D,8,100,Algoritmo_2, 0.000892 
+
+D,8,100,Algoritmo_2, 0.000517 
+
+D,8,100,Algoritmo_2, 0.000734 
+
+D,8,100,Algoritmo_2, 0.000509 
+
+D,8,100,Algoritmo_2, 0.000615 
+
+D,8,100,Algoritmo_2, 0.000508 
+
+D,8,100,Algoritmo_2, 0.000963 
+
+D,8,100,Algoritmo_2, 0.000916 
+
+D,8,100,Algoritmo_2, 0.000994 
+
+D,8,100,Algoritmo_2, 0.000911 
+
+D,8,100,Algoritmo_2, 0.000947 
+
+D,8,100,Algoritmo_2, 0.000914 
+
+D,8,100,Algoritmo_2, 0.000915 
+
+D,8,100,Algoritmo_2, 0.000851 
+
+D,8,100,Algoritmo_2, 0.000851 
+
+D,8,100,Algoritmo_2, 0.000896 
+
+D,8,100,Algoritmo_2, 0.000920 
+
+D,8,100,Algoritmo_2, 0.000927 
+
+D,1,100,Algoritmo_3, 0.002924 
+
+D,1,100,Algoritmo_3, 0.002952 
+
+D,1,100,Algoritmo_3, 0.007320 
+
+D,1,100,Algoritmo_3, 0.006458 
+
+D,1,100,Algoritmo_3, 0.002938 
+
+D,1,100,Algoritmo_3, 0.008872 
+
+D,1,100,Algoritmo_3, 0.008767 
+
+D,1,100,Algoritmo_3, 0.003654 
+
+D,1,100,Algoritmo_3, 0.008106 
+
+D,1,100,Algoritmo_3, 0.003339 
+
+D,1,100,Algoritmo_3, 0.002955 
+
+D,1,100,Algoritmo_3, 0.009031 
+
+D,1,100,Algoritmo_3, 0.003239 
+
+D,1,100,Algoritmo_3, 0.007333 
+
+D,1,100,Algoritmo_3, 0.002907 
+
+D,1,100,Algoritmo_3, 0.004921 
+
+D,1,100,Algoritmo_3, 0.008391 
+
+D,1,100,Algoritmo_3, 0.003320 
+
+D,1,100,Algoritmo_3, 0.008117 
+
+D,1,100,Algoritmo_3, 0.008939 
+
+D,1,100,Algoritmo_3, 0.003313 
+
+D,1,100,Algoritmo_3, 0.003318 
+
+D,1,100,Algoritmo_3, 0.003258 
+
+D,1,100,Algoritmo_3, 0.003008 
+
+D,1,100,Algoritmo_3, 0.007933 
+
+D,1,100,Algoritmo_3, 0.008002 
+
+D,1,100,Algoritmo_3, 0.007985 
+
+D,1,100,Algoritmo_3, 0.009063 
+
+D,1,100,Algoritmo_3, 0.008535 
+
+D,1,100,Algoritmo_3, 0.006049 
+
+D,1,100,Algoritmo_3, 0.002942 
+
+D,1,100,Algoritmo_3, 0.008537 
+
+D,1,100,Algoritmo_3, 0.002900 
+
+D,1,100,Algoritmo_3, 0.003654 
+
+D,1,100,Algoritmo_3, 0.004488 
+
+D,1,100,Algoritmo_3, 0.007548 
+
+D,2,100,Algoritmo_3, 0.005513 
+
+D,2,100,Algoritmo_3, 0.002226 
+
+D,2,100,Algoritmo_3, 0.001955 
+
+D,2,100,Algoritmo_3, 0.001961 
+
+D,2,100,Algoritmo_3, 0.001837 
+
+D,2,100,Algoritmo_3, 0.001864 
+
+D,2,100,Algoritmo_3, 0.002275 
+
+D,2,100,Algoritmo_3, 0.002259 
+
+D,2,100,Algoritmo_3, 0.002864 
+
+D,2,100,Algoritmo_3, 0.003895 
+
+D,2,100,Algoritmo_3, 0.003987 
+
+D,2,100,Algoritmo_3, 0.005043 
+
+D,2,100,Algoritmo_3, 0.003890 
+
+D,2,100,Algoritmo_3, 0.004087 
+
+D,2,100,Algoritmo_3, 0.003789 
+
+D,2,100,Algoritmo_3, 0.002529 
+
+D,2,100,Algoritmo_3, 0.002173 
+
+D,2,100,Algoritmo_3, 0.001840 
+
+D,2,100,Algoritmo_3, 0.002204 
+
+D,2,100,Algoritmo_3, 0.001433 
+
+D,2,100,Algoritmo_3, 0.003070 
+
+D,2,100,Algoritmo_3, 0.002663 
+
+D,2,100,Algoritmo_3, 0.005091 
+
+D,2,100,Algoritmo_3, 0.003940 
+
+D,2,100,Algoritmo_3, 0.004893 
+
+D,2,100,Algoritmo_3, 0.001987 
+
+D,2,100,Algoritmo_3, 0.001774 
+
+D,2,100,Algoritmo_3, 0.001650 
+
+D,2,100,Algoritmo_3, 0.001533 
+
+D,2,100,Algoritmo_3, 0.001424 
+
+D,2,100,Algoritmo_3, 0.001535 
+
+D,2,100,Algoritmo_3, 0.001526 
+
+D,2,100,Algoritmo_3, 0.001444 
+
+D,2,100,Algoritmo_3, 0.001916 
+
+D,2,100,Algoritmo_3, 0.001536 
+
+D,2,100,Algoritmo_3, 0.001588 
+
+D,4,100,Algoritmo_3, 0.001657 
+
+D,4,100,Algoritmo_3, 0.001591 
+
+D,4,100,Algoritmo_3, 0.001609 
+
+D,4,100,Algoritmo_3, 0.001591 
+
+D,4,100,Algoritmo_3, 0.001625 
+
+D,4,100,Algoritmo_3, 0.002170 
+
+D,4,100,Algoritmo_3, 0.001986 
+
+D,4,100,Algoritmo_3, 0.003112 
+
+D,4,100,Algoritmo_3, 0.001658 
+
+D,4,100,Algoritmo_3, 0.002134 
+
+D,4,100,Algoritmo_3, 0.002231 
+
+D,4,100,Algoritmo_3, 0.001822 
+
+D,4,100,Algoritmo_3, 0.001583 
+
+D,4,100,Algoritmo_3, 0.002033 
+
+D,4,100,Algoritmo_3, 0.001932 
+
+D,4,100,Algoritmo_3, 0.001948 
+
+D,4,100,Algoritmo_3, 0.002456 
+
+D,4,100,Algoritmo_3, 0.001997 
+
+D,4,100,Algoritmo_3, 0.002184 
+
+D,4,100,Algoritmo_3, 0.002153 
+
+D,4,100,Algoritmo_3, 0.002462 
+
+D,4,100,Algoritmo_3, 0.002096 
+
+D,4,100,Algoritmo_3, 0.002356 
+
+D,4,100,Algoritmo_3, 0.001887 
+
+D,4,100,Algoritmo_3, 0.002718 
+
+D,4,100,Algoritmo_3, 0.001616 
+
+D,4,100,Algoritmo_3, 0.002310 
+
+D,4,100,Algoritmo_3, 0.002171 
+
+D,4,100,Algoritmo_3, 0.001485 
+
+D,4,100,Algoritmo_3, 0.001457 
+
+D,4,100,Algoritmo_3, 0.001594 
+
+D,4,100,Algoritmo_3, 0.001611 
+
+D,4,100,Algoritmo_3, 0.002058 
+
+D,4,100,Algoritmo_3, 0.001689 
+
+D,4,100,Algoritmo_3, 0.001583 
+
+D,4,100,Algoritmo_3, 0.001603 
+
+D,8,100,Algoritmo_3, 0.000956 
+
+D,8,100,Algoritmo_3, 0.000883 
+
+D,8,100,Algoritmo_3, 0.000918 
+
+D,8,100,Algoritmo_3, 0.001242 
+
+D,8,100,Algoritmo_3, 0.000885 
+
+D,8,100,Algoritmo_3, 0.000970 
+
+D,8,100,Algoritmo_3, 0.001313 
+
+D,8,100,Algoritmo_3, 0.000932 
+
+D,8,100,Algoritmo_3, 0.000863 
+
+D,8,100,Algoritmo_3, 0.000937 
+
+D,8,100,Algoritmo_3, 0.000883 
+
+D,8,100,Algoritmo_3, 0.000928 
+
+D,8,100,Algoritmo_3, 0.000881 
+
+D,8,100,Algoritmo_3, 0.000591 
+
+D,8,100,Algoritmo_3, 0.000639 
+
+D,8,100,Algoritmo_3, 0.000746 
+
+D,8,100,Algoritmo_3, 0.000820 
+
+D,8,100,Algoritmo_3, 0.000883 
+
+D,8,100,Algoritmo_3, 0.000876 
+
+D,8,100,Algoritmo_3, 0.000898 
+
+D,8,100,Algoritmo_3, 0.000881 
+
+D,8,100,Algoritmo_3, 0.000919 
+
+D,8,100,Algoritmo_3, 0.001009 
+
+D,8,100,Algoritmo_3, 0.001300 
+
+D,8,100,Algoritmo_3, 0.001028 
+
+D,8,100,Algoritmo_3, 0.000888 
+
+D,8,100,Algoritmo_3, 0.000927 
+
+D,8,100,Algoritmo_3, 0.000880 
+
+D,8,100,Algoritmo_3, 0.000923 
+
+D,8,100,Algoritmo_3, 0.000886 
+
+D,8,100,Algoritmo_3, 0.000858 
+
+D,8,100,Algoritmo_3, 0.000862 
+
+D,8,100,Algoritmo_3, 0.000891 
+
+D,8,100,Algoritmo_3, 0.000966 
+
+D,8,100,Algoritmo_3, 0.001295 
+
+D,8,100,Algoritmo_3, 0.000980 
+
+D,1,200,Algoritmo_1, 0.020861 
+
+D,1,200,Algoritmo_1, 0.020824 
+
+D,1,200,Algoritmo_1, 0.020541 
+
+D,1,200,Algoritmo_1, 0.020668 
+
+D,1,200,Algoritmo_1, 0.020562 
+
+D,1,200,Algoritmo_1, 0.020533 
+
+D,1,200,Algoritmo_1, 0.020560 
+
+D,1,200,Algoritmo_1, 0.020592 
+
+D,1,200,Algoritmo_1, 0.020565 
+
+D,1,200,Algoritmo_1, 0.020528 
+
+D,1,200,Algoritmo_1, 0.020537 
+
+D,1,200,Algoritmo_1, 0.020533 
+
+D,1,200,Algoritmo_1, 0.020519 
+
+D,1,200,Algoritmo_1, 0.020567 
+
+D,1,200,Algoritmo_1, 0.020840 
+
+D,1,200,Algoritmo_1, 0.020530 
+
+D,1,200,Algoritmo_1, 0.020535 
+
+D,1,200,Algoritmo_1, 0.020596 
+
+D,1,200,Algoritmo_1, 0.020525 
+
+D,1,200,Algoritmo_1, 0.020561 
+
+D,1,200,Algoritmo_1, 0.020548 
+
+D,1,200,Algoritmo_1, 0.020534 
+
+D,1,200,Algoritmo_1, 0.020535 
+
+D,1,200,Algoritmo_1, 0.020632 
+
+D,1,200,Algoritmo_1, 0.020543 
+
+D,1,200,Algoritmo_1, 0.020578 
+
+D,1,200,Algoritmo_1, 0.020558 
+
+D,1,200,Algoritmo_1, 0.020550 
+
+D,1,200,Algoritmo_1, 0.026268 
+
+D,1,200,Algoritmo_1, 0.026933 
+
+D,1,200,Algoritmo_1, 0.024080 
+
+D,1,200,Algoritmo_1, 0.026171 
+
+D,1,200,Algoritmo_1, 0.021208 
+
+D,1,200,Algoritmo_1, 0.020620 
+
+D,1,200,Algoritmo_1, 0.020578 
+
+D,1,200,Algoritmo_1, 0.020536 
+
+D,2,200,Algoritmo_1, 0.013888 
+
+D,2,200,Algoritmo_1, 0.010691 
+
+D,2,200,Algoritmo_1, 0.010344 
+
+D,2,200,Algoritmo_1, 0.010908 
+
+D,2,200,Algoritmo_1, 0.015535 
+
+D,2,200,Algoritmo_1, 0.017079 
+
+D,2,200,Algoritmo_1, 0.010729 
+
+D,2,200,Algoritmo_1, 0.010407 
+
+D,2,200,Algoritmo_1, 0.010350 
+
+D,2,200,Algoritmo_1, 0.010353 
+
+D,2,200,Algoritmo_1, 0.010357 
+
+D,2,200,Algoritmo_1, 0.010415 
+
+D,2,200,Algoritmo_1, 0.010347 
+
+D,2,200,Algoritmo_1, 0.010347 
+
+D,2,200,Algoritmo_1, 0.010339 
+
+D,2,200,Algoritmo_1, 0.010395 
+
+D,2,200,Algoritmo_1, 0.010330 
+
+D,2,200,Algoritmo_1, 0.018687 
+
+D,2,200,Algoritmo_1, 0.020080 
+
+D,2,200,Algoritmo_1, 0.018951 
+
+D,2,200,Algoritmo_1, 0.015155 
+
+D,2,200,Algoritmo_1, 0.010349 
+
+D,2,200,Algoritmo_1, 0.010468 
+
+D,2,200,Algoritmo_1, 0.010437 
+
+D,2,200,Algoritmo_1, 0.010351 
+
+D,2,200,Algoritmo_1, 0.010350 
+
+D,2,200,Algoritmo_1, 0.010346 
+
+D,2,200,Algoritmo_1, 0.010322 
+
+D,2,200,Algoritmo_1, 0.010329 
+
+D,2,200,Algoritmo_1, 0.010331 
+
+D,2,200,Algoritmo_1, 0.010330 
+
+D,2,200,Algoritmo_1, 0.010356 
+
+D,2,200,Algoritmo_1, 0.010432 
+
+D,2,200,Algoritmo_1, 0.010421 
+
+D,2,200,Algoritmo_1, 0.010577 
+
+D,2,200,Algoritmo_1, 0.010561 
+
+D,4,200,Algoritmo_1, 0.012117 
+
+D,4,200,Algoritmo_1, 0.012464 
+
+D,4,200,Algoritmo_1, 0.011067 
+
+D,4,200,Algoritmo_1, 0.012771 
+
+D,4,200,Algoritmo_1, 0.009687 
+
+D,4,200,Algoritmo_1, 0.005954 
+
+D,4,200,Algoritmo_1, 0.005981 
+
+D,4,200,Algoritmo_1, 0.005968 
+
+D,4,200,Algoritmo_1, 0.005625 
+
+D,4,200,Algoritmo_1, 0.005979 
+
+D,4,200,Algoritmo_1, 0.006010 
+
+D,4,200,Algoritmo_1, 0.011828 
+
+D,4,200,Algoritmo_1, 0.008847 
+
+D,4,200,Algoritmo_1, 0.012727 
+
+D,4,200,Algoritmo_1, 0.005952 
+
+D,4,200,Algoritmo_1, 0.009124 
+
+D,4,200,Algoritmo_1, 0.011005 
+
+D,4,200,Algoritmo_1, 0.013656 
+
+D,4,200,Algoritmo_1, 0.011529 
+
+D,4,200,Algoritmo_1, 0.012225 
+
+D,4,200,Algoritmo_1, 0.013356 
+
+D,4,200,Algoritmo_1, 0.014559 
+
+D,4,200,Algoritmo_1, 0.011565 
+
+D,4,200,Algoritmo_1, 0.009990 
+
+D,4,200,Algoritmo_1, 0.012231 
+
+D,4,200,Algoritmo_1, 0.008798 
+
+D,4,200,Algoritmo_1, 0.012394 
+
+D,4,200,Algoritmo_1, 0.011691 
+
+D,4,200,Algoritmo_1, 0.005699 
+
+D,4,200,Algoritmo_1, 0.005780 
+
+D,4,200,Algoritmo_1, 0.006042 
+
+D,4,200,Algoritmo_1, 0.011865 
+
+D,4,200,Algoritmo_1, 0.005660 
+
+D,4,200,Algoritmo_1, 0.011696 
+
+D,4,200,Algoritmo_1, 0.012433 
+
+D,4,200,Algoritmo_1, 0.011309 
+
+D,8,200,Algoritmo_1, 0.006426 
+
+D,8,200,Algoritmo_1, 0.005352 
+
+D,8,200,Algoritmo_1, 0.003725 
+
+D,8,200,Algoritmo_1, 0.004041 
+
+D,8,200,Algoritmo_1, 0.003839 
+
+D,8,200,Algoritmo_1, 0.003550 
+
+D,8,200,Algoritmo_1, 0.003962 
+
+D,8,200,Algoritmo_1, 0.003844 
+
+D,8,200,Algoritmo_1, 0.003796 
+
+D,8,200,Algoritmo_1, 0.003987 
+
+D,8,200,Algoritmo_1, 0.004563 
+
+D,8,200,Algoritmo_1, 0.004772 
+
+D,8,200,Algoritmo_1, 0.005636 
+
+D,8,200,Algoritmo_1, 0.003568 
+
+D,8,200,Algoritmo_1, 0.003571 
+
+D,8,200,Algoritmo_1, 0.004209 
+
+D,8,200,Algoritmo_1, 0.003599 
+
+D,8,200,Algoritmo_1, 0.005479 
+
+D,8,200,Algoritmo_1, 0.004999 
+
+D,8,200,Algoritmo_1, 0.003812 
+
+D,8,200,Algoritmo_1, 0.003594 
+
+D,8,200,Algoritmo_1, 0.003415 
+
+D,8,200,Algoritmo_1, 0.003701 
+
+D,8,200,Algoritmo_1, 0.003361 
+
+D,8,200,Algoritmo_1, 0.006292 
+
+D,8,200,Algoritmo_1, 0.003793 
+
+D,8,200,Algoritmo_1, 0.003766 
+
+D,8,200,Algoritmo_1, 0.004531 
+
+D,8,200,Algoritmo_1, 0.003391 
+
+D,8,200,Algoritmo_1, 0.004605 
+
+D,8,200,Algoritmo_1, 0.003489 
+
+D,8,200,Algoritmo_1, 0.003667 
+
+D,8,200,Algoritmo_1, 0.003483 
+
+D,8,200,Algoritmo_1, 0.006324 
+
+D,8,200,Algoritmo_1, 0.003988 
+
+D,8,200,Algoritmo_1, 0.003488 
+
+D,1,200,Algoritmo_2, 0.021471 
+
+D,1,200,Algoritmo_2, 0.021494 
+
+D,1,200,Algoritmo_2, 0.021473 
+
+D,1,200,Algoritmo_2, 0.021719 
+
+D,1,200,Algoritmo_2, 0.021322 
+
+D,1,200,Algoritmo_2, 0.021349 
+
+D,1,200,Algoritmo_2, 0.021359 
+
+D,1,200,Algoritmo_2, 0.021274 
+
+D,1,200,Algoritmo_2, 0.021292 
+
+D,1,200,Algoritmo_2, 0.021300 
+
+D,1,200,Algoritmo_2, 0.021288 
+
+D,1,200,Algoritmo_2, 0.021284 
+
+D,1,200,Algoritmo_2, 0.021293 
+
+D,1,200,Algoritmo_2, 0.021284 
+
+D,1,200,Algoritmo_2, 0.021300 
+
+D,1,200,Algoritmo_2, 0.021274 
+
+D,1,200,Algoritmo_2, 0.021324 
+
+D,1,200,Algoritmo_2, 0.021348 
+
+D,1,200,Algoritmo_2, 0.021296 
+
+D,1,200,Algoritmo_2, 0.021305 
+
+D,1,200,Algoritmo_2, 0.021272 
+
+D,1,200,Algoritmo_2, 0.021279 
+
+D,1,200,Algoritmo_2, 0.021356 
+
+D,1,200,Algoritmo_2, 0.021354 
+
+D,1,200,Algoritmo_2, 0.021310 
+
+D,1,200,Algoritmo_2, 0.021293 
+
+D,1,200,Algoritmo_2, 0.021320 
+
+D,1,200,Algoritmo_2, 0.021271 
+
+D,1,200,Algoritmo_2, 0.021576 
+
+D,1,200,Algoritmo_2, 0.021308 
+
+D,1,200,Algoritmo_2, 0.021319 
+
+D,1,200,Algoritmo_2, 0.021308 
+
+D,1,200,Algoritmo_2, 0.021312 
+
+D,1,200,Algoritmo_2, 0.021279 
+
+D,1,200,Algoritmo_2, 0.021301 
+
+D,1,200,Algoritmo_2, 0.021309 
+
+D,2,200,Algoritmo_2, 0.019835 
+
+D,2,200,Algoritmo_2, 0.010849 
+
+D,2,200,Algoritmo_2, 0.019054 
+
+D,2,200,Algoritmo_2, 0.017744 
+
+D,2,200,Algoritmo_2, 0.010816 
+
+D,2,200,Algoritmo_2, 0.010754 
+
+D,2,200,Algoritmo_2, 0.019237 
+
+D,2,200,Algoritmo_2, 0.017325 
+
+D,2,200,Algoritmo_2, 0.017528 
+
+D,2,200,Algoritmo_2, 0.017914 
+
+D,2,200,Algoritmo_2, 0.017695 
+
+D,2,200,Algoritmo_2, 0.010831 
+
+D,2,200,Algoritmo_2, 0.011062 
+
+D,2,200,Algoritmo_2, 0.018684 
+
+D,2,200,Algoritmo_2, 0.015206 
+
+D,2,200,Algoritmo_2, 0.010790 
+
+D,2,200,Algoritmo_2, 0.010752 
+
+D,2,200,Algoritmo_2, 0.018801 
+
+D,2,200,Algoritmo_2, 0.017746 
+
+D,2,200,Algoritmo_2, 0.010810 
+
+D,2,200,Algoritmo_2, 0.010937 
+
+D,2,200,Algoritmo_2, 0.013708 
+
+D,2,200,Algoritmo_2, 0.018368 
+
+D,2,200,Algoritmo_2, 0.017225 
+
+D,2,200,Algoritmo_2, 0.011223 
+
+D,2,200,Algoritmo_2, 0.010774 
+
+D,2,200,Algoritmo_2, 0.013282 
+
+D,2,200,Algoritmo_2, 0.010800 
+
+D,2,200,Algoritmo_2, 0.013521 
+
+D,2,200,Algoritmo_2, 0.010793 
+
+D,2,200,Algoritmo_2, 0.010782 
+
+D,2,200,Algoritmo_2, 0.010820 
+
+D,2,200,Algoritmo_2, 0.010781 
+
+D,2,200,Algoritmo_2, 0.010793 
+
+D,2,200,Algoritmo_2, 0.010791 
+
+D,2,200,Algoritmo_2, 0.017609 
+
+D,4,200,Algoritmo_2, 0.014716 
+
+D,4,200,Algoritmo_2, 0.009555 
+
+D,4,200,Algoritmo_2, 0.015328 
+
+D,4,200,Algoritmo_2, 0.011485 
+
+D,4,200,Algoritmo_2, 0.005771 
+
+D,4,200,Algoritmo_2, 0.012537 
+
+D,4,200,Algoritmo_2, 0.011024 
+
+D,4,200,Algoritmo_2, 0.012379 
+
+D,4,200,Algoritmo_2, 0.012399 
+
+D,4,200,Algoritmo_2, 0.009243 
+
+D,4,200,Algoritmo_2, 0.014778 
+
+D,4,200,Algoritmo_2, 0.011950 
+
+D,4,200,Algoritmo_2, 0.006213 
+
+D,4,200,Algoritmo_2, 0.012609 
+
+D,4,200,Algoritmo_2, 0.006823 
+
+D,4,200,Algoritmo_2, 0.006039 
+
+D,4,200,Algoritmo_2, 0.006028 
+
+D,4,200,Algoritmo_2, 0.012545 
+
+D,4,200,Algoritmo_2, 0.012691 
+
+D,4,200,Algoritmo_2, 0.011735 
+
+D,4,200,Algoritmo_2, 0.012809 
+
+D,4,200,Algoritmo_2, 0.006425 
+
+D,4,200,Algoritmo_2, 0.006338 
+
+D,4,200,Algoritmo_2, 0.012494 
+
+D,4,200,Algoritmo_2, 0.010854 
+
+D,4,200,Algoritmo_2, 0.012869 
+
+D,4,200,Algoritmo_2, 0.006141 
+
+D,4,200,Algoritmo_2, 0.006062 
+
+D,4,200,Algoritmo_2, 0.006056 
+
+D,4,200,Algoritmo_2, 0.008311 
+
+D,4,200,Algoritmo_2, 0.011619 
+
+D,4,200,Algoritmo_2, 0.008468 
+
+D,4,200,Algoritmo_2, 0.006016 
+
+D,4,200,Algoritmo_2, 0.012337 
+
+D,4,200,Algoritmo_2, 0.005890 
+
+D,4,200,Algoritmo_2, 0.005971 
+
+D,8,200,Algoritmo_2, 0.005198 
+
+D,8,200,Algoritmo_2, 0.003961 
+
+D,8,200,Algoritmo_2, 0.004164 
+
+D,8,200,Algoritmo_2, 0.003519 
+
+D,8,200,Algoritmo_2, 0.003707 
+
+D,8,200,Algoritmo_2, 0.003685 
+
+D,8,200,Algoritmo_2, 0.006276 
+
+D,8,200,Algoritmo_2, 0.003642 
+
+D,8,200,Algoritmo_2, 0.003508 
+
+D,8,200,Algoritmo_2, 0.004652 
+
+D,8,200,Algoritmo_2, 0.003314 
+
+D,8,200,Algoritmo_2, 0.003666 
+
+D,8,200,Algoritmo_2, 0.003668 
+
+D,8,200,Algoritmo_2, 0.006517 
+
+D,8,200,Algoritmo_2, 0.003945 
+
+D,8,200,Algoritmo_2, 0.003291 
+
+D,8,200,Algoritmo_2, 0.005421 
+
+D,8,200,Algoritmo_2, 0.003785 
+
+D,8,200,Algoritmo_2, 0.003652 
+
+D,8,200,Algoritmo_2, 0.004829 
+
+D,8,200,Algoritmo_2, 0.003732 
+
+D,8,200,Algoritmo_2, 0.003985 
+
+D,8,200,Algoritmo_2, 0.004928 
+
+D,8,200,Algoritmo_2, 0.003652 
+
+D,8,200,Algoritmo_2, 0.006382 
+
+D,8,200,Algoritmo_2, 0.003765 
+
+D,8,200,Algoritmo_2, 0.004629 
+
+D,8,200,Algoritmo_2, 0.003605 
+
+D,8,200,Algoritmo_2, 0.006486 
+
+D,8,200,Algoritmo_2, 0.003546 
+
+D,8,200,Algoritmo_2, 0.005958 
+
+D,8,200,Algoritmo_2, 0.003716 
+
+D,8,200,Algoritmo_2, 0.003801 
+
+D,8,200,Algoritmo_2, 0.003702 
+
+D,8,200,Algoritmo_2, 0.004834 
+
+D,8,200,Algoritmo_2, 0.003512 
+
+D,1,200,Algoritmo_3, 0.021686 
+
+D,1,200,Algoritmo_3, 0.021687 
+
+D,1,200,Algoritmo_3, 0.022575 
+
+D,1,200,Algoritmo_3, 0.028589 
+
+D,1,200,Algoritmo_3, 0.022004 
+
+D,1,200,Algoritmo_3, 0.028117 
+
+D,1,200,Algoritmo_3, 0.024664 
+
+D,1,200,Algoritmo_3, 0.021953 
+
+D,1,200,Algoritmo_3, 0.021728 
+
+D,1,200,Algoritmo_3, 0.021842 
+
+D,1,200,Algoritmo_3, 0.022032 
+
+D,1,200,Algoritmo_3, 0.021943 
+
+D,1,200,Algoritmo_3, 0.021944 
+
+D,1,200,Algoritmo_3, 0.027699 
+
+D,1,200,Algoritmo_3, 0.026855 
+
+D,1,200,Algoritmo_3, 0.030169 
+
+D,1,200,Algoritmo_3, 0.029817 
+
+D,1,200,Algoritmo_3, 0.028806 
+
+D,1,200,Algoritmo_3, 0.025123 
+
+D,1,200,Algoritmo_3, 0.022187 
+
+D,1,200,Algoritmo_3, 0.021997 
+
+D,1,200,Algoritmo_3, 0.022026 
+
+D,1,200,Algoritmo_3, 0.021731 
+
+D,1,200,Algoritmo_3, 0.021991 
+
+D,1,200,Algoritmo_3, 0.022043 
+
+D,1,200,Algoritmo_3, 0.029836 
+
+D,1,200,Algoritmo_3, 0.029128 
+
+D,1,200,Algoritmo_3, 0.021870 
+
+D,1,200,Algoritmo_3, 0.021992 
+
+D,1,200,Algoritmo_3, 0.022380 
+
+D,1,200,Algoritmo_3, 0.022132 
+
+D,1,200,Algoritmo_3, 0.022089 
+
+D,1,200,Algoritmo_3, 0.029229 
+
+D,1,200,Algoritmo_3, 0.027444 
+
+D,1,200,Algoritmo_3, 0.029960 
+
+D,1,200,Algoritmo_3, 0.028105 
+
+D,2,200,Algoritmo_3, 0.020639 
+
+D,2,200,Algoritmo_3, 0.021003 
+
+D,2,200,Algoritmo_3, 0.018997 
+
+D,2,200,Algoritmo_3, 0.021444 
+
+D,2,200,Algoritmo_3, 0.020020 
+
+D,2,200,Algoritmo_3, 0.019169 
+
+D,2,200,Algoritmo_3, 0.017137 
+
+D,2,200,Algoritmo_3, 0.020157 
+
+D,2,200,Algoritmo_3, 0.017827 
+
+D,2,200,Algoritmo_3, 0.018807 
+
+D,2,200,Algoritmo_3, 0.019168 
+
+D,2,200,Algoritmo_3, 0.015617 
+
+D,2,200,Algoritmo_3, 0.018610 
+
+D,2,200,Algoritmo_3, 0.018957 
+
+D,2,200,Algoritmo_3, 0.020145 
+
+D,2,200,Algoritmo_3, 0.017909 
+
+D,2,200,Algoritmo_3, 0.020558 
+
+D,2,200,Algoritmo_3, 0.011518 
+
+D,2,200,Algoritmo_3, 0.011584 
+
+D,2,200,Algoritmo_3, 0.011633 
+
+D,2,200,Algoritmo_3, 0.020503 
+
+D,2,200,Algoritmo_3, 0.017225 
+
+D,2,200,Algoritmo_3, 0.018103 
+
+D,2,200,Algoritmo_3, 0.019833 
+
+D,2,200,Algoritmo_3, 0.019466 
+
+D,2,200,Algoritmo_3, 0.018729 
+
+D,2,200,Algoritmo_3, 0.011883 
+
+D,2,200,Algoritmo_3, 0.011257 
+
+D,2,200,Algoritmo_3, 0.011447 
+
+D,2,200,Algoritmo_3, 0.011209 
+
+D,2,200,Algoritmo_3, 0.011555 
+
+D,2,200,Algoritmo_3, 0.019166 
+
+D,2,200,Algoritmo_3, 0.020533 
+
+D,2,200,Algoritmo_3, 0.016594 
+
+D,2,200,Algoritmo_3, 0.016433 
+
+D,2,200,Algoritmo_3, 0.019219 
+
+D,4,200,Algoritmo_3, 0.013228 
+
+D,4,200,Algoritmo_3, 0.005837 
+
+D,4,200,Algoritmo_3, 0.006480 
+
+D,4,200,Algoritmo_3, 0.006016 
+
+D,4,200,Algoritmo_3, 0.006130 
+
+D,4,200,Algoritmo_3, 0.006490 
+
+D,4,200,Algoritmo_3, 0.013667 
+
+D,4,200,Algoritmo_3, 0.015876 
+
+D,4,200,Algoritmo_3, 0.013258 
+
+D,4,200,Algoritmo_3, 0.010572 
+
+D,4,200,Algoritmo_3, 0.012156 
+
+D,4,200,Algoritmo_3, 0.012184 
+
+D,4,200,Algoritmo_3, 0.006510 
+
+D,4,200,Algoritmo_3, 0.012430 
+
+D,4,200,Algoritmo_3, 0.009564 
+
+D,4,200,Algoritmo_3, 0.011706 
+
+D,4,200,Algoritmo_3, 0.006551 
+
+D,4,200,Algoritmo_3, 0.006065 
+
+D,4,200,Algoritmo_3, 0.005630 
+
+D,4,200,Algoritmo_3, 0.006258 
+
+D,4,200,Algoritmo_3, 0.013870 
+
+D,4,200,Algoritmo_3, 0.008924 
+
+D,4,200,Algoritmo_3, 0.013425 
+
+D,4,200,Algoritmo_3, 0.013505 
+
+D,4,200,Algoritmo_3, 0.013152 
+
+D,4,200,Algoritmo_3, 0.013529 
+
+D,4,200,Algoritmo_3, 0.012444 
+
+D,4,200,Algoritmo_3, 0.013061 
+
+D,4,200,Algoritmo_3, 0.013209 
+
+D,4,200,Algoritmo_3, 0.006307 
+
+D,4,200,Algoritmo_3, 0.011136 
+
+D,4,200,Algoritmo_3, 0.013835 
+
+D,4,200,Algoritmo_3, 0.013642 
+
+D,4,200,Algoritmo_3, 0.015500 
+
+D,4,200,Algoritmo_3, 0.013852 
+
+D,4,200,Algoritmo_3, 0.010566 
+
+D,8,200,Algoritmo_3, 0.008205 
+
+D,8,200,Algoritmo_3, 0.005701 
+
+D,8,200,Algoritmo_3, 0.006735 
+
+D,8,200,Algoritmo_3, 0.006741 
+
+D,8,200,Algoritmo_3, 0.004383 
+
+D,8,200,Algoritmo_3, 0.004056 
+
+D,8,200,Algoritmo_3, 0.006473 
+
+D,8,200,Algoritmo_3, 0.004261 
+
+D,8,200,Algoritmo_3, 0.006111 
+
+D,8,200,Algoritmo_3, 0.006468 
+
+D,8,200,Algoritmo_3, 0.005257 
+
+D,8,200,Algoritmo_3, 0.006306 
+
+D,8,200,Algoritmo_3, 0.005541 
+
+D,8,200,Algoritmo_3, 0.006330 
+
+D,8,200,Algoritmo_3, 0.006866 
+
+D,8,200,Algoritmo_3, 0.006902 
+
+D,8,200,Algoritmo_3, 0.006917 
+
+D,8,200,Algoritmo_3, 0.006566 
+
+D,8,200,Algoritmo_3, 0.006279 
+
+D,8,200,Algoritmo_3, 0.006741 
+
+D,8,200,Algoritmo_3, 0.005659 
+
+D,8,200,Algoritmo_3, 0.006171 
+
+D,8,200,Algoritmo_3, 0.006862 
+
+D,8,200,Algoritmo_3, 0.006518 
+
+D,8,200,Algoritmo_3, 0.006739 
+
+D,8,200,Algoritmo_3, 0.003790 
+
+D,8,200,Algoritmo_3, 0.004949 
+
+D,8,200,Algoritmo_3, 0.004123 
+
+D,8,200,Algoritmo_3, 0.004362 
+
+D,8,200,Algoritmo_3, 0.004431 
+
+D,8,200,Algoritmo_3, 0.003956 
+
+D,8,200,Algoritmo_3, 0.004121 
+
+D,8,200,Algoritmo_3, 0.005216 
+
+D,8,200,Algoritmo_3, 0.006821 
+
+D,8,200,Algoritmo_3, 0.006437 
+
+D,8,200,Algoritmo_3, 0.006777 
+
+D,1,400,Algoritmo_1, 0.177320 
+
+D,1,400,Algoritmo_1, 0.174145 
+
+D,1,400,Algoritmo_1, 0.181654 
+
+D,1,400,Algoritmo_1, 0.200462 
+
+D,1,400,Algoritmo_1, 0.178526 
+
+D,1,400,Algoritmo_1, 0.191437 
+
+D,1,400,Algoritmo_1, 0.192683 
+
+D,1,400,Algoritmo_1, 0.174750 
+
+D,1,400,Algoritmo_1, 0.170838 
+
+D,1,400,Algoritmo_1, 0.168069 
+
+D,1,400,Algoritmo_1, 0.168413 
+
+D,1,400,Algoritmo_1, 0.170111 
+
+D,1,400,Algoritmo_1, 0.167765 
+
+D,1,400,Algoritmo_1, 0.167129 
+
+D,1,400,Algoritmo_1, 0.169583 
+
+D,1,400,Algoritmo_1, 0.169135 
+
+D,1,400,Algoritmo_1, 0.168611 
+
+D,1,400,Algoritmo_1, 0.168091 
+
+D,1,400,Algoritmo_1, 0.166195 
+
+D,1,400,Algoritmo_1, 0.165589 
+
+D,1,400,Algoritmo_1, 0.171711 
+
+D,1,400,Algoritmo_1, 0.172054 
+
+D,1,400,Algoritmo_1, 0.166516 
+
+D,1,400,Algoritmo_1, 0.166118 
+
+D,1,400,Algoritmo_1, 0.166905 
+
+D,1,400,Algoritmo_1, 0.165766 
+
+D,1,400,Algoritmo_1, 0.166292 
+
+D,1,400,Algoritmo_1, 0.171974 
+
+D,1,400,Algoritmo_1, 0.167933 
+
+D,1,400,Algoritmo_1, 0.166458 
+
+D,1,400,Algoritmo_1, 0.165631 
+
+D,1,400,Algoritmo_1, 0.172317 
+
+D,1,400,Algoritmo_1, 0.166993 
+
+D,1,400,Algoritmo_1, 0.165654 
+
+D,1,400,Algoritmo_1, 0.167897 
+
+D,1,400,Algoritmo_1, 0.170837 
+
+D,2,400,Algoritmo_1, 0.091218 
+
+D,2,400,Algoritmo_1, 0.087598 
+
+D,2,400,Algoritmo_1, 0.092068 
+
+D,2,400,Algoritmo_1, 0.087347 
+
+D,2,400,Algoritmo_1, 0.092122 
+
+D,2,400,Algoritmo_1, 0.092870 
+
+D,2,400,Algoritmo_1, 0.088535 
+
+D,2,400,Algoritmo_1, 0.084302 
+
+D,2,400,Algoritmo_1, 0.092095 
+
+D,2,400,Algoritmo_1, 0.088050 
+
+D,2,400,Algoritmo_1, 0.086545 
+
+D,2,400,Algoritmo_1, 0.087075 
+
+D,2,400,Algoritmo_1, 0.093126 
+
+D,2,400,Algoritmo_1, 0.091183 
+
+D,2,400,Algoritmo_1, 0.091180 
+
+D,2,400,Algoritmo_1, 0.091897 
+
+D,2,400,Algoritmo_1, 0.094089 
+
+D,2,400,Algoritmo_1, 0.089422 
+
+D,2,400,Algoritmo_1, 0.092757 
+
+D,2,400,Algoritmo_1, 0.090090 
+
+D,2,400,Algoritmo_1, 0.085076 
+
+D,2,400,Algoritmo_1, 0.085498 
+
+D,2,400,Algoritmo_1, 0.088625 
+
+D,2,400,Algoritmo_1, 0.086955 
+
+D,2,400,Algoritmo_1, 0.086337 
+
+D,2,400,Algoritmo_1, 0.086535 
+
+D,2,400,Algoritmo_1, 0.092204 
+
+D,2,400,Algoritmo_1, 0.085202 
+
+D,2,400,Algoritmo_1, 0.085162 
+
+D,2,400,Algoritmo_1, 0.087603 
+
+D,2,400,Algoritmo_1, 0.083409 
+
+D,2,400,Algoritmo_1, 0.083302 
+
+D,2,400,Algoritmo_1, 0.083341 
+
+D,2,400,Algoritmo_1, 0.083424 
+
+D,2,400,Algoritmo_1, 0.083521 
+
+D,2,400,Algoritmo_1, 0.083476 
+
+D,4,400,Algoritmo_1, 0.051251 
+
+D,4,400,Algoritmo_1, 0.050673 
+
+D,4,400,Algoritmo_1, 0.048588 
+
+D,4,400,Algoritmo_1, 0.043458 
+
+D,4,400,Algoritmo_1, 0.045190 
+
+D,4,400,Algoritmo_1, 0.058836 
+
+D,4,400,Algoritmo_1, 0.050841 
+
+D,4,400,Algoritmo_1, 0.050503 
+
+D,4,400,Algoritmo_1, 0.050932 
+
+D,4,400,Algoritmo_1, 0.050954 
+
+D,4,400,Algoritmo_1, 0.051899 
+
+D,4,400,Algoritmo_1, 0.056418 
+
+D,4,400,Algoritmo_1, 0.053143 
+
+D,4,400,Algoritmo_1, 0.051243 
+
+D,4,400,Algoritmo_1, 0.047378 
+
+D,4,400,Algoritmo_1, 0.046629 
+
+D,4,400,Algoritmo_1, 0.053160 
+
+D,4,400,Algoritmo_1, 0.050007 
+
+D,4,400,Algoritmo_1, 0.049825 
+
+D,4,400,Algoritmo_1, 0.051825 
+
+D,4,400,Algoritmo_1, 0.052312 
+
+D,4,400,Algoritmo_1, 0.058385 
+
+D,4,400,Algoritmo_1, 0.065009 
+
+D,4,400,Algoritmo_1, 0.063139 
+
+D,4,400,Algoritmo_1, 0.050407 
+
+D,4,400,Algoritmo_1, 0.049070 
+
+D,4,400,Algoritmo_1, 0.046611 
+
+D,4,400,Algoritmo_1, 0.052565 
+
+D,4,400,Algoritmo_1, 0.049594 
+
+D,4,400,Algoritmo_1, 0.053807 
+
+D,4,400,Algoritmo_1, 0.044836 
+
+D,4,400,Algoritmo_1, 0.049655 
+
+D,4,400,Algoritmo_1, 0.046706 
+
+D,4,400,Algoritmo_1, 0.050247 
+
+D,4,400,Algoritmo_1, 0.050465 
+
+D,4,400,Algoritmo_1, 0.047456 
+
+D,8,400,Algoritmo_1, 0.032816 
+
+D,8,400,Algoritmo_1, 0.029932 
+
+D,8,400,Algoritmo_1, 0.034447 
+
+D,8,400,Algoritmo_1, 0.029763 
+
+D,8,400,Algoritmo_1, 0.029124 
+
+D,8,400,Algoritmo_1, 0.028282 
+
+D,8,400,Algoritmo_1, 0.030701 
+
+D,8,400,Algoritmo_1, 0.031416 
+
+D,8,400,Algoritmo_1, 0.031295 
+
+D,8,400,Algoritmo_1, 0.028108 
+
+D,8,400,Algoritmo_1, 0.029619 
+
+D,8,400,Algoritmo_1, 0.030353 
+
+D,8,400,Algoritmo_1, 0.030409 
+
+D,8,400,Algoritmo_1, 0.029088 
+
+D,8,400,Algoritmo_1, 0.033824 
+
+D,8,400,Algoritmo_1, 0.031179 
+
+D,8,400,Algoritmo_1, 0.029643 
+
+D,8,400,Algoritmo_1, 0.029664 
+
+D,8,400,Algoritmo_1, 0.029859 
+
+D,8,400,Algoritmo_1, 0.030084 
+
+D,8,400,Algoritmo_1, 0.031620 
+
+D,8,400,Algoritmo_1, 0.029202 
+
+D,8,400,Algoritmo_1, 0.028400 
+
+D,8,400,Algoritmo_1, 0.024602 
+
+D,8,400,Algoritmo_1, 0.028225 
+
+D,8,400,Algoritmo_1, 0.026299 
+
+D,8,400,Algoritmo_1, 0.028637 
+
+D,8,400,Algoritmo_1, 0.026504 
+
+D,8,400,Algoritmo_1, 0.027887 
+
+D,8,400,Algoritmo_1, 0.025500 
+
+D,8,400,Algoritmo_1, 0.025737 
+
+D,8,400,Algoritmo_1, 0.026687 
+
+D,8,400,Algoritmo_1, 0.026577 
+
+D,8,400,Algoritmo_1, 0.029395 
+
+D,8,400,Algoritmo_1, 0.028081 
+
+D,8,400,Algoritmo_1, 0.027774 
+
+D,1,400,Algoritmo_2, 0.172232 
+
+D,1,400,Algoritmo_2, 0.171617 
+
+D,1,400,Algoritmo_2, 0.171503 
+
+D,1,400,Algoritmo_2, 0.171683 
+
+D,1,400,Algoritmo_2, 0.171676 
+
+D,1,400,Algoritmo_2, 0.172169 
+
+D,1,400,Algoritmo_2, 0.171700 
+
+D,1,400,Algoritmo_2, 0.171728 
+
+D,1,400,Algoritmo_2, 0.171553 
+
+D,1,400,Algoritmo_2, 0.171609 
+
+D,1,400,Algoritmo_2, 0.171759 
+
+D,1,400,Algoritmo_2, 0.171751 
+
+D,1,400,Algoritmo_2, 0.176206 
+
+D,1,400,Algoritmo_2, 0.171756 
+
+D,1,400,Algoritmo_2, 0.171950 
+
+D,1,400,Algoritmo_2, 0.171962 
+
+D,1,400,Algoritmo_2, 0.172037 
+
+D,1,400,Algoritmo_2, 0.172086 
+
+D,1,400,Algoritmo_2, 0.172056 
+
+D,1,400,Algoritmo_2, 0.172381 
+
+D,1,400,Algoritmo_2, 0.177838 
+
+D,1,400,Algoritmo_2, 0.173973 
+
+D,1,400,Algoritmo_2, 0.172300 
+
+D,1,400,Algoritmo_2, 0.173821 
+
+D,1,400,Algoritmo_2, 0.174626 
+
+D,1,400,Algoritmo_2, 0.172088 
+
+D,1,400,Algoritmo_2, 0.176700 
+
+D,1,400,Algoritmo_2, 0.171795 
+
+D,1,400,Algoritmo_2, 0.172193 
+
+D,1,400,Algoritmo_2, 0.172082 
+
+D,1,400,Algoritmo_2, 0.171659 
+
+D,1,400,Algoritmo_2, 0.175892 
+
+D,1,400,Algoritmo_2, 0.176042 
+
+D,1,400,Algoritmo_2, 0.171805 
+
+D,1,400,Algoritmo_2, 0.171638 
+
+D,1,400,Algoritmo_2, 0.171496 
+
+D,2,400,Algoritmo_2, 0.092610 
+
+D,2,400,Algoritmo_2, 0.090808 
+
+D,2,400,Algoritmo_2, 0.086498 
+
+D,2,400,Algoritmo_2, 0.094267 
+
+D,2,400,Algoritmo_2, 0.094347 
+
+D,2,400,Algoritmo_2, 0.087493 
+
+D,2,400,Algoritmo_2, 0.091925 
+
+D,2,400,Algoritmo_2, 0.094649 
+
+D,2,400,Algoritmo_2, 0.092840 
+
+D,2,400,Algoritmo_2, 0.094256 
+
+D,2,400,Algoritmo_2, 0.086410 
+
+D,2,400,Algoritmo_2, 0.086559 
+
+D,2,400,Algoritmo_2, 0.091416 
+
+D,2,400,Algoritmo_2, 0.087028 
+
+D,2,400,Algoritmo_2, 0.094249 
+
+D,2,400,Algoritmo_2, 0.086821 
+
+D,2,400,Algoritmo_2, 0.091564 
+
+D,2,400,Algoritmo_2, 0.091459 
+
+D,2,400,Algoritmo_2, 0.094002 
+
+D,2,400,Algoritmo_2, 0.086378 
+
+D,2,400,Algoritmo_2, 0.094425 
+
+D,2,400,Algoritmo_2, 0.093654 
+
+D,2,400,Algoritmo_2, 0.087981 
+
+D,2,400,Algoritmo_2, 0.092752 
+
+D,2,400,Algoritmo_2, 0.106595 
+
+D,2,400,Algoritmo_2, 0.086663 
+
+D,2,400,Algoritmo_2, 0.091627 
+
+D,2,400,Algoritmo_2, 0.095819 
+
+D,2,400,Algoritmo_2, 0.086446 
+
+D,2,400,Algoritmo_2, 0.090482 
+
+D,2,400,Algoritmo_2, 0.093694 
+
+D,2,400,Algoritmo_2, 0.091770 
+
+D,2,400,Algoritmo_2, 0.094221 
+
+D,2,400,Algoritmo_2, 0.094515 
+
+D,2,400,Algoritmo_2, 0.086253 
+
+D,2,400,Algoritmo_2, 0.086460 
+
+D,4,400,Algoritmo_2, 0.050818 
+
+D,4,400,Algoritmo_2, 0.052788 
+
+D,4,400,Algoritmo_2, 0.050632 
+
+D,4,400,Algoritmo_2, 0.050904 
+
+D,4,400,Algoritmo_2, 0.052615 
+
+D,4,400,Algoritmo_2, 0.050900 
+
+D,4,400,Algoritmo_2, 0.046329 
+
+D,4,400,Algoritmo_2, 0.051299 
+
+D,4,400,Algoritmo_2, 0.050544 
+
+D,4,400,Algoritmo_2, 0.049806 
+
+D,4,400,Algoritmo_2, 0.052335 
+
+D,4,400,Algoritmo_2, 0.050881 
+
+D,4,400,Algoritmo_2, 0.049321 
+
+D,4,400,Algoritmo_2, 0.048140 
+
+D,4,400,Algoritmo_2, 0.050255 
+
+D,4,400,Algoritmo_2, 0.050567 
+
+D,4,400,Algoritmo_2, 0.054595 
+
+D,4,400,Algoritmo_2, 0.051579 
+
+D,4,400,Algoritmo_2, 0.051947 
+
+D,4,400,Algoritmo_2, 0.049592 
+
+D,4,400,Algoritmo_2, 0.047158 
+
+D,4,400,Algoritmo_2, 0.043750 
+
+D,4,400,Algoritmo_2, 0.059211 
+
+D,4,400,Algoritmo_2, 0.047612 
+
+D,4,400,Algoritmo_2, 0.051932 
+
+D,4,400,Algoritmo_2, 0.049420 
+
+D,4,400,Algoritmo_2, 0.046055 
+
+D,4,400,Algoritmo_2, 0.049439 
+
+D,4,400,Algoritmo_2, 0.043832 
+
+D,4,400,Algoritmo_2, 0.051782 
+
+D,4,400,Algoritmo_2, 0.051332 
+
+D,4,400,Algoritmo_2, 0.048966 
+
+D,4,400,Algoritmo_2, 0.051841 
+
+D,4,400,Algoritmo_2, 0.051305 
+
+D,4,400,Algoritmo_2, 0.051235 
+
+D,4,400,Algoritmo_2, 0.051331 
+
+D,8,400,Algoritmo_2, 0.030622 
+
+D,8,400,Algoritmo_2, 0.030361 
+
+D,8,400,Algoritmo_2, 0.026457 
+
+D,8,400,Algoritmo_2, 0.024505 
+
+D,8,400,Algoritmo_2, 0.026253 
+
+D,8,400,Algoritmo_2, 0.030094 
+
+D,8,400,Algoritmo_2, 0.029796 
+
+D,8,400,Algoritmo_2, 0.028976 
+
+D,8,400,Algoritmo_2, 0.030030 
+
+D,8,400,Algoritmo_2, 0.029850 
+
+D,8,400,Algoritmo_2, 0.028810 
+
+D,8,400,Algoritmo_2, 0.030052 
+
+D,8,400,Algoritmo_2, 0.032258 
+
+D,8,400,Algoritmo_2, 0.032469 
+
+D,8,400,Algoritmo_2, 0.031615 
+
+D,8,400,Algoritmo_2, 0.028937 
+
+D,8,400,Algoritmo_2, 0.028078 
+
+D,8,400,Algoritmo_2, 0.029467 
+
+D,8,400,Algoritmo_2, 0.032822 
+
+D,8,400,Algoritmo_2, 0.028936 
+
+D,8,400,Algoritmo_2, 0.030072 
+
+D,8,400,Algoritmo_2, 0.029844 
+
+D,8,400,Algoritmo_2, 0.028827 
+
+D,8,400,Algoritmo_2, 0.033844 
+
+D,8,400,Algoritmo_2, 0.034315 
+
+D,8,400,Algoritmo_2, 0.029990 
+
+D,8,400,Algoritmo_2, 0.030174 
+
+D,8,400,Algoritmo_2, 0.032123 
+
+D,8,400,Algoritmo_2, 0.027806 
+
+D,8,400,Algoritmo_2, 0.032131 
+
+D,8,400,Algoritmo_2, 0.031252 
+
+D,8,400,Algoritmo_2, 0.029747 
+
+D,8,400,Algoritmo_2, 0.029438 
+
+D,8,400,Algoritmo_2, 0.025700 
+
+D,8,400,Algoritmo_2, 0.029747 
+
+D,8,400,Algoritmo_2, 0.029734 
+
+D,1,400,Algoritmo_3, 0.175408 
+
+D,1,400,Algoritmo_3, 0.176690 
+
+D,1,400,Algoritmo_3, 0.177807 
+
+D,1,400,Algoritmo_3, 0.177998 
+
+D,1,400,Algoritmo_3, 0.178984 
+
+D,1,400,Algoritmo_3, 0.176913 
+
+D,1,400,Algoritmo_3, 0.179928 
+
+D,1,400,Algoritmo_3, 0.177048 
+
+D,1,400,Algoritmo_3, 0.176136 
+
+D,1,400,Algoritmo_3, 0.173934 
+
+D,1,400,Algoritmo_3, 0.174839 
+
+D,1,400,Algoritmo_3, 0.179700 
+
+D,1,400,Algoritmo_3, 0.177627 
+
+D,1,400,Algoritmo_3, 0.175241 
+
+D,1,400,Algoritmo_3, 0.176483 
+
+D,1,400,Algoritmo_3, 0.171350 
+
+D,1,400,Algoritmo_3, 0.174546 
+
+D,1,400,Algoritmo_3, 0.176355 
+
+D,1,400,Algoritmo_3, 0.178764 
+
+D,1,400,Algoritmo_3, 0.177516 
+
+D,1,400,Algoritmo_3, 0.177218 
+
+D,1,400,Algoritmo_3, 0.175281 
+
+D,1,400,Algoritmo_3, 0.177136 
+
+D,1,400,Algoritmo_3, 0.180087 
+
+D,1,400,Algoritmo_3, 0.182787 
+
+D,1,400,Algoritmo_3, 0.178204 
+
+D,1,400,Algoritmo_3, 0.174982 
+
+D,1,400,Algoritmo_3, 0.176134 
+
+D,1,400,Algoritmo_3, 0.178869 
+
+D,1,400,Algoritmo_3, 0.175047 
+
+D,1,400,Algoritmo_3, 0.178692 
+
+D,1,400,Algoritmo_3, 0.168490 
+
+D,1,400,Algoritmo_3, 0.176154 
+
+D,1,400,Algoritmo_3, 0.175966 
+
+D,1,400,Algoritmo_3, 0.177033 
+
+D,1,400,Algoritmo_3, 0.175704 
+
+D,2,400,Algoritmo_3, 0.092993 
+
+D,2,400,Algoritmo_3, 0.094064 
+
+D,2,400,Algoritmo_3, 0.092295 
+
+D,2,400,Algoritmo_3, 0.092322 
+
+D,2,400,Algoritmo_3, 0.094340 
+
+D,2,400,Algoritmo_3, 0.092250 
+
+D,2,400,Algoritmo_3, 0.096362 
+
+D,2,400,Algoritmo_3, 0.093057 
+
+D,2,400,Algoritmo_3, 0.097295 
+
+D,2,400,Algoritmo_3, 0.095548 
+
+D,2,400,Algoritmo_3, 0.096648 
+
+D,2,400,Algoritmo_3, 0.095687 
+
+D,2,400,Algoritmo_3, 0.092815 
+
+D,2,400,Algoritmo_3, 0.093895 
+
+D,2,400,Algoritmo_3, 0.094125 
+
+D,2,400,Algoritmo_3, 0.097576 
+
+D,2,400,Algoritmo_3, 0.096629 
+
+D,2,400,Algoritmo_3, 0.095646 
+
+D,2,400,Algoritmo_3, 0.098842 
+
+D,2,400,Algoritmo_3, 0.100032 
+
+D,2,400,Algoritmo_3, 0.093876 
+
+D,2,400,Algoritmo_3, 0.098636 
+
+D,2,400,Algoritmo_3, 0.096139 
+
+D,2,400,Algoritmo_3, 0.094849 
+
+D,2,400,Algoritmo_3, 0.095152 
+
+D,2,400,Algoritmo_3, 0.093171 
+
+D,2,400,Algoritmo_3, 0.095554 
+
+D,2,400,Algoritmo_3, 0.096033 
+
+D,2,400,Algoritmo_3, 0.094672 
+
+D,2,400,Algoritmo_3, 0.092297 
+
+D,2,400,Algoritmo_3, 0.090814 
+
+D,2,400,Algoritmo_3, 0.094238 
+
+D,2,400,Algoritmo_3, 0.093615 
+
+D,2,400,Algoritmo_3, 0.096801 
+
+D,2,400,Algoritmo_3, 0.096459 
+
+D,2,400,Algoritmo_3, 0.098124 
+
+D,4,400,Algoritmo_3, 0.051887 
+
+D,4,400,Algoritmo_3, 0.049504 
+
+D,4,400,Algoritmo_3, 0.054299 
+
+D,4,400,Algoritmo_3, 0.050561 
+
+D,4,400,Algoritmo_3, 0.051645 
+
+D,4,400,Algoritmo_3, 0.049747 
+
+D,4,400,Algoritmo_3, 0.053611 
+
+D,4,400,Algoritmo_3, 0.049812 
+
+D,4,400,Algoritmo_3, 0.052217 
+
+D,4,400,Algoritmo_3, 0.050175 
+
+D,4,400,Algoritmo_3, 0.056111 
+
+D,4,400,Algoritmo_3, 0.052660 
+
+D,4,400,Algoritmo_3, 0.050870 
+
+D,4,400,Algoritmo_3, 0.049516 
+
+D,4,400,Algoritmo_3, 0.053749 
+
+D,4,400,Algoritmo_3, 0.051787 
+
+D,4,400,Algoritmo_3, 0.050231 
+
+D,4,400,Algoritmo_3, 0.052717 
+
+D,4,400,Algoritmo_3, 0.052760 
+
+D,4,400,Algoritmo_3, 0.055789 
+
+D,4,400,Algoritmo_3, 0.050792 
+
+D,4,400,Algoritmo_3, 0.048290 
+
+D,4,400,Algoritmo_3, 0.049510 
+
+D,4,400,Algoritmo_3, 0.052356 
+
+D,4,400,Algoritmo_3, 0.051902 
+
+D,4,400,Algoritmo_3, 0.050535 
+
+D,4,400,Algoritmo_3, 0.053323 
+
+D,4,400,Algoritmo_3, 0.051598 
+
+D,4,400,Algoritmo_3, 0.052207 
+
+D,4,400,Algoritmo_3, 0.051768 
+
+D,4,400,Algoritmo_3, 0.052331 
+
+D,4,400,Algoritmo_3, 0.050146 
+
+D,4,400,Algoritmo_3, 0.052680 
+
+D,4,400,Algoritmo_3, 0.051038 
+
+D,4,400,Algoritmo_3, 0.048862 
+
+D,4,400,Algoritmo_3, 0.051941 
+
+D,8,400,Algoritmo_3, 0.033529 
+
+D,8,400,Algoritmo_3, 0.030697 
+
+D,8,400,Algoritmo_3, 0.026838 
+
+D,8,400,Algoritmo_3, 0.032305 
+
+D,8,400,Algoritmo_3, 0.029264 
+
+D,8,400,Algoritmo_3, 0.030034 
+
+D,8,400,Algoritmo_3, 0.035273 
+
+D,8,400,Algoritmo_3, 0.029125 
+
+D,8,400,Algoritmo_3, 0.031682 
+
+D,8,400,Algoritmo_3, 0.032639 
+
+D,8,400,Algoritmo_3, 0.031619 
+
+D,8,400,Algoritmo_3, 0.035853 
+
+D,8,400,Algoritmo_3, 0.032143 
+
+D,8,400,Algoritmo_3, 0.033403 
+
+D,8,400,Algoritmo_3, 0.028946 
+
+D,8,400,Algoritmo_3, 0.032048 
+
+D,8,400,Algoritmo_3, 0.026713 
+
+D,8,400,Algoritmo_3, 0.032655 
+
+D,8,400,Algoritmo_3, 0.029982 
+
+D,8,400,Algoritmo_3, 0.028427 
+
+D,8,400,Algoritmo_3, 0.028834 
+
+D,8,400,Algoritmo_3, 0.029716 
+
+D,8,400,Algoritmo_3, 0.030171 
+
+D,8,400,Algoritmo_3, 0.029773 
+
+D,8,400,Algoritmo_3, 0.029648 
+
+D,8,400,Algoritmo_3, 0.029816 
+
+D,8,400,Algoritmo_3, 0.030637 
+
+D,8,400,Algoritmo_3, 0.031343 
+
+D,8,400,Algoritmo_3, 0.035178 
+
+D,8,400,Algoritmo_3, 0.034930 
+
+D,8,400,Algoritmo_3, 0.029646 
+
+D,8,400,Algoritmo_3, 0.034756 
+
+D,8,400,Algoritmo_3, 0.029711 
+
+D,8,400,Algoritmo_3, 0.032045 
+
+D,8,400,Algoritmo_3, 0.030871 
+
+D,8,400,Algoritmo_3, 0.031229 
+
+D,1,1000,Algoritmo_1, 3.239640 
+
+D,1,1000,Algoritmo_1, 3.238466 
+
+D,1,1000,Algoritmo_1, 3.245442 
+
+D,1,1000,Algoritmo_1, 3.235790 
+
+D,1,1000,Algoritmo_1, 3.453154 
+
+D,1,1000,Algoritmo_1, 3.389514 
+
+D,1,1000,Algoritmo_1, 3.435184 
+
+D,1,1000,Algoritmo_1, 3.321574 
+
+D,1,1000,Algoritmo_1, 3.350815 
+
+D,1,1000,Algoritmo_1, 3.344901 
+
+D,1,1000,Algoritmo_1, 3.273002 
+
+D,1,1000,Algoritmo_1, 3.253701 
+
+D,1,1000,Algoritmo_1, 3.254965 
+
+D,1,1000,Algoritmo_1, 3.237821 
+
+D,1,1000,Algoritmo_1, 3.268226 
+
+D,1,1000,Algoritmo_1, 3.243979 
+
+D,1,1000,Algoritmo_1, 3.249264 
+
+D,1,1000,Algoritmo_1, 3.255278 
+
+D,1,1000,Algoritmo_1, 3.274948 
+
+D,1,1000,Algoritmo_1, 3.400350 
+
+D,1,1000,Algoritmo_1, 3.327440 
+
+D,1,1000,Algoritmo_1, 3.285202 
+
+D,1,1000,Algoritmo_1, 3.258596 
+
+D,1,1000,Algoritmo_1, 3.506992 
+
+D,1,1000,Algoritmo_1, 3.253976 
+
+D,1,1000,Algoritmo_1, 3.257422 
+
+D,1,1000,Algoritmo_1, 3.292905 
+
+D,1,1000,Algoritmo_1, 3.255934 
+
+D,1,1000,Algoritmo_1, 3.239783 
+
+D,1,1000,Algoritmo_1, 3.245915 
+
+D,1,1000,Algoritmo_1, 3.241430 
+
+D,1,1000,Algoritmo_1, 3.258617 
+
+D,1,1000,Algoritmo_1, 3.247759 
+
+D,1,1000,Algoritmo_1, 3.242397 
+
+D,1,1000,Algoritmo_1, 3.250882 
+
+D,1,1000,Algoritmo_1, 3.255371 
+
+D,2,1000,Algoritmo_1, 1.578021 
+
+D,2,1000,Algoritmo_1, 1.581910 
+
+D,2,1000,Algoritmo_1, 1.589282 
+
+D,2,1000,Algoritmo_1, 1.573159 
+
+D,2,1000,Algoritmo_1, 1.581905 
+
+D,2,1000,Algoritmo_1, 1.586737 
+
+D,2,1000,Algoritmo_1, 1.576678 
+
+D,2,1000,Algoritmo_1, 1.581412 
+
+D,2,1000,Algoritmo_1, 1.582086 
+
+D,2,1000,Algoritmo_1, 1.577386 
+
+D,2,1000,Algoritmo_1, 1.587268 
+
+D,2,1000,Algoritmo_1, 1.584293 
+
+D,2,1000,Algoritmo_1, 1.585418 
+
+D,2,1000,Algoritmo_1, 1.583588 
+
+D,2,1000,Algoritmo_1, 1.589417 
+
+D,2,1000,Algoritmo_1, 1.584374 
+
+D,2,1000,Algoritmo_1, 1.584171 
+
+D,2,1000,Algoritmo_1, 1.607281 
+
+D,2,1000,Algoritmo_1, 1.572775 
+
+D,2,1000,Algoritmo_1, 1.581258 
+
+D,2,1000,Algoritmo_1, 1.586688 
+
+D,2,1000,Algoritmo_1, 1.585453 
+
+D,2,1000,Algoritmo_1, 1.665258 
+
+D,2,1000,Algoritmo_1, 1.640146 
+
+D,2,1000,Algoritmo_1, 1.680954 
+
+D,2,1000,Algoritmo_1, 1.645455 
+
+D,2,1000,Algoritmo_1, 1.587512 
+
+D,2,1000,Algoritmo_1, 1.626473 
+
+D,2,1000,Algoritmo_1, 1.663109 
+
+D,2,1000,Algoritmo_1, 1.647006 
+
+D,2,1000,Algoritmo_1, 1.607909 
+
+D,2,1000,Algoritmo_1, 1.585343 
+
+D,2,1000,Algoritmo_1, 1.619038 
+
+D,2,1000,Algoritmo_1, 1.578107 
+
+D,2,1000,Algoritmo_1, 1.608784 
+
+D,2,1000,Algoritmo_1, 1.591849 
+
+D,4,1000,Algoritmo_1, 0.756233 
+
+D,4,1000,Algoritmo_1, 0.751131 
+
+D,4,1000,Algoritmo_1, 0.754820 
+
+D,4,1000,Algoritmo_1, 0.752263 
+
+D,4,1000,Algoritmo_1, 0.767056 
+
+D,4,1000,Algoritmo_1, 0.753343 
+
+D,4,1000,Algoritmo_1, 0.789271 
+
+D,4,1000,Algoritmo_1, 0.772267 
+
+D,4,1000,Algoritmo_1, 0.757613 
+
+D,4,1000,Algoritmo_1, 0.751303 
+
+D,4,1000,Algoritmo_1, 0.749097 
+
+D,4,1000,Algoritmo_1, 0.758600 
+
+D,4,1000,Algoritmo_1, 0.747789 
+
+D,4,1000,Algoritmo_1, 0.746349 
+
+D,4,1000,Algoritmo_1, 0.750185 
+
+D,4,1000,Algoritmo_1, 0.752757 
+
+D,4,1000,Algoritmo_1, 0.753831 
+
+D,4,1000,Algoritmo_1, 0.751140 
+
+D,4,1000,Algoritmo_1, 0.760681 
+
+D,4,1000,Algoritmo_1, 0.765304 
+
+D,4,1000,Algoritmo_1, 0.831080 
+
+D,4,1000,Algoritmo_1, 0.755507 
+
+D,4,1000,Algoritmo_1, 0.753068 
+
+D,4,1000,Algoritmo_1, 0.762849 
+
+D,4,1000,Algoritmo_1, 0.752863 
+
+D,4,1000,Algoritmo_1, 0.762329 
+
+D,4,1000,Algoritmo_1, 0.755239 
+
+D,4,1000,Algoritmo_1, 0.769274 
+
+D,4,1000,Algoritmo_1, 0.750369 
+
+D,4,1000,Algoritmo_1, 0.751391 
+
+D,4,1000,Algoritmo_1, 0.763066 
+
+D,4,1000,Algoritmo_1, 0.760573 
+
+D,4,1000,Algoritmo_1, 0.753378 
+
+D,4,1000,Algoritmo_1, 0.757337 
+
+D,4,1000,Algoritmo_1, 0.767842 
+
+D,4,1000,Algoritmo_1, 0.751487 
+
+D,8,1000,Algoritmo_1, 0.441988 
+
+D,8,1000,Algoritmo_1, 0.410003 
+
+D,8,1000,Algoritmo_1, 0.412996 
+
+D,8,1000,Algoritmo_1, 0.411856 
+
+D,8,1000,Algoritmo_1, 0.419268 
+
+D,8,1000,Algoritmo_1, 0.420135 
+
+D,8,1000,Algoritmo_1, 0.407859 
+
+D,8,1000,Algoritmo_1, 0.425471 
+
+D,8,1000,Algoritmo_1, 0.407883 
+
+D,8,1000,Algoritmo_1, 0.413150 
+
+D,8,1000,Algoritmo_1, 0.428422 
+
+D,8,1000,Algoritmo_1, 0.419094 
+
+D,8,1000,Algoritmo_1, 0.411396 
+
+D,8,1000,Algoritmo_1, 0.409785 
+
+D,8,1000,Algoritmo_1, 0.410291 
+
+D,8,1000,Algoritmo_1, 0.410275 
+
+D,8,1000,Algoritmo_1, 0.410181 
+
+D,8,1000,Algoritmo_1, 0.414822 
+
+D,8,1000,Algoritmo_1, 0.419184 
+
+D,8,1000,Algoritmo_1, 0.410813 
+
+D,8,1000,Algoritmo_1, 0.418623 
+
+D,8,1000,Algoritmo_1, 0.413139 
+
+D,8,1000,Algoritmo_1, 0.416878 
+
+D,8,1000,Algoritmo_1, 0.410137 
+
+D,8,1000,Algoritmo_1, 0.412220 
+
+D,8,1000,Algoritmo_1, 0.416564 
+
+D,8,1000,Algoritmo_1, 0.418252 
+
+D,8,1000,Algoritmo_1, 0.410161 
+
+D,8,1000,Algoritmo_1, 0.417244 
+
+D,8,1000,Algoritmo_1, 0.412490 
+
+D,8,1000,Algoritmo_1, 0.412563 
+
+D,8,1000,Algoritmo_1, 0.449733 
+
+D,8,1000,Algoritmo_1, 0.415480 
+
+D,8,1000,Algoritmo_1, 0.410710 
+
+D,8,1000,Algoritmo_1, 0.429244 
+
+D,8,1000,Algoritmo_1, 0.414750 
+
+D,1,1000,Algoritmo_2, 2.708187 
+
+D,1,1000,Algoritmo_2, 2.708575 
+
+D,1,1000,Algoritmo_2, 2.708158 
+
+D,1,1000,Algoritmo_2, 2.710351 
+
+D,1,1000,Algoritmo_2, 2.706085 
+
+D,1,1000,Algoritmo_2, 2.693691 
+
+D,1,1000,Algoritmo_2, 2.706690 
+
+D,1,1000,Algoritmo_2, 2.708120 
+
+D,1,1000,Algoritmo_2, 2.706504 
+
+D,1,1000,Algoritmo_2, 2.706698 
+
+D,1,1000,Algoritmo_2, 2.707854 
+
+D,1,1000,Algoritmo_2, 2.706591 
+
+D,1,1000,Algoritmo_2, 2.708293 
+
+D,1,1000,Algoritmo_2, 2.708696 
+
+D,1,1000,Algoritmo_2, 2.708815 
+
+D,1,1000,Algoritmo_2, 2.707106 
+
+D,1,1000,Algoritmo_2, 2.711828 
+
+D,1,1000,Algoritmo_2, 2.706457 
+
+D,1,1000,Algoritmo_2, 2.708370 
+
+D,1,1000,Algoritmo_2, 2.707268 
+
+D,1,1000,Algoritmo_2, 2.705579 
+
+D,1,1000,Algoritmo_2, 2.708153 
+
+D,1,1000,Algoritmo_2, 2.721085 
+
+D,1,1000,Algoritmo_2, 2.707682 
+
+D,1,1000,Algoritmo_2, 2.715128 
+
+D,1,1000,Algoritmo_2, 2.706081 
+
+D,1,1000,Algoritmo_2, 2.706953 
+
+D,1,1000,Algoritmo_2, 2.707054 
+
+D,1,1000,Algoritmo_2, 2.706614 
+
+D,1,1000,Algoritmo_2, 2.707291 
+
+D,1,1000,Algoritmo_2, 2.709946 
+
+D,1,1000,Algoritmo_2, 2.707942 
+
+D,1,1000,Algoritmo_2, 2.707203 
+
+D,1,1000,Algoritmo_2, 2.709855 
+
+D,1,1000,Algoritmo_2, 2.707758 
+
+D,1,1000,Algoritmo_2, 2.709222 
+
+D,2,1000,Algoritmo_2, 1.357848 
+
+D,2,1000,Algoritmo_2, 1.358072 
+
+D,2,1000,Algoritmo_2, 1.358054 
+
+D,2,1000,Algoritmo_2, 1.364387 
+
+D,2,1000,Algoritmo_2, 1.360647 
+
+D,2,1000,Algoritmo_2, 1.550512 
+
+D,2,1000,Algoritmo_2, 1.359608 
+
+D,2,1000,Algoritmo_2, 1.360856 
+
+D,2,1000,Algoritmo_2, 1.360400 
+
+D,2,1000,Algoritmo_2, 1.358517 
+
+D,2,1000,Algoritmo_2, 1.359292 
+
+D,2,1000,Algoritmo_2, 1.360380 
+
+D,2,1000,Algoritmo_2, 1.631649 
+
+D,2,1000,Algoritmo_2, 1.360646 
+
+D,2,1000,Algoritmo_2, 1.367005 
+
+D,2,1000,Algoritmo_2, 1.357502 
+
+D,2,1000,Algoritmo_2, 1.363075 
+
+D,2,1000,Algoritmo_2, 1.360567 
+
+D,2,1000,Algoritmo_2, 1.369406 
+
+D,2,1000,Algoritmo_2, 1.355770 
+
+D,2,1000,Algoritmo_2, 1.370695 
+
+D,2,1000,Algoritmo_2, 1.360824 
+
+D,2,1000,Algoritmo_2, 1.361984 
+
+D,2,1000,Algoritmo_2, 1.358379 
+
+D,2,1000,Algoritmo_2, 1.360588 
+
+D,2,1000,Algoritmo_2, 1.364058 
+
+D,2,1000,Algoritmo_2, 1.357185 
+
+D,2,1000,Algoritmo_2, 1.362495 
+
+D,2,1000,Algoritmo_2, 1.359857 
+
+D,2,1000,Algoritmo_2, 1.362580 
+
+D,2,1000,Algoritmo_2, 1.361618 
+
+D,2,1000,Algoritmo_2, 1.365131 
+
+D,2,1000,Algoritmo_2, 1.358333 
+
+D,2,1000,Algoritmo_2, 1.368507 
+
+D,2,1000,Algoritmo_2, 1.359669 
+
+D,2,1000,Algoritmo_2, 1.364792 
+
+D,4,1000,Algoritmo_2, 0.692920 
+
+D,4,1000,Algoritmo_2, 0.698784 
+
+D,4,1000,Algoritmo_2, 0.705384 
+
+D,4,1000,Algoritmo_2, 0.698146 
+
+D,4,1000,Algoritmo_2, 0.698147 
+
+D,4,1000,Algoritmo_2, 0.700179 
+
+D,4,1000,Algoritmo_2, 0.709910 
+
+D,4,1000,Algoritmo_2, 0.722112 
+
+D,4,1000,Algoritmo_2, 0.697288 
+
+D,4,1000,Algoritmo_2, 0.698093 
+
+D,4,1000,Algoritmo_2, 0.696494 
+
+D,4,1000,Algoritmo_2, 0.756269 
+
+D,4,1000,Algoritmo_2, 0.694891 
+
+D,4,1000,Algoritmo_2, 0.706526 
+
+D,4,1000,Algoritmo_2, 0.697977 
+
+D,4,1000,Algoritmo_2, 0.701178 
+
+D,4,1000,Algoritmo_2, 0.700396 
+
+D,4,1000,Algoritmo_2, 0.700386 
+
+D,4,1000,Algoritmo_2, 0.703284 
+
+D,4,1000,Algoritmo_2, 0.705067 
+
+D,4,1000,Algoritmo_2, 0.699768 
+
+D,4,1000,Algoritmo_2, 0.699354 
+
+D,4,1000,Algoritmo_2, 0.699188 
+
+D,4,1000,Algoritmo_2, 0.696101 
+
+D,4,1000,Algoritmo_2, 0.700361 
+
+D,4,1000,Algoritmo_2, 0.698033 
+
+D,4,1000,Algoritmo_2, 0.767821 
+
+D,4,1000,Algoritmo_2, 0.701391 
+
+D,4,1000,Algoritmo_2, 0.700317 
+
+D,4,1000,Algoritmo_2, 0.693477 
+
+D,4,1000,Algoritmo_2, 0.698565 
+
+D,4,1000,Algoritmo_2, 0.709080 
+
+D,4,1000,Algoritmo_2, 0.699005 
+
+D,4,1000,Algoritmo_2, 0.699196 
+
+D,4,1000,Algoritmo_2, 0.697708 
+
+D,4,1000,Algoritmo_2, 0.700067 
+
+D,8,1000,Algoritmo_2, 0.391343 
+
+D,8,1000,Algoritmo_2, 0.389468 
+
+D,8,1000,Algoritmo_2, 0.387115 
+
+D,8,1000,Algoritmo_2, 0.390176 
+
+D,8,1000,Algoritmo_2, 0.386894 
+
+D,8,1000,Algoritmo_2, 0.384508 
+
+D,8,1000,Algoritmo_2, 0.385322 
+
+D,8,1000,Algoritmo_2, 0.386152 
+
+D,8,1000,Algoritmo_2, 0.387983 
+
+D,8,1000,Algoritmo_2, 0.396920 
+
+D,8,1000,Algoritmo_2, 0.388312 
+
+D,8,1000,Algoritmo_2, 0.388692 
+
+D,8,1000,Algoritmo_2, 0.385920 
+
+D,8,1000,Algoritmo_2, 0.388405 
+
+D,8,1000,Algoritmo_2, 0.388023 
+
+D,8,1000,Algoritmo_2, 0.397092 
+
+D,8,1000,Algoritmo_2, 0.385998 
+
+D,8,1000,Algoritmo_2, 0.394697 
+
+D,8,1000,Algoritmo_2, 0.384490 
+
+D,8,1000,Algoritmo_2, 0.392472 
+
+D,8,1000,Algoritmo_2, 0.390499 
+
+D,8,1000,Algoritmo_2, 0.383602 
+
+D,8,1000,Algoritmo_2, 0.395675 
+
+D,8,1000,Algoritmo_2, 0.397134 
+
+D,8,1000,Algoritmo_2, 0.383415 
+
+D,8,1000,Algoritmo_2, 0.404895 
+
+D,8,1000,Algoritmo_2, 0.410956 
+
+D,8,1000,Algoritmo_2, 0.397359 
+
+D,8,1000,Algoritmo_2, 0.391022 
+
+D,8,1000,Algoritmo_2, 0.393376 
+
+D,8,1000,Algoritmo_2, 0.394440 
+
+D,8,1000,Algoritmo_2, 0.387545 
+
+D,8,1000,Algoritmo_2, 0.396495 
+
+D,8,1000,Algoritmo_2, 0.398082 
+
+D,8,1000,Algoritmo_2, 0.387547 
+
+D,8,1000,Algoritmo_2, 0.385425 
+
+D,1,1000,Algoritmo_3, 3.835798 
+
+D,1,1000,Algoritmo_3, 3.740971 
+
+D,1,1000,Algoritmo_3, 3.735678 
+
+D,1,1000,Algoritmo_3, 3.735884 
+
+D,1,1000,Algoritmo_3, 3.735493 
+
+D,1,1000,Algoritmo_3, 3.741089 
+
+D,1,1000,Algoritmo_3, 3.734975 
+
+D,1,1000,Algoritmo_3, 3.719849 
+
+D,1,1000,Algoritmo_3, 3.720555 
+
+D,1,1000,Algoritmo_3, 3.727402 
+
+D,1,1000,Algoritmo_3, 3.734295 
+
+D,1,1000,Algoritmo_3, 3.743027 
+
+D,1,1000,Algoritmo_3, 3.735649 
+
+D,1,1000,Algoritmo_3, 3.719765 
+
+D,1,1000,Algoritmo_3, 3.735508 
+
+D,1,1000,Algoritmo_3, 3.738651 
+
+D,1,1000,Algoritmo_3, 3.736512 
+
+D,1,1000,Algoritmo_3, 3.727462 
+
+D,1,1000,Algoritmo_3, 3.727168 
+
+D,1,1000,Algoritmo_3, 3.727539 
+
+D,1,1000,Algoritmo_3, 3.739774 
+
+D,1,1000,Algoritmo_3, 3.731413 
+
+D,1,1000,Algoritmo_3, 3.733750 
+
+D,1,1000,Algoritmo_3, 3.721954 
+
+D,1,1000,Algoritmo_3, 3.743213 
+
+D,1,1000,Algoritmo_3, 3.727609 
+
+D,1,1000,Algoritmo_3, 3.739734 
+
+D,1,1000,Algoritmo_3, 3.727858 
+
+D,1,1000,Algoritmo_3, 3.742927 
+
+D,1,1000,Algoritmo_3, 3.748929 
+
+D,1,1000,Algoritmo_3, 3.731474 
+
+D,1,1000,Algoritmo_3, 3.739504 
+
+D,1,1000,Algoritmo_3, 3.738173 
+
+D,1,1000,Algoritmo_3, 3.731403 
+
+D,1,1000,Algoritmo_3, 3.719782 
+
+D,1,1000,Algoritmo_3, 3.738963 
+
+D,2,1000,Algoritmo_3, 1.872315 
+
+D,2,1000,Algoritmo_3, 1.870425 
+
+D,2,1000,Algoritmo_3, 1.867690 
+
+D,2,1000,Algoritmo_3, 1.871056 
+
+D,2,1000,Algoritmo_3, 1.863204 
+
+D,2,1000,Algoritmo_3, 1.856115 
+
+D,2,1000,Algoritmo_3, 1.870080 
+
+D,2,1000,Algoritmo_3, 1.870781 
+
+D,2,1000,Algoritmo_3, 1.873459 
+
+D,2,1000,Algoritmo_3, 1.871295 
+
+D,2,1000,Algoritmo_3, 1.864910 
+
+D,2,1000,Algoritmo_3, 1.878931 
+
+D,2,1000,Algoritmo_3, 1.868264 
+
+D,2,1000,Algoritmo_3, 1.853896 
+
+D,2,1000,Algoritmo_3, 1.868465 
+
+D,2,1000,Algoritmo_3, 1.864838 
+
+D,2,1000,Algoritmo_3, 1.867766 
+
+D,2,1000,Algoritmo_3, 1.875248 
+
+D,2,1000,Algoritmo_3, 1.871532 
+
+D,2,1000,Algoritmo_3, 1.868192 
+
+D,2,1000,Algoritmo_3, 1.872278 
+
+D,2,1000,Algoritmo_3, 1.870701 
+
+D,2,1000,Algoritmo_3, 1.866893 
+
+D,2,1000,Algoritmo_3, 1.867139 
+
+D,2,1000,Algoritmo_3, 1.876079 
+
+D,2,1000,Algoritmo_3, 1.862285 
+
+D,2,1000,Algoritmo_3, 1.865932 
+
+D,2,1000,Algoritmo_3, 1.874582 
+
+D,2,1000,Algoritmo_3, 1.871396 
+
+D,2,1000,Algoritmo_3, 1.866794 
+
+D,2,1000,Algoritmo_3, 1.869408 
+
+D,2,1000,Algoritmo_3, 1.866282 
+
+D,2,1000,Algoritmo_3, 1.870124 
+
+D,2,1000,Algoritmo_3, 1.877913 
+
+D,2,1000,Algoritmo_3, 1.864616 
+
+D,2,1000,Algoritmo_3, 1.877007 
+
+D,4,1000,Algoritmo_3, 0.944681 
+
+D,4,1000,Algoritmo_3, 0.954895 
+
+D,4,1000,Algoritmo_3, 0.939693 
+
+D,4,1000,Algoritmo_3, 0.949501 
+
+D,4,1000,Algoritmo_3, 0.955937 
+
+D,4,1000,Algoritmo_3, 0.943931 
+
+D,4,1000,Algoritmo_3, 0.944553 
+
+D,4,1000,Algoritmo_3, 0.946707 
+
+D,4,1000,Algoritmo_3, 0.952200 
+
+D,4,1000,Algoritmo_3, 0.943516 
+
+D,4,1000,Algoritmo_3, 0.954774 
+
+D,4,1000,Algoritmo_3, 0.946408 
+
+D,4,1000,Algoritmo_3, 0.943164 
+
+D,4,1000,Algoritmo_3, 0.954903 
+
+D,4,1000,Algoritmo_3, 0.944806 
+
+D,4,1000,Algoritmo_3, 0.944842 
+
+D,4,1000,Algoritmo_3, 0.949319 
+
+D,4,1000,Algoritmo_3, 0.947358 
+
+D,4,1000,Algoritmo_3, 0.950964 
+
+D,4,1000,Algoritmo_3, 0.946054 
+
+D,4,1000,Algoritmo_3, 0.955290 
+
+D,4,1000,Algoritmo_3, 0.945374 
+
+D,4,1000,Algoritmo_3, 0.948945 
+
+D,4,1000,Algoritmo_3, 0.947561 
+
+D,4,1000,Algoritmo_3, 0.946445 
+
+D,4,1000,Algoritmo_3, 0.948125 
+
+D,4,1000,Algoritmo_3, 0.953691 
+
+D,4,1000,Algoritmo_3, 0.958526 
+
+D,4,1000,Algoritmo_3, 0.941897 
+
+D,4,1000,Algoritmo_3, 0.958573 
+
+D,4,1000,Algoritmo_3, 0.948616 
+
+D,4,1000,Algoritmo_3, 0.964550 
+
+D,4,1000,Algoritmo_3, 0.950715 
+
+D,4,1000,Algoritmo_3, 0.954131 
+
+D,4,1000,Algoritmo_3, 0.944828 
+
+D,4,1000,Algoritmo_3, 0.946264 
+
+D,8,1000,Algoritmo_3, 0.514288 
+
+D,8,1000,Algoritmo_3, 0.513395 
+
+D,8,1000,Algoritmo_3, 0.506853 
+
+D,8,1000,Algoritmo_3, 0.506396 
+
+D,8,1000,Algoritmo_3, 0.507956 
+
+D,8,1000,Algoritmo_3, 0.507414 
+
+D,8,1000,Algoritmo_3, 0.507611 
+
+D,8,1000,Algoritmo_3, 0.512032 
+
+D,8,1000,Algoritmo_3, 0.625742 
+
+D,8,1000,Algoritmo_3, 0.619802 
+
+D,8,1000,Algoritmo_3, 0.542714 
+
+D,8,1000,Algoritmo_3, 0.511795 
+
+D,8,1000,Algoritmo_3, 0.507164 
+
+D,8,1000,Algoritmo_3, 0.509717 
+
+D,8,1000,Algoritmo_3, 0.606174 
+
+D,8,1000,Algoritmo_3, 0.512589 
+
+D,8,1000,Algoritmo_3, 0.507463 
+
+D,8,1000,Algoritmo_3, 0.507322 
+
+D,8,1000,Algoritmo_3, 0.506805 
+
+D,8,1000,Algoritmo_3, 0.506886 
+
+D,8,1000,Algoritmo_3, 0.514101 
+
+D,8,1000,Algoritmo_3, 0.511945 
+
+D,8,1000,Algoritmo_3, 0.507597 
+
+D,8,1000,Algoritmo_3, 0.505095 
+
+D,8,1000,Algoritmo_3, 0.506987 
+
+D,8,1000,Algoritmo_3, 0.510421 
+
+D,8,1000,Algoritmo_3, 0.512916 
+
+D,8,1000,Algoritmo_3, 0.511143 
+
+D,8,1000,Algoritmo_3, 0.520216 
+
+D,8,1000,Algoritmo_3, 0.511936 
+
+D,8,1000,Algoritmo_3, 0.511351 
+
+D,8,1000,Algoritmo_3, 0.515508 
+
+D,8,1000,Algoritmo_3, 0.512382 
+
+D,8,1000,Algoritmo_3, 0.509086 
+
+D,8,1000,Algoritmo_3, 0.504211 
+
+D,8,1000,Algoritmo_3, 0.512278 
+
+D,1,2000,Algoritmo_1, 29.804595 
+
+D,1,2000,Algoritmo_1, 30.755843 
+
+D,1,2000,Algoritmo_1, 31.888552 
+
+D,1,2000,Algoritmo_1, 30.491504 
+
+D,1,2000,Algoritmo_1, 29.633580 
+
+D,1,2000,Algoritmo_1, 29.715818 
+
+D,1,2000,Algoritmo_1, 29.694609 
+
+D,1,2000,Algoritmo_1, 30.471041 
+
+D,1,2000,Algoritmo_1, 29.835499 
+
+D,1,2000,Algoritmo_1, 29.749519 
+
+D,1,2000,Algoritmo_1, 29.790828 
+
+D,1,2000,Algoritmo_1, 29.821829 
+
+D,1,2000,Algoritmo_1, 29.876202 
+
+D,1,2000,Algoritmo_1, 30.269105 
+
+D,1,2000,Algoritmo_1, 29.905685 
+
+D,1,2000,Algoritmo_1, 29.750392 
+
+D,1,2000,Algoritmo_1, 29.810292 
+
+D,1,2000,Algoritmo_1, 29.897299 
+
+D,1,2000,Algoritmo_1, 29.786038 
+
+D,1,2000,Algoritmo_1, 29.890058 
+
+D,1,2000,Algoritmo_1, 29.741163 
+
+D,1,2000,Algoritmo_1, 29.836137 
+
+D,1,2000,Algoritmo_1, 29.819343 
+
+D,1,2000,Algoritmo_1, 30.447956 
+
+D,1,2000,Algoritmo_1, 29.823938 
+
+D,1,2000,Algoritmo_1, 29.744581 
+
+D,1,2000,Algoritmo_1, 29.748835 
+
+D,1,2000,Algoritmo_1, 29.766170 
+
+D,1,2000,Algoritmo_1, 29.841233 
+
+D,1,2000,Algoritmo_1, 29.834663 
+
+D,1,2000,Algoritmo_1, 29.853961 
+
+D,1,2000,Algoritmo_1, 29.738642 
+
+D,1,2000,Algoritmo_1, 29.785221 
+
+D,1,2000,Algoritmo_1, 29.759665 
+
+D,1,2000,Algoritmo_1, 29.836971 
+
+D,1,2000,Algoritmo_1, 29.966035 
+
+D,2,2000,Algoritmo_1, 15.566029 
+
+D,2,2000,Algoritmo_1, 15.542788 
+
+D,2,2000,Algoritmo_1, 15.788525 
+
+D,2,2000,Algoritmo_1, 15.706626 
+
+D,2,2000,Algoritmo_1, 15.033448 
+
+D,2,2000,Algoritmo_1, 15.064324 
+
+D,2,2000,Algoritmo_1, 15.044312 
+
+D,2,2000,Algoritmo_1, 14.891015 
+
+D,2,2000,Algoritmo_1, 15.116483 
+
+D,2,2000,Algoritmo_1, 15.032912 
+
+D,2,2000,Algoritmo_1, 15.102672 
+
+D,2,2000,Algoritmo_1, 14.990530 
+
+D,2,2000,Algoritmo_1, 15.062195 
+
+D,2,2000,Algoritmo_1, 15.029130 
+
+D,2,2000,Algoritmo_1, 15.069648 
+
+D,2,2000,Algoritmo_1, 14.975744 
+
+D,2,2000,Algoritmo_1, 15.135529 
+
+D,2,2000,Algoritmo_1, 15.051085 
+
+D,2,2000,Algoritmo_1, 15.067572 
+
+D,2,2000,Algoritmo_1, 15.032890 
+
+D,2,2000,Algoritmo_1, 15.071646 
+
+D,2,2000,Algoritmo_1, 15.056151 
+
+D,2,2000,Algoritmo_1, 15.347532 
+
+D,2,2000,Algoritmo_1, 15.262228 
+
+D,2,2000,Algoritmo_1, 15.112373 
+
+D,2,2000,Algoritmo_1, 15.127116 
+
+D,2,2000,Algoritmo_1, 15.000920 
+
+D,2,2000,Algoritmo_1, 15.143448 
+
+D,2,2000,Algoritmo_1, 15.080613 
+
+D,2,2000,Algoritmo_1, 15.072172 
+
+D,2,2000,Algoritmo_1, 15.076528 
+
+D,2,2000,Algoritmo_1, 15.067726 
+
+D,2,2000,Algoritmo_1, 15.046876 
+
+D,2,2000,Algoritmo_1, 15.079156 
+
+D,2,2000,Algoritmo_1, 15.050199 
+
+D,2,2000,Algoritmo_1, 15.200330 
+
+D,4,2000,Algoritmo_1, 7.582214 
+
+D,4,2000,Algoritmo_1, 7.627454 
+
+D,4,2000,Algoritmo_1, 7.582960 
+
+D,4,2000,Algoritmo_1, 7.609070 
+
+D,4,2000,Algoritmo_1, 7.593429 
+
+D,4,2000,Algoritmo_1, 7.574009 
+
+D,4,2000,Algoritmo_1, 7.593585 
+
+D,4,2000,Algoritmo_1, 7.758456 
+
+D,4,2000,Algoritmo_1, 7.606875 
+
+D,4,2000,Algoritmo_1, 7.592162 
+
+D,4,2000,Algoritmo_1, 7.711312 
+
+D,4,2000,Algoritmo_1, 7.594149 
+
+D,4,2000,Algoritmo_1, 7.767996 
+
+D,4,2000,Algoritmo_1, 7.617421 
+
+D,4,2000,Algoritmo_1, 7.597280 
+
+D,4,2000,Algoritmo_1, 7.576138 
+
+D,4,2000,Algoritmo_1, 7.582875 
+
+D,4,2000,Algoritmo_1, 7.631744 
+
+D,4,2000,Algoritmo_1, 7.615352 
+
+D,4,2000,Algoritmo_1, 7.608684 
+
+D,4,2000,Algoritmo_1, 7.612091 
+
+D,4,2000,Algoritmo_1, 7.620695 
+
+D,4,2000,Algoritmo_1, 7.609188 
+
+D,4,2000,Algoritmo_1, 7.588738 
+
+D,4,2000,Algoritmo_1, 7.557791 
+
+D,4,2000,Algoritmo_1, 7.684507 
+
+D,4,2000,Algoritmo_1, 7.589628 
+
+D,4,2000,Algoritmo_1, 7.600741 
+
+D,4,2000,Algoritmo_1, 7.589954 
+
+D,4,2000,Algoritmo_1, 7.588356 
+
+D,4,2000,Algoritmo_1, 7.587333 
+
+D,4,2000,Algoritmo_1, 7.559836 
+
+D,4,2000,Algoritmo_1, 7.600256 
+
+D,4,2000,Algoritmo_1, 7.696106 
+
+D,4,2000,Algoritmo_1, 7.557170 
+
+D,4,2000,Algoritmo_1, 7.576341 
+
+D,8,2000,Algoritmo_1, 4.059179 
+
+D,8,2000,Algoritmo_1, 4.079258 
+
+D,8,2000,Algoritmo_1, 4.089333 
+
+D,8,2000,Algoritmo_1, 4.090755 
+
+D,8,2000,Algoritmo_1, 4.116172 
+
+D,8,2000,Algoritmo_1, 4.097066 
+
+D,8,2000,Algoritmo_1, 4.049359 
+
+D,8,2000,Algoritmo_1, 4.242328 
+
+D,8,2000,Algoritmo_1, 4.125169 
+
+D,8,2000,Algoritmo_1, 4.087058 
+
+D,8,2000,Algoritmo_1, 4.104429 
+
+D,8,2000,Algoritmo_1, 4.109593 
+
+D,8,2000,Algoritmo_1, 4.063273 
+
+D,8,2000,Algoritmo_1, 4.149330 
+
+D,8,2000,Algoritmo_1, 4.066019 
+
+D,8,2000,Algoritmo_1, 4.109135 
+
+D,8,2000,Algoritmo_1, 4.157835 
+
+D,8,2000,Algoritmo_1, 4.199387 
+
+D,8,2000,Algoritmo_1, 4.166780 
+
+D,8,2000,Algoritmo_1, 4.314911 
+
+D,8,2000,Algoritmo_1, 4.237836 
+
+D,8,2000,Algoritmo_1, 4.246888 
+
+D,8,2000,Algoritmo_1, 4.869311 
+
+D,8,2000,Algoritmo_1, 4.238157 
+
+D,8,2000,Algoritmo_1, 4.466041 
+
+D,8,2000,Algoritmo_1, 4.228459 
+
+D,8,2000,Algoritmo_1, 4.185317 
+
+D,8,2000,Algoritmo_1, 4.258985 
+
+D,8,2000,Algoritmo_1, 4.278902 
+
+D,8,2000,Algoritmo_1, 4.370471 
+
+D,8,2000,Algoritmo_1, 4.216279 
+
+D,8,2000,Algoritmo_1, 4.410604 
+
+D,8,2000,Algoritmo_1, 4.639137 
+
+D,8,2000,Algoritmo_1, 4.199303 
+
+D,8,2000,Algoritmo_1, 4.237938 
+
+D,8,2000,Algoritmo_1, 4.262344 
+
+D,1,2000,Algoritmo_2, 21.655931 
+
+D,1,2000,Algoritmo_2, 21.615174 
+
+D,1,2000,Algoritmo_2, 21.710310 
+
+D,1,2000,Algoritmo_2, 21.699265 
+
+D,1,2000,Algoritmo_2, 21.651027 
+
+D,1,2000,Algoritmo_2, 21.630002 
+
+D,1,2000,Algoritmo_2, 21.678549 
+
+D,1,2000,Algoritmo_2, 21.658322 
+
+D,1,2000,Algoritmo_2, 21.658455 
+
+D,1,2000,Algoritmo_2, 21.660155 
+
+D,1,2000,Algoritmo_2, 21.655858 
+
+D,1,2000,Algoritmo_2, 21.661137 
+
+D,1,2000,Algoritmo_2, 21.659191 
+
+D,1,2000,Algoritmo_2, 21.658818 
+
+D,1,2000,Algoritmo_2, 21.678074 
+
+D,1,2000,Algoritmo_2, 21.683488 
+
+D,1,2000,Algoritmo_2, 23.180788 
+
+D,1,2000,Algoritmo_2, 21.648561 
+
+D,1,2000,Algoritmo_2, 21.688791 
+
+D,1,2000,Algoritmo_2, 22.179759 
+
+D,1,2000,Algoritmo_2, 21.661729 
+
+D,1,2000,Algoritmo_2, 21.668501 
+
+D,1,2000,Algoritmo_2, 21.658374 
+
+D,1,2000,Algoritmo_2, 21.634602 
+
+D,1,2000,Algoritmo_2, 21.662653 
+
+D,1,2000,Algoritmo_2, 21.656437 
+
+D,1,2000,Algoritmo_2, 21.655889 
+
+D,1,2000,Algoritmo_2, 22.149140 
+
+D,1,2000,Algoritmo_2, 21.653454 
+
+D,1,2000,Algoritmo_2, 21.660234 
+
+D,1,2000,Algoritmo_2, 21.665502 
+
+D,1,2000,Algoritmo_2, 21.615485 
+
+D,1,2000,Algoritmo_2, 21.648143 
+
+D,1,2000,Algoritmo_2, 21.706097 
+
+D,1,2000,Algoritmo_2, 21.659722 
+
+D,1,2000,Algoritmo_2, 21.654902 
+
+D,2,2000,Algoritmo_2, 10.840618 
+
+D,2,2000,Algoritmo_2, 10.851630 
+
+D,2,2000,Algoritmo_2, 10.836566 
+
+D,2,2000,Algoritmo_2, 10.853382 
+
+D,2,2000,Algoritmo_2, 10.828427 
+
+D,2,2000,Algoritmo_2, 10.837494 
+
+D,2,2000,Algoritmo_2, 10.905585 
+
+D,2,2000,Algoritmo_2, 10.911949 
+
+D,2,2000,Algoritmo_2, 11.299226 
+
+D,2,2000,Algoritmo_2, 13.808836 
+
+D,2,2000,Algoritmo_2, 10.871721 
+
+D,2,2000,Algoritmo_2, 10.900043 
+
+D,2,2000,Algoritmo_2, 10.862772 
+
+D,2,2000,Algoritmo_2, 11.165811 
+
+D,2,2000,Algoritmo_2, 10.878728 
+
+D,2,2000,Algoritmo_2, 11.702664 
+
+D,2,2000,Algoritmo_2, 10.902156 
+
+D,2,2000,Algoritmo_2, 11.264658 
+
+D,2,2000,Algoritmo_2, 10.906920 
+
+D,2,2000,Algoritmo_2, 12.151163 
+
+D,2,2000,Algoritmo_2, 10.947517 
+
+D,2,2000,Algoritmo_2, 10.934484 
+
+D,2,2000,Algoritmo_2, 10.909926 
+
+D,2,2000,Algoritmo_2, 10.859966 
+
+D,2,2000,Algoritmo_2, 10.904886 
+
+D,2,2000,Algoritmo_2, 10.949906 
+
+D,2,2000,Algoritmo_2, 10.964435 
+
+D,2,2000,Algoritmo_2, 10.869763 
+
+D,2,2000,Algoritmo_2, 11.622660 
+
+D,2,2000,Algoritmo_2, 10.882313 
+
+D,2,2000,Algoritmo_2, 10.840311 
+
+D,2,2000,Algoritmo_2, 10.934290 
+
+D,2,2000,Algoritmo_2, 10.850705 
+
+D,2,2000,Algoritmo_2, 10.910564 
+
+D,2,2000,Algoritmo_2, 10.902655 
+
+D,2,2000,Algoritmo_2, 13.521956 
+
+D,4,2000,Algoritmo_2, 5.837073 
+
+D,4,2000,Algoritmo_2, 6.967398 
+
+D,4,2000,Algoritmo_2, 5.567568 
+
+D,4,2000,Algoritmo_2, 5.561312 
+
+D,4,2000,Algoritmo_2, 5.986682 
+
+D,4,2000,Algoritmo_2, 5.772864 
+
+D,4,2000,Algoritmo_2, 5.557405 
+
+D,4,2000,Algoritmo_2, 5.573387 
+
+D,4,2000,Algoritmo_2, 5.576893 
+
+D,4,2000,Algoritmo_2, 6.012085 
+
+D,4,2000,Algoritmo_2, 5.832255 
+
+D,4,2000,Algoritmo_2, 5.586330 
+
+D,4,2000,Algoritmo_2, 5.575484 
+
+D,4,2000,Algoritmo_2, 5.572236 
+
+D,4,2000,Algoritmo_2, 8.057256 
+
+D,4,2000,Algoritmo_2, 5.597712 
+
+D,4,2000,Algoritmo_2, 5.536167 
+
+D,4,2000,Algoritmo_2, 5.559292 
+
+D,4,2000,Algoritmo_2, 5.551946 
+
+D,4,2000,Algoritmo_2, 5.568697 
+
+D,4,2000,Algoritmo_2, 5.557068 
+
+D,4,2000,Algoritmo_2, 5.866077 
+
+D,4,2000,Algoritmo_2, 5.541696 
+
+D,4,2000,Algoritmo_2, 5.559663 
+
+D,4,2000,Algoritmo_2, 5.561450 
+
+D,4,2000,Algoritmo_2, 5.560644 
+
+D,4,2000,Algoritmo_2, 5.554845 
+
+D,4,2000,Algoritmo_2, 6.256248 
+
+D,4,2000,Algoritmo_2, 6.001830 
+
+D,4,2000,Algoritmo_2, 5.568435 
+
+D,4,2000,Algoritmo_2, 5.581183 
+
+D,4,2000,Algoritmo_2, 5.575329 
+
+D,4,2000,Algoritmo_2, 5.583686 
+
+D,4,2000,Algoritmo_2, 5.559481 
+
+D,4,2000,Algoritmo_2, 5.657035 
+
+D,4,2000,Algoritmo_2, 6.328138 
+
+D,8,2000,Algoritmo_2, 3.103123 
+
+D,8,2000,Algoritmo_2, 3.081065 
+
+D,8,2000,Algoritmo_2, 3.476485 
+
+D,8,2000,Algoritmo_2, 3.110128 
+
+D,8,2000,Algoritmo_2, 3.101950 
+
+D,8,2000,Algoritmo_2, 3.092042 
+
+D,8,2000,Algoritmo_2, 3.103770 
+
+D,8,2000,Algoritmo_2, 3.099944 
+
+D,8,2000,Algoritmo_2, 3.111455 
+
+D,8,2000,Algoritmo_2, 3.084241 
+
+D,8,2000,Algoritmo_2, 3.090425 
+
+D,8,2000,Algoritmo_2, 3.103039 
+
+D,8,2000,Algoritmo_2, 3.104173 
+
+D,8,2000,Algoritmo_2, 3.095230 
+
+D,8,2000,Algoritmo_2, 3.097232 
+
+D,8,2000,Algoritmo_2, 3.107257 
+
+D,8,2000,Algoritmo_2, 3.460375 
+
+D,8,2000,Algoritmo_2, 3.088129 
+
+D,8,2000,Algoritmo_2, 3.099113 
+
+D,8,2000,Algoritmo_2, 3.106617 
+
+D,8,2000,Algoritmo_2, 3.114224 
+
+D,8,2000,Algoritmo_2, 3.104863 
+
+D,8,2000,Algoritmo_2, 3.094756 
+
+D,8,2000,Algoritmo_2, 3.104656 
+
+D,8,2000,Algoritmo_2, 3.097851 
+
+D,8,2000,Algoritmo_2, 3.109899 
+
+D,8,2000,Algoritmo_2, 3.121054 
+
+D,8,2000,Algoritmo_2, 3.155045 
+
+D,8,2000,Algoritmo_2, 3.183181 
+
+D,8,2000,Algoritmo_2, 3.650086 
+
+D,8,2000,Algoritmo_2, 3.172018 
+
+D,8,2000,Algoritmo_2, 3.426667 
+
+D,8,2000,Algoritmo_2, 3.251180 
+
+D,8,2000,Algoritmo_2, 3.426096 
+
+D,8,2000,Algoritmo_2, 3.217357 
+
+D,8,2000,Algoritmo_2, 3.249375 
+
+D,1,2000,Algoritmo_3, 38.670001 
+
+D,1,2000,Algoritmo_3, 38.578595 
+
+D,1,2000,Algoritmo_3, 38.568941 
+
+D,1,2000,Algoritmo_3, 38.635082 
+
+D,1,2000,Algoritmo_3, 38.738714 
+
+D,1,2000,Algoritmo_3, 38.834022 
+
+D,1,2000,Algoritmo_3, 38.732131 
+
+D,1,2000,Algoritmo_3, 38.751806 
+
+D,1,2000,Algoritmo_3, 38.748907 
+
+D,1,2000,Algoritmo_3, 38.753612 
+
+D,1,2000,Algoritmo_3, 38.687469 
+
+D,1,2000,Algoritmo_3, 38.448434 
+
+D,1,2000,Algoritmo_3, 38.621680 
+
+D,1,2000,Algoritmo_3, 38.460565 
+
+D,1,2000,Algoritmo_3, 38.570848 
+
+D,1,2000,Algoritmo_3, 38.530419 
+
+D,1,2000,Algoritmo_3, 38.648488 
+
+D,1,2000,Algoritmo_3, 39.056687 
+
+D,1,2000,Algoritmo_3, 38.610242 
+
+D,1,2000,Algoritmo_3, 38.460173 
+
+D,1,2000,Algoritmo_3, 38.694678 
+
+D,1,2000,Algoritmo_3, 38.522558 
+
+D,1,2000,Algoritmo_3, 38.577168 
+
+D,1,2000,Algoritmo_3, 38.531109 
+
+D,1,2000,Algoritmo_3, 38.805510 
+
+D,1,2000,Algoritmo_3, 38.494893 
+
+D,1,2000,Algoritmo_3, 39.300189 
+
+D,1,2000,Algoritmo_3, 39.809644 
+
+D,1,2000,Algoritmo_3, 38.868856 
+
+D,1,2000,Algoritmo_3, 38.770321 
+
+D,1,2000,Algoritmo_3, 39.024593 
+
+D,1,2000,Algoritmo_3, 38.722016 
+
+D,1,2000,Algoritmo_3,
