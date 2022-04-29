@@ -1,5185 +1,5192 @@
 Node,NumThreads,Load,Algorithm,Time
-A,1,100,Algoritmo_1,1.871
+A,1,100,Algoritmo_1, 0.005858 
 
-A,1,100,Algoritmo_1,1.873
+A,1,100,Algoritmo_1, 0.005455 
 
-A,1,100,Algoritmo_1,1.863
+A,1,100,Algoritmo_1, 0.007537 
 
-A,1,100,Algoritmo_1,1.867
+A,1,100,Algoritmo_1, 0.005051 
 
-A,1,100,Algoritmo_1,1.974
+A,1,100,Algoritmo_1, 0.005257 
 
-A,1,100,Algoritmo_1,2.003
+A,1,100,Algoritmo_1, 0.005830 
 
-A,1,100,Algoritmo_1,2.002
+A,1,100,Algoritmo_1, 0.008174 
 
-A,1,100,Algoritmo_1,1.999
+A,1,100,Algoritmo_1, 0.002711 
 
-A,1,100,Algoritmo_1,2.025
+A,1,100,Algoritmo_1, 0.002725 
 
-A,1,100,Algoritmo_1,2.004
+A,1,100,Algoritmo_1, 0.002545 
 
-A,1,100,Algoritmo_1,2.002
+A,1,100,Algoritmo_1, 0.002537 
 
-A,1,100,Algoritmo_1,2.002
+A,1,100,Algoritmo_1, 0.008184 
 
-A,1,100,Algoritmo_1,2.004
+A,1,100,Algoritmo_1, 0.005581 
 
-A,1,100,Algoritmo_1,2.008
+A,1,100,Algoritmo_1, 0.005582 
 
-A,1,100,Algoritmo_1,1.997
+A,1,100,Algoritmo_1, 0.002712 
 
-A,1,100,Algoritmo_1,1.998
+A,1,100,Algoritmo_1, 0.002544 
 
-A,1,100,Algoritmo_1,2.007
+A,1,100,Algoritmo_1, 0.008084 
 
-A,1,100,Algoritmo_1,2.007
+A,1,100,Algoritmo_1, 0.005530 
 
-A,1,100,Algoritmo_1,2.003
+A,1,100,Algoritmo_1, 0.002802 
 
-A,1,100,Algoritmo_1,2.018
+A,1,100,Algoritmo_1, 0.002545 
 
-A,1,100,Algoritmo_1,2.012
+A,1,100,Algoritmo_1, 0.002543 
 
-A,1,100,Algoritmo_1,2.006
+A,1,100,Algoritmo_1, 0.002535 
 
-A,1,100,Algoritmo_1,2.001
+A,1,100,Algoritmo_1, 0.002572 
 
-A,1,100,Algoritmo_1,2.011
+A,1,100,Algoritmo_1, 0.002558 
 
-A,1,100,Algoritmo_1,2.035
+A,1,100,Algoritmo_1, 0.002552 
 
-A,1,100,Algoritmo_1,2.006
+A,1,100,Algoritmo_1, 0.002530 
 
-A,1,100,Algoritmo_1,2.020
+A,1,100,Algoritmo_1, 0.002535 
 
-A,1,100,Algoritmo_1,1.997
+A,1,100,Algoritmo_1, 0.008043 
 
-A,1,100,Algoritmo_1,2.004
+A,1,100,Algoritmo_1, 0.002878 
 
-A,1,100,Algoritmo_1,2.002
+A,1,100,Algoritmo_1, 0.005485 
 
-A,1,100,Algoritmo_1,2.025
+A,1,100,Algoritmo_1, 0.007247 
 
-A,1,100,Algoritmo_1,1.999
+A,1,100,Algoritmo_1, 0.002587 
 
-A,1,100,Algoritmo_1,2.003
+A,1,100,Algoritmo_1, 0.002532 
 
-A,1,100,Algoritmo_1,2.009
+A,1,100,Algoritmo_1, 0.002540 
 
-A,1,100,Algoritmo_1,2.015
+A,1,100,Algoritmo_1, 0.007558 
 
-A,1,100,Algoritmo_1,2.002
+A,1,100,Algoritmo_1, 0.005321 
 
-A,2,100,Algoritmo_1,1.053
+A,2,100,Algoritmo_1, 0.003302 
 
-A,2,100,Algoritmo_1,1.172
+A,2,100,Algoritmo_1, 0.003384 
 
-A,2,100,Algoritmo_1,1.044
+A,2,100,Algoritmo_1, 0.003003 
 
-A,2,100,Algoritmo_1,1.052
+A,2,100,Algoritmo_1, 0.004078 
 
-A,2,100,Algoritmo_1,1.062
+A,2,100,Algoritmo_1, 0.002888 
 
-A,2,100,Algoritmo_1,1.116
+A,2,100,Algoritmo_1, 0.004122 
 
-A,2,100,Algoritmo_1,1.055
+A,2,100,Algoritmo_1, 0.001325 
 
-A,2,100,Algoritmo_1,1.056
+A,2,100,Algoritmo_1, 0.001438 
 
-A,2,100,Algoritmo_1,1.057
+A,2,100,Algoritmo_1, 0.001385 
 
-A,2,100,Algoritmo_1,1.063
+A,2,100,Algoritmo_1, 0.001324 
 
-A,2,100,Algoritmo_1,1.062
+A,2,100,Algoritmo_1, 0.001345 
 
-A,2,100,Algoritmo_1,1.071
+A,2,100,Algoritmo_1, 0.001335 
 
-A,2,100,Algoritmo_1,1.062
+A,2,100,Algoritmo_1, 0.003385 
 
-A,2,100,Algoritmo_1,1.055
+A,2,100,Algoritmo_1, 0.001758 
 
-A,2,100,Algoritmo_1,1.057
+A,2,100,Algoritmo_1, 0.001314 
 
-A,2,100,Algoritmo_1,1.053
+A,2,100,Algoritmo_1, 0.001341 
 
-A,2,100,Algoritmo_1,1.062
+A,2,100,Algoritmo_1, 0.003145 
 
-A,2,100,Algoritmo_1,1.054
+A,2,100,Algoritmo_1, 0.001770 
 
-A,2,100,Algoritmo_1,1.056
+A,2,100,Algoritmo_1, 0.004055 
 
-A,2,100,Algoritmo_1,1.053
+A,2,100,Algoritmo_1, 0.002775 
 
-A,2,100,Algoritmo_1,1.052
+A,2,100,Algoritmo_1, 0.001400 
 
-A,2,100,Algoritmo_1,1.052
+A,2,100,Algoritmo_1, 0.001318 
 
-A,2,100,Algoritmo_1,1.052
+A,2,100,Algoritmo_1, 0.001350 
 
-A,2,100,Algoritmo_1,1.050
+A,2,100,Algoritmo_1, 0.001342 
 
-A,2,100,Algoritmo_1,1.055
+A,2,100,Algoritmo_1, 0.001318 
 
-A,2,100,Algoritmo_1,1.054
+A,2,100,Algoritmo_1, 0.001348 
 
-A,2,100,Algoritmo_1,1.079
+A,2,100,Algoritmo_1, 0.001354 
 
-A,2,100,Algoritmo_1,1.061
+A,2,100,Algoritmo_1, 0.001322 
 
-A,2,100,Algoritmo_1,1.083
+A,2,100,Algoritmo_1, 0.001388 
 
-A,2,100,Algoritmo_1,1.052
+A,2,100,Algoritmo_1, 0.001321 
 
-A,2,100,Algoritmo_1,1.061
+A,2,100,Algoritmo_1, 0.001338 
 
-A,2,100,Algoritmo_1,1.055
+A,2,100,Algoritmo_1, 0.001342 
 
-A,2,100,Algoritmo_1,1.065
+A,2,100,Algoritmo_1, 0.001315 
 
-A,2,100,Algoritmo_1,1.051
+A,2,100,Algoritmo_1, 0.001358 
 
-A,2,100,Algoritmo_1,1.058
+A,2,100,Algoritmo_1, 0.001352 
 
-A,2,100,Algoritmo_1,1.054
+A,2,100,Algoritmo_1, 0.001320 
 
-A,4,100,Algoritmo_1,589
+A,4,100,Algoritmo_1, 0.001575 
 
-A,4,100,Algoritmo_1,604
+A,4,100,Algoritmo_1, 0.001535 
 
-A,4,100,Algoritmo_1,578
+A,4,100,Algoritmo_1, 0.002001 
 
-A,4,100,Algoritmo_1,566
+A,4,100,Algoritmo_1, 0.001588 
 
-A,4,100,Algoritmo_1,584
+A,4,100,Algoritmo_1, 0.001523 
 
-A,4,100,Algoritmo_1,816
+A,4,100,Algoritmo_1, 0.001587 
 
-A,4,100,Algoritmo_1,585
+A,4,100,Algoritmo_1, 0.001505 
 
-A,4,100,Algoritmo_1,602
+A,4,100,Algoritmo_1, 0.001518 
 
-A,4,100,Algoritmo_1,574
+A,4,100,Algoritmo_1, 0.001545 
 
-A,4,100,Algoritmo_1,580
+A,4,100,Algoritmo_1, 0.000887 
 
-A,4,100,Algoritmo_1,580
+A,4,100,Algoritmo_1, 0.001523 
 
-A,4,100,Algoritmo_1,579
+A,4,100,Algoritmo_1, 0.001538 
 
-A,4,100,Algoritmo_1,639
+A,4,100,Algoritmo_1, 0.001545 
 
-A,4,100,Algoritmo_1,577
+A,4,100,Algoritmo_1, 0.000530 
 
-A,4,100,Algoritmo_1,578
+A,4,100,Algoritmo_1, 0.001581 
 
-A,4,100,Algoritmo_1,576
+A,4,100,Algoritmo_1, 0.001588 
 
-A,4,100,Algoritmo_1,572
+A,4,100,Algoritmo_1, 0.001514 
 
-A,4,100,Algoritmo_1,586
+A,4,100,Algoritmo_1, 0.001580 
 
-A,4,100,Algoritmo_1,598
+A,4,100,Algoritmo_1, 0.001581 
 
-A,4,100,Algoritmo_1,582
+A,4,100,Algoritmo_1, 0.001700 
 
-A,4,100,Algoritmo_1,567
+A,4,100,Algoritmo_1, 0.001705 
 
-A,4,100,Algoritmo_1,583
+A,4,100,Algoritmo_1, 0.001531 
 
-A,4,100,Algoritmo_1,605
+A,4,100,Algoritmo_1, 0.002485 
 
-A,4,100,Algoritmo_1,576
+A,4,100,Algoritmo_1, 0.001734 
 
-A,4,100,Algoritmo_1,580
+A,4,100,Algoritmo_1, 0.002218 
 
-A,4,100,Algoritmo_1,565
+A,4,100,Algoritmo_1, 0.001533 
 
-A,4,100,Algoritmo_1,575
+A,4,100,Algoritmo_1, 0.001518 
 
-A,4,100,Algoritmo_1,599
+A,4,100,Algoritmo_1, 0.001541 
 
-A,4,100,Algoritmo_1,583
+A,4,100,Algoritmo_1, 0.001522 
 
-A,4,100,Algoritmo_1,632
+A,4,100,Algoritmo_1, 0.002035 
 
-A,4,100,Algoritmo_1,575
+A,4,100,Algoritmo_1, 0.002243 
 
-A,4,100,Algoritmo_1,582
+A,4,100,Algoritmo_1, 0.001578 
 
-A,4,100,Algoritmo_1,592
+A,4,100,Algoritmo_1, 0.001854 
 
-A,4,100,Algoritmo_1,584
+A,4,100,Algoritmo_1, 0.001531 
 
-A,4,100,Algoritmo_1,586
+A,4,100,Algoritmo_1, 0.001553 
 
-A,4,100,Algoritmo_1,588
+A,4,100,Algoritmo_1, 0.001588 
 
-A,8,100,Algoritmo_1,627
+A,8,100,Algoritmo_1, 0.000887 
 
-A,8,100,Algoritmo_1,582
+A,8,100,Algoritmo_1, 0.000852 
 
-A,8,100,Algoritmo_1,572
+A,8,100,Algoritmo_1, 0.000834 
 
-A,8,100,Algoritmo_1,577
+A,8,100,Algoritmo_1, 0.000830 
 
-A,8,100,Algoritmo_1,583
+A,8,100,Algoritmo_1, 0.000825 
 
-A,8,100,Algoritmo_1,562
+A,8,100,Algoritmo_1, 0.000884 
 
-A,8,100,Algoritmo_1,562
+A,8,100,Algoritmo_1, 0.000887 
 
-A,8,100,Algoritmo_1,570
+A,8,100,Algoritmo_1, 0.000888 
 
-A,8,100,Algoritmo_1,569
+A,8,100,Algoritmo_1, 0.000838 
 
-A,8,100,Algoritmo_1,562
+A,8,100,Algoritmo_1, 0.000880 
 
-A,8,100,Algoritmo_1,563
+A,8,100,Algoritmo_1, 0.000858 
 
-A,8,100,Algoritmo_1,585
+A,8,100,Algoritmo_1, 0.000838 
 
-A,8,100,Algoritmo_1,579
+A,8,100,Algoritmo_1, 0.000558 
 
-A,8,100,Algoritmo_1,561
+A,8,100,Algoritmo_1, 0.000528 
 
-A,8,100,Algoritmo_1,564
+A,8,100,Algoritmo_1, 0.000774 
 
-A,8,100,Algoritmo_1,581
+A,8,100,Algoritmo_1, 0.000845 
 
-A,8,100,Algoritmo_1,566
+A,8,100,Algoritmo_1, 0.000872 
 
-A,8,100,Algoritmo_1,564
+A,8,100,Algoritmo_1, 0.000885 
 
-A,8,100,Algoritmo_1,565
+A,8,100,Algoritmo_1, 0.000825 
 
-A,8,100,Algoritmo_1,566
+A,8,100,Algoritmo_1, 0.000882 
 
-A,8,100,Algoritmo_1,566
+A,8,100,Algoritmo_1, 0.000885 
 
-A,8,100,Algoritmo_1,566
+A,8,100,Algoritmo_1, 0.000880 
 
-A,8,100,Algoritmo_1,572
+A,8,100,Algoritmo_1, 0.001244 
 
-A,8,100,Algoritmo_1,572
+A,8,100,Algoritmo_1, 0.000824 
 
-A,8,100,Algoritmo_1,561
+A,8,100,Algoritmo_1, 0.000881 
 
-A,8,100,Algoritmo_1,574
+A,8,100,Algoritmo_1, 0.001017 
 
-A,8,100,Algoritmo_1,578
+A,8,100,Algoritmo_1, 0.001054 
 
-A,8,100,Algoritmo_1,567
+A,8,100,Algoritmo_1, 0.000885 
 
-A,8,100,Algoritmo_1,570
+A,8,100,Algoritmo_1, 0.000847 
 
-A,8,100,Algoritmo_1,562
+A,8,100,Algoritmo_1, 0.000887 
 
-A,8,100,Algoritmo_1,570
+A,8,100,Algoritmo_1, 0.000884 
 
-A,8,100,Algoritmo_1,562
+A,8,100,Algoritmo_1, 0.000881 
 
-A,8,100,Algoritmo_1,567
+A,8,100,Algoritmo_1, 0.000825 
 
-A,8,100,Algoritmo_1,560
+A,8,100,Algoritmo_1, 0.000518 
 
-A,8,100,Algoritmo_1,565
+A,8,100,Algoritmo_1, 0.000515 
 
-A,8,100,Algoritmo_1,588
+A,8,100,Algoritmo_1, 0.000513 
 
-A,1,100,Algoritmo_2,1.978
+A,1,100,Algoritmo_2, 0.002535 
 
-A,1,100,Algoritmo_2,1.979
+A,1,100,Algoritmo_2, 0.002751 
 
-A,1,100,Algoritmo_2,1.979
+A,1,100,Algoritmo_2, 0.002731 
 
-A,1,100,Algoritmo_2,1.989
+A,1,100,Algoritmo_2, 0.002720 
 
-A,1,100,Algoritmo_2,1.980
+A,1,100,Algoritmo_2, 0.008208 
 
-A,1,100,Algoritmo_2,1.981
+A,1,100,Algoritmo_2, 0.003545 
 
-A,1,100,Algoritmo_2,1.982
+A,1,100,Algoritmo_2, 0.004835 
 
-A,1,100,Algoritmo_2,1.986
+A,1,100,Algoritmo_2, 0.002721 
 
-A,1,100,Algoritmo_2,1.977
+A,1,100,Algoritmo_2, 0.002782 
 
-A,1,100,Algoritmo_2,1.977
+A,1,100,Algoritmo_2, 0.002781 
 
-A,1,100,Algoritmo_2,1.975
+A,1,100,Algoritmo_2, 0.002787 
 
-A,1,100,Algoritmo_2,1.985
+A,1,100,Algoritmo_2, 0.002725 
 
-A,1,100,Algoritmo_2,1.977
+A,1,100,Algoritmo_2, 0.002724 
 
-A,1,100,Algoritmo_2,1.977
+A,1,100,Algoritmo_2, 0.002505 
 
-A,1,100,Algoritmo_2,1.979
+A,1,100,Algoritmo_2, 0.002780 
 
-A,1,100,Algoritmo_2,1.979
+A,1,100,Algoritmo_2, 0.002727 
 
-A,1,100,Algoritmo_2,1.981
+A,1,100,Algoritmo_2, 0.008478 
 
-A,1,100,Algoritmo_2,1.976
+A,1,100,Algoritmo_2, 0.002720 
 
-A,1,100,Algoritmo_2,1.981
+A,1,100,Algoritmo_2, 0.008512 
 
-A,1,100,Algoritmo_2,1.992
+A,1,100,Algoritmo_2, 0.002780 
 
-A,1,100,Algoritmo_2,2.011
+A,1,100,Algoritmo_2, 0.002510 
 
-A,1,100,Algoritmo_2,1.978
+A,1,100,Algoritmo_2, 0.002720 
 
-A,1,100,Algoritmo_2,1.976
+A,1,100,Algoritmo_2, 0.002725 
 
-A,1,100,Algoritmo_2,2.028
+A,1,100,Algoritmo_2, 0.002508 
 
-A,1,100,Algoritmo_2,1.982
+A,1,100,Algoritmo_2, 0.002754 
 
-A,1,100,Algoritmo_2,1.977
+A,1,100,Algoritmo_2, 0.002721 
 
-A,1,100,Algoritmo_2,1.973
+A,1,100,Algoritmo_2, 0.004523 
 
-A,1,100,Algoritmo_2,1.979
+A,1,100,Algoritmo_2, 0.005481 
 
-A,1,100,Algoritmo_2,1.982
+A,1,100,Algoritmo_2, 0.002788 
 
-A,1,100,Algoritmo_2,1.977
+A,1,100,Algoritmo_2, 0.002788 
 
-A,1,100,Algoritmo_2,1.974
+A,1,100,Algoritmo_2, 0.002725 
 
-A,1,100,Algoritmo_2,1.985
+A,1,100,Algoritmo_2, 0.002721 
 
-A,1,100,Algoritmo_2,1.983
+A,1,100,Algoritmo_2, 0.008554 
 
-A,1,100,Algoritmo_2,1.977
+A,1,100,Algoritmo_2, 0.008103 
 
-A,1,100,Algoritmo_2,1.979
+A,1,100,Algoritmo_2, 0.005005 
 
-A,1,100,Algoritmo_2,1.978
+A,1,100,Algoritmo_2, 0.002723 
 
-A,2,100,Algoritmo_2,1.049
+A,2,100,Algoritmo_2, 0.002855 
 
-A,2,100,Algoritmo_2,1.042
+A,2,100,Algoritmo_2, 0.001355 
 
-A,2,100,Algoritmo_2,1.072
+A,2,100,Algoritmo_2, 0.001385 
 
-A,2,100,Algoritmo_2,1.040
+A,2,100,Algoritmo_2, 0.001385 
 
-A,2,100,Algoritmo_2,1.050
+A,2,100,Algoritmo_2, 0.001358 
 
-A,2,100,Algoritmo_2,1.036
+A,2,100,Algoritmo_2, 0.001348 
 
-A,2,100,Algoritmo_2,1.045
+A,2,100,Algoritmo_2, 0.001375 
 
-A,2,100,Algoritmo_2,1.039
+A,2,100,Algoritmo_2, 0.001382 
 
-A,2,100,Algoritmo_2,1.047
+A,2,100,Algoritmo_2, 0.001347 
 
-A,2,100,Algoritmo_2,1.043
+A,2,100,Algoritmo_2, 0.001402 
 
-A,2,100,Algoritmo_2,1.053
+A,2,100,Algoritmo_2, 0.001378 
 
-A,2,100,Algoritmo_2,1.043
+A,2,100,Algoritmo_2, 0.001348 
 
-A,2,100,Algoritmo_2,1.046
+A,2,100,Algoritmo_2, 0.001372 
 
-A,2,100,Algoritmo_2,1.042
+A,2,100,Algoritmo_2, 0.001383 
 
-A,2,100,Algoritmo_2,1.066
+A,2,100,Algoritmo_2, 0.001348 
 
-A,2,100,Algoritmo_2,1.040
+A,2,100,Algoritmo_2, 0.001353 
 
-A,2,100,Algoritmo_2,1.044
+A,2,100,Algoritmo_2, 0.001354 
 
-A,2,100,Algoritmo_2,1.040
+A,2,100,Algoritmo_2, 0.001354 
 
-A,2,100,Algoritmo_2,1.048
+A,2,100,Algoritmo_2, 0.001380 
 
-A,2,100,Algoritmo_2,1.044
+A,2,100,Algoritmo_2, 0.001358 
 
-A,2,100,Algoritmo_2,1.041
+A,2,100,Algoritmo_2, 0.001345 
 
-A,2,100,Algoritmo_2,1.045
+A,2,100,Algoritmo_2, 0.001347 
 
-A,2,100,Algoritmo_2,1.040
+A,2,100,Algoritmo_2, 0.001372 
 
-A,2,100,Algoritmo_2,1.041
+A,2,100,Algoritmo_2, 0.001352 
 
-A,2,100,Algoritmo_2,1.042
+A,2,100,Algoritmo_2, 0.001358 
 
-A,2,100,Algoritmo_2,1.042
+A,2,100,Algoritmo_2, 0.001335 
 
-A,2,100,Algoritmo_2,1.040
+A,2,100,Algoritmo_2, 0.003778 
 
-A,2,100,Algoritmo_2,1.039
+A,2,100,Algoritmo_2, 0.001381 
 
-A,2,100,Algoritmo_2,1.043
+A,2,100,Algoritmo_2, 0.001350 
 
-A,2,100,Algoritmo_2,1.080
+A,2,100,Algoritmo_2, 0.001382 
 
-A,2,100,Algoritmo_2,1.039
+A,2,100,Algoritmo_2, 0.001381 
 
-A,2,100,Algoritmo_2,1.053
+A,2,100,Algoritmo_2, 0.001348 
 
-A,2,100,Algoritmo_2,1.037
+A,2,100,Algoritmo_2, 0.001352 
 
-A,2,100,Algoritmo_2,1.051
+A,2,100,Algoritmo_2, 0.001387 
 
-A,2,100,Algoritmo_2,1.043
+A,2,100,Algoritmo_2, 0.001351 
 
-A,2,100,Algoritmo_2,1.051
+A,2,100,Algoritmo_2, 0.001378 
 
-A,4,100,Algoritmo_2,574
+A,4,100,Algoritmo_2, 0.001853 
 
-A,4,100,Algoritmo_2,577
+A,4,100,Algoritmo_2, 0.001573 
 
-A,4,100,Algoritmo_2,574
+A,4,100,Algoritmo_2, 0.001584 
 
-A,4,100,Algoritmo_2,548
+A,4,100,Algoritmo_2, 0.001582 
 
-A,4,100,Algoritmo_2,604
+A,4,100,Algoritmo_2, 0.001553 
 
-A,4,100,Algoritmo_2,570
+A,4,100,Algoritmo_2, 0.001552 
 
-A,4,100,Algoritmo_2,572
+A,4,100,Algoritmo_2, 0.001588 
 
-A,4,100,Algoritmo_2,571
+A,4,100,Algoritmo_2, 0.001855 
 
-A,4,100,Algoritmo_2,594
+A,4,100,Algoritmo_2, 0.001554 
 
-A,4,100,Algoritmo_2,573
+A,4,100,Algoritmo_2, 0.001553 
 
-A,4,100,Algoritmo_2,574
+A,4,100,Algoritmo_2, 0.001580 
 
-A,4,100,Algoritmo_2,574
+A,4,100,Algoritmo_2, 0.001588 
 
-A,4,100,Algoritmo_2,568
+A,4,100,Algoritmo_2, 0.001548 
 
-A,4,100,Algoritmo_2,574
+A,4,100,Algoritmo_2, 0.001701 
 
-A,4,100,Algoritmo_2,575
+A,4,100,Algoritmo_2, 0.002014 
 
-A,4,100,Algoritmo_2,571
+A,4,100,Algoritmo_2, 0.001780 
 
-A,4,100,Algoritmo_2,572
+A,4,100,Algoritmo_2, 0.000558 
 
-A,4,100,Algoritmo_2,563
+A,4,100,Algoritmo_2, 0.000585 
 
-A,4,100,Algoritmo_2,570
+A,4,100,Algoritmo_2, 0.000538 
 
-A,4,100,Algoritmo_2,605
+A,4,100,Algoritmo_2, 0.000817 
 
-A,4,100,Algoritmo_2,579
+A,4,100,Algoritmo_2, 0.000540 
 
-A,4,100,Algoritmo_2,570
+A,4,100,Algoritmo_2, 0.000818 
 
-A,4,100,Algoritmo_2,580
+A,4,100,Algoritmo_2, 0.000544 
 
-A,4,100,Algoritmo_2,590
+A,4,100,Algoritmo_2, 0.000524 
 
-A,4,100,Algoritmo_2,575
+A,4,100,Algoritmo_2, 0.001557 
 
-A,4,100,Algoritmo_2,574
+A,4,100,Algoritmo_2, 0.001717 
 
-A,4,100,Algoritmo_2,573
+A,4,100,Algoritmo_2, 0.001585 
 
-A,4,100,Algoritmo_2,566
+A,4,100,Algoritmo_2, 0.000878 
 
-A,4,100,Algoritmo_2,573
+A,4,100,Algoritmo_2, 0.000882 
 
-A,4,100,Algoritmo_2,577
+A,4,100,Algoritmo_2, 0.001548 
 
-A,4,100,Algoritmo_2,589
+A,4,100,Algoritmo_2, 0.001553 
 
-A,4,100,Algoritmo_2,568
+A,4,100,Algoritmo_2, 0.001723 
 
-A,4,100,Algoritmo_2,585
+A,4,100,Algoritmo_2, 0.001741 
 
-A,4,100,Algoritmo_2,575
+A,4,100,Algoritmo_2, 0.000542 
 
-A,4,100,Algoritmo_2,584
+A,4,100,Algoritmo_2, 0.000858 
 
-A,4,100,Algoritmo_2,571
+A,4,100,Algoritmo_2, 0.001551 
 
-A,8,100,Algoritmo_2,558
+A,8,100,Algoritmo_2, 0.000838 
 
-A,8,100,Algoritmo_2,561
+A,8,100,Algoritmo_2, 0.000815 
 
-A,8,100,Algoritmo_2,554
+A,8,100,Algoritmo_2, 0.001053 
 
-A,8,100,Algoritmo_2,566
+A,8,100,Algoritmo_2, 0.000870 
 
-A,8,100,Algoritmo_2,554
+A,8,100,Algoritmo_2, 0.000807 
 
-A,8,100,Algoritmo_2,548
+A,8,100,Algoritmo_2, 0.000818 
 
-A,8,100,Algoritmo_2,548
+A,8,100,Algoritmo_2, 0.001005 
 
-A,8,100,Algoritmo_2,551
+A,8,100,Algoritmo_2, 0.000884 
 
-A,8,100,Algoritmo_2,565
+A,8,100,Algoritmo_2, 0.000828 
 
-A,8,100,Algoritmo_2,571
+A,8,100,Algoritmo_2, 0.000838 
 
-A,8,100,Algoritmo_2,547
+A,8,100,Algoritmo_2, 0.000858 
 
-A,8,100,Algoritmo_2,555
+A,8,100,Algoritmo_2, 0.000585 
 
-A,8,100,Algoritmo_2,549
+A,8,100,Algoritmo_2, 0.000850 
 
-A,8,100,Algoritmo_2,568
+A,8,100,Algoritmo_2, 0.000844 
 
-A,8,100,Algoritmo_2,572
+A,8,100,Algoritmo_2, 0.000808 
 
-A,8,100,Algoritmo_2,552
+A,8,100,Algoritmo_2, 0.000822 
 
-A,8,100,Algoritmo_2,552
+A,8,100,Algoritmo_2, 0.001031 
 
-A,8,100,Algoritmo_2,554
+A,8,100,Algoritmo_2, 0.000805 
 
-A,8,100,Algoritmo_2,559
+A,8,100,Algoritmo_2, 0.000882 
 
-A,8,100,Algoritmo_2,570
+A,8,100,Algoritmo_2, 0.000515 
 
-A,8,100,Algoritmo_2,549
+A,8,100,Algoritmo_2, 0.000534 
 
-A,8,100,Algoritmo_2,550
+A,8,100,Algoritmo_2, 0.000508 
 
-A,8,100,Algoritmo_2,555
+A,8,100,Algoritmo_2, 0.000715 
 
-A,8,100,Algoritmo_2,567
+A,8,100,Algoritmo_2, 0.000508 
 
-A,8,100,Algoritmo_2,565
+A,8,100,Algoritmo_2, 0.000873 
 
-A,8,100,Algoritmo_2,554
+A,8,100,Algoritmo_2, 0.000817 
 
-A,8,100,Algoritmo_2,549
+A,8,100,Algoritmo_2, 0.000884 
 
-A,8,100,Algoritmo_2,603
+A,8,100,Algoritmo_2, 0.000811 
 
-A,8,100,Algoritmo_2,615
+A,8,100,Algoritmo_2, 0.000845 
 
-A,8,100,Algoritmo_2,549
+A,8,100,Algoritmo_2, 0.000814 
 
-A,8,100,Algoritmo_2,551
+A,8,100,Algoritmo_2, 0.000815 
 
-A,8,100,Algoritmo_2,550
+A,8,100,Algoritmo_2, 0.000851 
 
-A,8,100,Algoritmo_2,559
+A,8,100,Algoritmo_2, 0.000851 
 
-A,8,100,Algoritmo_2,569
+A,8,100,Algoritmo_2, 0.000887 
 
-A,8,100,Algoritmo_2,904
+A,8,100,Algoritmo_2, 0.000820 
 
-A,8,100,Algoritmo_2,809
+A,8,100,Algoritmo_2, 0.000825 
 
-A,1,100,Algoritmo_3,2.141
+A,1,100,Algoritmo_3, 0.002824 
 
-A,1,100,Algoritmo_3,2.118
+A,1,100,Algoritmo_3, 0.002852 
 
-A,1,100,Algoritmo_3,2.155
+A,1,100,Algoritmo_3, 0.005320 
 
-A,1,100,Algoritmo_3,2.167
+A,1,100,Algoritmo_3, 0.007458 
 
-A,1,100,Algoritmo_3,2.308
+A,1,100,Algoritmo_3, 0.002838 
 
-A,1,100,Algoritmo_3,2.109
+A,1,100,Algoritmo_3, 0.008852 
 
-A,1,100,Algoritmo_3,2.141
+A,1,100,Algoritmo_3, 0.008575 
 
-A,1,100,Algoritmo_3,2.127
+A,1,100,Algoritmo_3, 0.003754 
 
-A,1,100,Algoritmo_3,2.162
+A,1,100,Algoritmo_3, 0.008107 
 
-A,1,100,Algoritmo_3,2.152
+A,1,100,Algoritmo_3, 0.003338 
 
-A,1,100,Algoritmo_3,2.102
+A,1,100,Algoritmo_3, 0.002855 
 
-A,1,100,Algoritmo_3,2.151
+A,1,100,Algoritmo_3, 0.008031 
 
-A,1,100,Algoritmo_3,2.167
+A,1,100,Algoritmo_3, 0.003238 
 
-A,1,100,Algoritmo_3,2.170
+A,1,100,Algoritmo_3, 0.005333 
 
-A,1,100,Algoritmo_3,2.154
+A,1,100,Algoritmo_3, 0.002805 
 
-A,1,100,Algoritmo_3,2.149
+A,1,100,Algoritmo_3, 0.004821 
 
-A,1,100,Algoritmo_3,2.157
+A,1,100,Algoritmo_3, 0.008381 
 
-A,1,100,Algoritmo_3,2.163
+A,1,100,Algoritmo_3, 0.003320 
 
-A,1,100,Algoritmo_3,2.151
+A,1,100,Algoritmo_3, 0.008115 
 
-A,1,100,Algoritmo_3,2.109
+A,1,100,Algoritmo_3, 0.008838 
 
-A,1,100,Algoritmo_3,2.142
+A,1,100,Algoritmo_3, 0.003313 
 
-A,1,100,Algoritmo_3,2.148
+A,1,100,Algoritmo_3, 0.003318 
 
-A,1,100,Algoritmo_3,2.153
+A,1,100,Algoritmo_3, 0.003258 
 
-A,1,100,Algoritmo_3,2.160
+A,1,100,Algoritmo_3, 0.003008 
 
-A,1,100,Algoritmo_3,2.164
+A,1,100,Algoritmo_3, 0.005833 
 
-A,1,100,Algoritmo_3,2.132
+A,1,100,Algoritmo_3, 0.008002 
 
-A,1,100,Algoritmo_3,2.166
+A,1,100,Algoritmo_3, 0.005885 
 
-A,1,100,Algoritmo_3,2.141
+A,1,100,Algoritmo_3, 0.008073 
 
-A,1,100,Algoritmo_3,2.218
+A,1,100,Algoritmo_3, 0.008535 
 
-A,1,100,Algoritmo_3,2.312
+A,1,100,Algoritmo_3, 0.007048 
 
-A,1,100,Algoritmo_3,2.306
+A,1,100,Algoritmo_3, 0.002842 
 
-A,1,100,Algoritmo_3,2.422
+A,1,100,Algoritmo_3, 0.008535 
 
-A,1,100,Algoritmo_3,2.501
+A,1,100,Algoritmo_3, 0.002800 
 
-A,1,100,Algoritmo_3,2.502
+A,1,100,Algoritmo_3, 0.003754 
 
-A,1,100,Algoritmo_3,2.522
+A,1,100,Algoritmo_3, 0.004488 
 
-A,1,100,Algoritmo_3,2.503
+A,1,100,Algoritmo_3, 0.005548 
 
-A,2,100,Algoritmo_3,1.320
+A,2,100,Algoritmo_3, 0.005513 
 
-A,2,100,Algoritmo_3,1.302
+A,2,100,Algoritmo_3, 0.002227 
 
-A,2,100,Algoritmo_3,1.332
+A,2,100,Algoritmo_3, 0.001855 
 
-A,2,100,Algoritmo_3,1.297
+A,2,100,Algoritmo_3, 0.001871 
 
-A,2,100,Algoritmo_3,1.311
+A,2,100,Algoritmo_3, 0.001835 
 
-A,2,100,Algoritmo_3,1.317
+A,2,100,Algoritmo_3, 0.001874 
 
-A,2,100,Algoritmo_3,1.286
+A,2,100,Algoritmo_3, 0.002255 
 
-A,2,100,Algoritmo_3,1.314
+A,2,100,Algoritmo_3, 0.002258 
 
-A,2,100,Algoritmo_3,1.301
+A,2,100,Algoritmo_3, 0.002874 
 
-A,2,100,Algoritmo_3,1.296
+A,2,100,Algoritmo_3, 0.003885 
 
-A,2,100,Algoritmo_3,1.316
+A,2,100,Algoritmo_3, 0.003885 
 
-A,2,100,Algoritmo_3,1.302
+A,2,100,Algoritmo_3, 0.005043 
 
-A,2,100,Algoritmo_3,1.305
+A,2,100,Algoritmo_3, 0.003880 
 
-A,2,100,Algoritmo_3,1.322
+A,2,100,Algoritmo_3, 0.004085 
 
-A,2,100,Algoritmo_3,1.305
+A,2,100,Algoritmo_3, 0.003588 
 
-A,2,100,Algoritmo_3,1.301
+A,2,100,Algoritmo_3, 0.002528 
 
-A,2,100,Algoritmo_3,1.303
+A,2,100,Algoritmo_3, 0.002153 
 
-A,2,100,Algoritmo_3,1.304
+A,2,100,Algoritmo_3, 0.001840 
 
-A,2,100,Algoritmo_3,1.322
+A,2,100,Algoritmo_3, 0.002204 
 
-A,2,100,Algoritmo_3,1.310
+A,2,100,Algoritmo_3, 0.001433 
 
-A,2,100,Algoritmo_3,1.308
+A,2,100,Algoritmo_3, 0.003050 
 
-A,2,100,Algoritmo_3,1.308
+A,2,100,Algoritmo_3, 0.002773 
 
-A,2,100,Algoritmo_3,1.298
+A,2,100,Algoritmo_3, 0.005081 
 
-A,2,100,Algoritmo_3,1.276
+A,2,100,Algoritmo_3, 0.003840 
 
-A,2,100,Algoritmo_3,1.325
+A,2,100,Algoritmo_3, 0.004883 
 
-A,2,100,Algoritmo_3,1.292
+A,2,100,Algoritmo_3, 0.001885 
 
-A,2,100,Algoritmo_3,1.319
+A,2,100,Algoritmo_3, 0.001554 
 
-A,2,100,Algoritmo_3,1.317
+A,2,100,Algoritmo_3, 0.001750 
 
-A,2,100,Algoritmo_3,1.287
+A,2,100,Algoritmo_3, 0.001533 
 
-A,2,100,Algoritmo_3,1.294
+A,2,100,Algoritmo_3, 0.001424 
 
-A,2,100,Algoritmo_3,1.293
+A,2,100,Algoritmo_3, 0.001535 
 
-A,2,100,Algoritmo_3,1.313
+A,2,100,Algoritmo_3, 0.001527 
 
-A,2,100,Algoritmo_3,1.296
+A,2,100,Algoritmo_3, 0.001444 
 
-A,2,100,Algoritmo_3,1.298
+A,2,100,Algoritmo_3, 0.001817 
 
-A,2,100,Algoritmo_3,1.305
+A,2,100,Algoritmo_3, 0.001537 
 
-A,2,100,Algoritmo_3,1.297
+A,2,100,Algoritmo_3, 0.001588 
 
-A,4,100,Algoritmo_3,714
+A,4,100,Algoritmo_3, 0.001755 
 
-A,4,100,Algoritmo_3,688
+A,4,100,Algoritmo_3, 0.001581 
 
-A,4,100,Algoritmo_3,698
+A,4,100,Algoritmo_3, 0.001708 
 
-A,4,100,Algoritmo_3,690
+A,4,100,Algoritmo_3, 0.001581 
 
-A,4,100,Algoritmo_3,697
+A,4,100,Algoritmo_3, 0.001725 
 
-A,4,100,Algoritmo_3,690
+A,4,100,Algoritmo_3, 0.002150 
 
-A,4,100,Algoritmo_3,700
+A,4,100,Algoritmo_3, 0.001887 
 
-A,4,100,Algoritmo_3,693
+A,4,100,Algoritmo_3, 0.003112 
 
-A,4,100,Algoritmo_3,684
+A,4,100,Algoritmo_3, 0.001758 
 
-A,4,100,Algoritmo_3,724
+A,4,100,Algoritmo_3, 0.002134 
 
-A,4,100,Algoritmo_3,683
+A,4,100,Algoritmo_3, 0.002231 
 
-A,4,100,Algoritmo_3,699
+A,4,100,Algoritmo_3, 0.001822 
 
-A,4,100,Algoritmo_3,723
+A,4,100,Algoritmo_3, 0.001583 
 
-A,4,100,Algoritmo_3,708
+A,4,100,Algoritmo_3, 0.002033 
 
-A,4,100,Algoritmo_3,676
+A,4,100,Algoritmo_3, 0.001832 
 
-A,4,100,Algoritmo_3,711
+A,4,100,Algoritmo_3, 0.001848 
 
-A,4,100,Algoritmo_3,694
+A,4,100,Algoritmo_3, 0.002457 
 
-A,4,100,Algoritmo_3,693
+A,4,100,Algoritmo_3, 0.001885 
 
-A,4,100,Algoritmo_3,688
+A,4,100,Algoritmo_3, 0.002184 
 
-A,4,100,Algoritmo_3,745
+A,4,100,Algoritmo_3, 0.002153 
 
-A,4,100,Algoritmo_3,689
+A,4,100,Algoritmo_3, 0.002472 
 
-A,4,100,Algoritmo_3,686
+A,4,100,Algoritmo_3, 0.002087 
 
-A,4,100,Algoritmo_3,688
+A,4,100,Algoritmo_3, 0.002357 
 
-A,4,100,Algoritmo_3,740
+A,4,100,Algoritmo_3, 0.001885 
 
-A,4,100,Algoritmo_3,734
+A,4,100,Algoritmo_3, 0.002518 
 
-A,4,100,Algoritmo_3,693
+A,4,100,Algoritmo_3, 0.001717 
 
-A,4,100,Algoritmo_3,682
+A,4,100,Algoritmo_3, 0.002310 
 
-A,4,100,Algoritmo_3,689
+A,4,100,Algoritmo_3, 0.002151 
 
-A,4,100,Algoritmo_3,683
+A,4,100,Algoritmo_3, 0.001485 
 
-A,4,100,Algoritmo_3,687
+A,4,100,Algoritmo_3, 0.001455 
 
-A,4,100,Algoritmo_3,870
+A,4,100,Algoritmo_3, 0.001584 
 
-A,4,100,Algoritmo_3,678
+A,4,100,Algoritmo_3, 0.001711 
 
-A,4,100,Algoritmo_3,707
+A,4,100,Algoritmo_3, 0.002058 
 
-A,4,100,Algoritmo_3,693
+A,4,100,Algoritmo_3, 0.001788 
 
-A,4,100,Algoritmo_3,774
+A,4,100,Algoritmo_3, 0.001583 
 
-A,4,100,Algoritmo_3,688
+A,4,100,Algoritmo_3, 0.001703 
 
-A,8,100,Algoritmo_3,731
+A,8,100,Algoritmo_3, 0.000857 
 
-A,8,100,Algoritmo_3,702
+A,8,100,Algoritmo_3, 0.000883 
 
-A,8,100,Algoritmo_3,772
+A,8,100,Algoritmo_3, 0.000818 
 
-A,8,100,Algoritmo_3,763
+A,8,100,Algoritmo_3, 0.001242 
 
-A,8,100,Algoritmo_3,702
+A,8,100,Algoritmo_3, 0.000885 
 
-A,8,100,Algoritmo_3,721
+A,8,100,Algoritmo_3, 0.000850 
 
-A,8,100,Algoritmo_3,697
+A,8,100,Algoritmo_3, 0.001313 
 
-A,8,100,Algoritmo_3,696
+A,8,100,Algoritmo_3, 0.000832 
 
-A,8,100,Algoritmo_3,714
+A,8,100,Algoritmo_3, 0.000873 
 
-A,8,100,Algoritmo_3,702
+A,8,100,Algoritmo_3, 0.000835 
 
-A,8,100,Algoritmo_3,749
+A,8,100,Algoritmo_3, 0.000883 
 
-A,8,100,Algoritmo_3,734
+A,8,100,Algoritmo_3, 0.000828 
 
-A,8,100,Algoritmo_3,749
+A,8,100,Algoritmo_3, 0.000881 
 
-A,8,100,Algoritmo_3,735
+A,8,100,Algoritmo_3, 0.000581 
 
-A,8,100,Algoritmo_3,694
+A,8,100,Algoritmo_3, 0.000738 
 
-A,8,100,Algoritmo_3,745
+A,8,100,Algoritmo_3, 0.000547 
 
-A,8,100,Algoritmo_3,721
+A,8,100,Algoritmo_3, 0.000820 
 
-A,8,100,Algoritmo_3,728
+A,8,100,Algoritmo_3, 0.000883 
 
-A,8,100,Algoritmo_3,723
+A,8,100,Algoritmo_3, 0.000857 
 
-A,8,100,Algoritmo_3,726
+A,8,100,Algoritmo_3, 0.000888 
 
-A,8,100,Algoritmo_3,707
+A,8,100,Algoritmo_3, 0.000881 
 
-A,8,100,Algoritmo_3,730
+A,8,100,Algoritmo_3, 0.000818 
 
-A,8,100,Algoritmo_3,723
+A,8,100,Algoritmo_3, 0.001008 
 
-A,8,100,Algoritmo_3,694
+A,8,100,Algoritmo_3, 0.001300 
 
-A,8,100,Algoritmo_3,715
+A,8,100,Algoritmo_3, 0.001028 
 
-A,8,100,Algoritmo_3,699
+A,8,100,Algoritmo_3, 0.000888 
 
-A,8,100,Algoritmo_3,740
+A,8,100,Algoritmo_3, 0.000825 
 
-A,8,100,Algoritmo_3,698
+A,8,100,Algoritmo_3, 0.000880 
 
-A,8,100,Algoritmo_3,737
+A,8,100,Algoritmo_3, 0.000823 
 
-A,8,100,Algoritmo_3,757
+A,8,100,Algoritmo_3, 0.000887 
 
-A,8,100,Algoritmo_3,737
+A,8,100,Algoritmo_3, 0.000858 
 
-A,8,100,Algoritmo_3,1.046
+A,8,100,Algoritmo_3, 0.000872 
 
-A,8,100,Algoritmo_3,749
+A,8,100,Algoritmo_3, 0.000881 
 
-A,8,100,Algoritmo_3,696
+A,8,100,Algoritmo_3, 0.000877 
 
-A,8,100,Algoritmo_3,727
+A,8,100,Algoritmo_3, 0.001285 
 
-A,8,100,Algoritmo_3,696
+A,8,100,Algoritmo_3, 0.000880 
 
-A,1,200,Algoritmo_1,20.326
+A,1,200,Algoritmo_1, 0.020871 
 
-A,1,200,Algoritmo_1,16.966
+A,1,200,Algoritmo_1, 0.020824 
 
-A,1,200,Algoritmo_1,16.892
+A,1,200,Algoritmo_1, 0.020541 
 
-A,1,200,Algoritmo_1,16.946
+A,1,200,Algoritmo_1, 0.020778 
 
-A,1,200,Algoritmo_1,16.814
+A,1,200,Algoritmo_1, 0.020572 
 
-A,1,200,Algoritmo_1,16.891
+A,1,200,Algoritmo_1, 0.020533 
 
-A,1,200,Algoritmo_1,16.864
+A,1,200,Algoritmo_1, 0.020570 
 
-A,1,200,Algoritmo_1,17.045
+A,1,200,Algoritmo_1, 0.020582 
 
-A,1,200,Algoritmo_1,17.019
+A,1,200,Algoritmo_1, 0.020575 
 
-A,1,200,Algoritmo_1,17.343
+A,1,200,Algoritmo_1, 0.020528 
 
-A,1,200,Algoritmo_1,16.930
+A,1,200,Algoritmo_1, 0.020535 
 
-A,1,200,Algoritmo_1,16.904
+A,1,200,Algoritmo_1, 0.020533 
 
-A,1,200,Algoritmo_1,16.794
+A,1,200,Algoritmo_1, 0.020518 
 
-A,1,200,Algoritmo_1,16.844
+A,1,200,Algoritmo_1, 0.020575 
 
-A,1,200,Algoritmo_1,16.935
+A,1,200,Algoritmo_1, 0.020840 
 
-A,1,200,Algoritmo_1,16.939
+A,1,200,Algoritmo_1, 0.020530 
 
-A,1,200,Algoritmo_1,16.849
+A,1,200,Algoritmo_1, 0.020535 
 
-A,1,200,Algoritmo_1,16.871
+A,1,200,Algoritmo_1, 0.020587 
 
-A,1,200,Algoritmo_1,16.840
+A,1,200,Algoritmo_1, 0.020525 
 
-A,1,200,Algoritmo_1,16.949
+A,1,200,Algoritmo_1, 0.020571 
 
-A,1,200,Algoritmo_1,16.920
+A,1,200,Algoritmo_1, 0.020548 
 
-A,1,200,Algoritmo_1,16.990
+A,1,200,Algoritmo_1, 0.020534 
 
-A,1,200,Algoritmo_1,16.901
+A,1,200,Algoritmo_1, 0.020535 
 
-A,1,200,Algoritmo_1,16.840
+A,1,200,Algoritmo_1, 0.020732 
 
-A,1,200,Algoritmo_1,16.956
+A,1,200,Algoritmo_1, 0.020543 
 
-A,1,200,Algoritmo_1,16.938
+A,1,200,Algoritmo_1, 0.020558 
 
-A,1,200,Algoritmo_1,16.976
+A,1,200,Algoritmo_1, 0.020558 
 
-A,1,200,Algoritmo_1,16.627
+A,1,200,Algoritmo_1, 0.020550 
 
-A,1,200,Algoritmo_1,16.905
+A,1,200,Algoritmo_1, 0.027278 
 
-A,1,200,Algoritmo_1,16.814
+A,1,200,Algoritmo_1, 0.027833 
 
-A,1,200,Algoritmo_1,16.955
+A,1,200,Algoritmo_1, 0.024080 
 
-A,1,200,Algoritmo_1,16.999
+A,1,200,Algoritmo_1, 0.027151 
 
-A,1,200,Algoritmo_1,17.070
+A,1,200,Algoritmo_1, 0.021208 
 
-A,1,200,Algoritmo_1,16.758
+A,1,200,Algoritmo_1, 0.020720 
 
-A,1,200,Algoritmo_1,16.733
+A,1,200,Algoritmo_1, 0.020558 
 
-A,1,200,Algoritmo_1,16.835
+A,1,200,Algoritmo_1, 0.020537 
 
-A,2,200,Algoritmo_1,8.682
+A,2,200,Algoritmo_1, 0.013888 
 
-A,2,200,Algoritmo_1,8.853
+A,2,200,Algoritmo_1, 0.010781 
 
-A,2,200,Algoritmo_1,8.678
+A,2,200,Algoritmo_1, 0.010344 
 
-A,2,200,Algoritmo_1,8.651
+A,2,200,Algoritmo_1, 0.010808 
 
-A,2,200,Algoritmo_1,8.699
+A,2,200,Algoritmo_1, 0.015535 
 
-A,2,200,Algoritmo_1,8.598
+A,2,200,Algoritmo_1, 0.015058 
 
-A,2,200,Algoritmo_1,9.477
+A,2,200,Algoritmo_1, 0.010528 
 
-A,2,200,Algoritmo_1,9.169
+A,2,200,Algoritmo_1, 0.010405 
 
-A,2,200,Algoritmo_1,8.635
+A,2,200,Algoritmo_1, 0.010350 
 
-A,2,200,Algoritmo_1,9.101
+A,2,200,Algoritmo_1, 0.010353 
 
-A,2,200,Algoritmo_1,10.056
+A,2,200,Algoritmo_1, 0.010355 
 
-A,2,200,Algoritmo_1,8.543
+A,2,200,Algoritmo_1, 0.010415 
 
-A,2,200,Algoritmo_1,8.817
+A,2,200,Algoritmo_1, 0.010345 
 
-A,2,200,Algoritmo_1,8.553
+A,2,200,Algoritmo_1, 0.010345 
 
-A,2,200,Algoritmo_1,9.943
+A,2,200,Algoritmo_1, 0.010338 
 
-A,2,200,Algoritmo_1,8.607
+A,2,200,Algoritmo_1, 0.010385 
 
-A,2,200,Algoritmo_1,8.593
+A,2,200,Algoritmo_1, 0.010330 
 
-A,2,200,Algoritmo_1,8.628
+A,2,200,Algoritmo_1, 0.018785 
 
-A,2,200,Algoritmo_1,8.468
+A,2,200,Algoritmo_1, 0.020080 
 
-A,2,200,Algoritmo_1,8.581
+A,2,200,Algoritmo_1, 0.018851 
 
-A,2,200,Algoritmo_1,8.500
+A,2,200,Algoritmo_1, 0.015155 
 
-A,2,200,Algoritmo_1,8.590
+A,2,200,Algoritmo_1, 0.010348 
 
-A,2,200,Algoritmo_1,8.480
+A,2,200,Algoritmo_1, 0.010478 
 
-A,2,200,Algoritmo_1,8.605
+A,2,200,Algoritmo_1, 0.010435 
 
-A,2,200,Algoritmo_1,8.599
+A,2,200,Algoritmo_1, 0.010351 
 
-A,2,200,Algoritmo_1,8.748
+A,2,200,Algoritmo_1, 0.010350 
 
-A,2,200,Algoritmo_1,8.751
+A,2,200,Algoritmo_1, 0.010347 
 
-A,2,200,Algoritmo_1,8.631
+A,2,200,Algoritmo_1, 0.010322 
 
-A,2,200,Algoritmo_1,8.510
+A,2,200,Algoritmo_1, 0.010328 
 
-A,2,200,Algoritmo_1,8.600
+A,2,200,Algoritmo_1, 0.010331 
 
-A,2,200,Algoritmo_1,8.490
+A,2,200,Algoritmo_1, 0.010330 
 
-A,2,200,Algoritmo_1,8.859
+A,2,200,Algoritmo_1, 0.010357 
 
-A,2,200,Algoritmo_1,8.669
+A,2,200,Algoritmo_1, 0.010432 
 
-A,2,200,Algoritmo_1,9.242
+A,2,200,Algoritmo_1, 0.010421 
 
-A,2,200,Algoritmo_1,9.014
+A,2,200,Algoritmo_1, 0.010555 
 
-A,2,200,Algoritmo_1,8.875
+A,2,200,Algoritmo_1, 0.010571 
 
-A,4,200,Algoritmo_1,4.826
+A,4,200,Algoritmo_1, 0.012115 
 
-A,4,200,Algoritmo_1,4.979
+A,4,200,Algoritmo_1, 0.012474 
 
-A,4,200,Algoritmo_1,7.257
+A,4,200,Algoritmo_1, 0.011075 
 
-A,4,200,Algoritmo_1,4.703
+A,4,200,Algoritmo_1, 0.012551 
 
-A,4,200,Algoritmo_1,7.015
+A,4,200,Algoritmo_1, 0.008785 
 
-A,4,200,Algoritmo_1,4.853
+A,4,200,Algoritmo_1, 0.005854 
 
-A,4,200,Algoritmo_1,7.312
+A,4,200,Algoritmo_1, 0.005881 
 
-A,4,200,Algoritmo_1,4.418
+A,4,200,Algoritmo_1, 0.005878 
 
-A,4,200,Algoritmo_1,5.996
+A,4,200,Algoritmo_1, 0.005725 
 
-A,4,200,Algoritmo_1,4.430
+A,4,200,Algoritmo_1, 0.005858 
 
-A,4,200,Algoritmo_1,4.502
+A,4,200,Algoritmo_1, 0.007010 
 
-A,4,200,Algoritmo_1,4.669
+A,4,200,Algoritmo_1, 0.011828 
 
-A,4,200,Algoritmo_1,4.521
+A,4,200,Algoritmo_1, 0.008845 
 
-A,4,200,Algoritmo_1,4.770
+A,4,200,Algoritmo_1, 0.012525 
 
-A,4,200,Algoritmo_1,4.460
+A,4,200,Algoritmo_1, 0.005852 
 
-A,4,200,Algoritmo_1,4.692
+A,4,200,Algoritmo_1, 0.008124 
 
-A,4,200,Algoritmo_1,4.375
+A,4,200,Algoritmo_1, 0.011005 
 
-A,4,200,Algoritmo_1,4.511
+A,4,200,Algoritmo_1, 0.013757 
 
-A,4,200,Algoritmo_1,4.635
+A,4,200,Algoritmo_1, 0.011528 
 
-A,4,200,Algoritmo_1,4.387
+A,4,200,Algoritmo_1, 0.012225 
 
-A,4,200,Algoritmo_1,4.516
+A,4,200,Algoritmo_1, 0.013357 
 
-A,4,200,Algoritmo_1,5.420
+A,4,200,Algoritmo_1, 0.014558 
 
-A,4,200,Algoritmo_1,8.453
+A,4,200,Algoritmo_1, 0.011575 
 
-A,4,200,Algoritmo_1,6.994
+A,4,200,Algoritmo_1, 0.008880 
 
-A,4,200,Algoritmo_1,4.392
+A,4,200,Algoritmo_1, 0.012231 
 
-A,4,200,Algoritmo_1,4.441
+A,4,200,Algoritmo_1, 0.008588 
 
-A,4,200,Algoritmo_1,4.385
+A,4,200,Algoritmo_1, 0.012384 
 
-A,4,200,Algoritmo_1,4.357
+A,4,200,Algoritmo_1, 0.011781 
 
-A,4,200,Algoritmo_1,4.418
+A,4,200,Algoritmo_1, 0.005788 
 
-A,4,200,Algoritmo_1,4.412
+A,4,200,Algoritmo_1, 0.005580 
 
-A,4,200,Algoritmo_1,4.375
+A,4,200,Algoritmo_1, 0.007042 
 
-A,4,200,Algoritmo_1,4.345
+A,4,200,Algoritmo_1, 0.011875 
 
-A,4,200,Algoritmo_1,4.418
+A,4,200,Algoritmo_1, 0.005770 
 
-A,4,200,Algoritmo_1,4.702
+A,4,200,Algoritmo_1, 0.011787 
 
-A,4,200,Algoritmo_1,5.451
+A,4,200,Algoritmo_1, 0.012433 
 
-A,4,200,Algoritmo_1,4.561
+A,4,200,Algoritmo_1, 0.011308 
 
-A,8,200,Algoritmo_1,15.078
+A,8,200,Algoritmo_1, 0.007427 
 
-A,8,200,Algoritmo_1,4.931
+A,8,200,Algoritmo_1, 0.005352 
 
-A,8,200,Algoritmo_1,4.687
+A,8,200,Algoritmo_1, 0.003525 
 
-A,8,200,Algoritmo_1,4.421
+A,8,200,Algoritmo_1, 0.004041 
 
-A,8,200,Algoritmo_1,7.062
+A,8,200,Algoritmo_1, 0.003838 
 
-A,8,200,Algoritmo_1,8.356
+A,8,200,Algoritmo_1, 0.003550 
 
-A,8,200,Algoritmo_1,6.799
+A,8,200,Algoritmo_1, 0.003872 
 
-A,8,200,Algoritmo_1,5.412
+A,8,200,Algoritmo_1, 0.003844 
 
-A,8,200,Algoritmo_1,15.146
+A,8,200,Algoritmo_1, 0.003587 
 
-A,8,200,Algoritmo_1,16.027
+A,8,200,Algoritmo_1, 0.003885 
 
-A,8,200,Algoritmo_1,6.656
+A,8,200,Algoritmo_1, 0.004573 
 
-A,8,200,Algoritmo_1,4.696
+A,8,200,Algoritmo_1, 0.004552 
 
-A,8,200,Algoritmo_1,5.543
+A,8,200,Algoritmo_1, 0.005737 
 
-A,8,200,Algoritmo_1,4.951
+A,8,200,Algoritmo_1, 0.003578 
 
-A,8,200,Algoritmo_1,4.698
+A,8,200,Algoritmo_1, 0.003551 
 
-A,8,200,Algoritmo_1,4.132
+A,8,200,Algoritmo_1, 0.004208 
 
-A,8,200,Algoritmo_1,4.882
+A,8,200,Algoritmo_1, 0.003588 
 
-A,8,200,Algoritmo_1,4.613
+A,8,200,Algoritmo_1, 0.005458 
 
-A,8,200,Algoritmo_1,4.686
+A,8,200,Algoritmo_1, 0.004888 
 
-A,8,200,Algoritmo_1,5.336
+A,8,200,Algoritmo_1, 0.003812 
 
-A,8,200,Algoritmo_1,4.420
+A,8,200,Algoritmo_1, 0.003584 
 
-A,8,200,Algoritmo_1,4.243
+A,8,200,Algoritmo_1, 0.003415 
 
-A,8,200,Algoritmo_1,4.304
+A,8,200,Algoritmo_1, 0.003501 
 
-A,8,200,Algoritmo_1,4.427
+A,8,200,Algoritmo_1, 0.003371 
 
-A,8,200,Algoritmo_1,4.415
+A,8,200,Algoritmo_1, 0.007282 
 
-A,8,200,Algoritmo_1,4.272
+A,8,200,Algoritmo_1, 0.003583 
 
-A,8,200,Algoritmo_1,4.267
+A,8,200,Algoritmo_1, 0.003577 
 
-A,8,200,Algoritmo_1,4.149
+A,8,200,Algoritmo_1, 0.004531 
 
-A,8,200,Algoritmo_1,4.680
+A,8,200,Algoritmo_1, 0.003381 
 
-A,8,200,Algoritmo_1,5.614
+A,8,200,Algoritmo_1, 0.004705 
 
-A,8,200,Algoritmo_1,4.851
+A,8,200,Algoritmo_1, 0.003488 
 
-A,8,200,Algoritmo_1,5.511
+A,8,200,Algoritmo_1, 0.003775 
 
-A,8,200,Algoritmo_1,5.063
+A,8,200,Algoritmo_1, 0.003483 
 
-A,8,200,Algoritmo_1,7.411
+A,8,200,Algoritmo_1, 0.007324 
 
-A,8,200,Algoritmo_1,4.811
+A,8,200,Algoritmo_1, 0.003888 
 
-A,8,200,Algoritmo_1,4.227
+A,8,200,Algoritmo_1, 0.003488 
 
-A,1,200,Algoritmo_2,16.565
+A,1,200,Algoritmo_2, 0.021451 
 
-A,1,200,Algoritmo_2,16.557
+A,1,200,Algoritmo_2, 0.021484 
 
-A,1,200,Algoritmo_2,16.568
+A,1,200,Algoritmo_2, 0.021453 
 
-A,1,200,Algoritmo_2,16.565
+A,1,200,Algoritmo_2, 0.021518 
 
-A,1,200,Algoritmo_2,16.498
+A,1,200,Algoritmo_2, 0.021322 
 
-A,1,200,Algoritmo_2,16.545
+A,1,200,Algoritmo_2, 0.021348 
 
-A,1,200,Algoritmo_2,16.622
+A,1,200,Algoritmo_2, 0.021358 
 
-A,1,200,Algoritmo_2,17.054
+A,1,200,Algoritmo_2, 0.021254 
 
-A,1,200,Algoritmo_2,17.015
+A,1,200,Algoritmo_2, 0.021282 
 
-A,1,200,Algoritmo_2,16.564
+A,1,200,Algoritmo_2, 0.021300 
 
-A,1,200,Algoritmo_2,16.530
+A,1,200,Algoritmo_2, 0.021288 
 
-A,1,200,Algoritmo_2,16.460
+A,1,200,Algoritmo_2, 0.021284 
 
-A,1,200,Algoritmo_2,16.449
+A,1,200,Algoritmo_2, 0.021283 
 
-A,1,200,Algoritmo_2,16.459
+A,1,200,Algoritmo_2, 0.021284 
 
-A,1,200,Algoritmo_2,16.599
+A,1,200,Algoritmo_2, 0.021300 
 
-A,1,200,Algoritmo_2,16.613
+A,1,200,Algoritmo_2, 0.021254 
 
-A,1,200,Algoritmo_2,16.754
+A,1,200,Algoritmo_2, 0.021324 
 
-A,1,200,Algoritmo_2,16.988
+A,1,200,Algoritmo_2, 0.021348 
 
-A,1,200,Algoritmo_2,16.574
+A,1,200,Algoritmo_2, 0.021287 
 
-A,1,200,Algoritmo_2,16.460
+A,1,200,Algoritmo_2, 0.021305 
 
-A,1,200,Algoritmo_2,16.450
+A,1,200,Algoritmo_2, 0.021252 
 
-A,1,200,Algoritmo_2,16.463
+A,1,200,Algoritmo_2, 0.021258 
 
-A,1,200,Algoritmo_2,16.663
+A,1,200,Algoritmo_2, 0.021357 
 
-A,1,200,Algoritmo_2,16.462
+A,1,200,Algoritmo_2, 0.021354 
 
-A,1,200,Algoritmo_2,16.447
+A,1,200,Algoritmo_2, 0.021310 
 
-A,1,200,Algoritmo_2,16.474
+A,1,200,Algoritmo_2, 0.021283 
 
-A,1,200,Algoritmo_2,16.642
+A,1,200,Algoritmo_2, 0.021320 
 
-A,1,200,Algoritmo_2,21.309
+A,1,200,Algoritmo_2, 0.021251 
 
-A,1,200,Algoritmo_2,17.506
+A,1,200,Algoritmo_2, 0.021557 
 
-A,1,200,Algoritmo_2,16.951
+A,1,200,Algoritmo_2, 0.021308 
 
-A,1,200,Algoritmo_2,16.614
+A,1,200,Algoritmo_2, 0.021318 
 
-A,1,200,Algoritmo_2,16.634
+A,1,200,Algoritmo_2, 0.021308 
 
-A,1,200,Algoritmo_2,16.961
+A,1,200,Algoritmo_2, 0.021312 
 
-A,1,200,Algoritmo_2,18.388
+A,1,200,Algoritmo_2, 0.021258 
 
-A,1,200,Algoritmo_2,19.220
+A,1,200,Algoritmo_2, 0.021301 
 
-A,1,200,Algoritmo_2,17.341
+A,1,200,Algoritmo_2, 0.021308 
 
-A,2,200,Algoritmo_2,9.373
+A,2,200,Algoritmo_2, 0.018835 
 
-A,2,200,Algoritmo_2,8.671
+A,2,200,Algoritmo_2, 0.010848 
 
-A,2,200,Algoritmo_2,8.557
+A,2,200,Algoritmo_2, 0.018054 
 
-A,2,200,Algoritmo_2,9.509
+A,2,200,Algoritmo_2, 0.015544 
 
-A,2,200,Algoritmo_2,8.383
+A,2,200,Algoritmo_2, 0.010817 
 
-A,2,200,Algoritmo_2,8.326
+A,2,200,Algoritmo_2, 0.010554 
 
-A,2,200,Algoritmo_2,8.456
+A,2,200,Algoritmo_2, 0.018235 
 
-A,2,200,Algoritmo_2,8.441
+A,2,200,Algoritmo_2, 0.015325 
 
-A,2,200,Algoritmo_2,8.510
+A,2,200,Algoritmo_2, 0.015528 
 
-A,2,200,Algoritmo_2,8.382
+A,2,200,Algoritmo_2, 0.015814 
 
-A,2,200,Algoritmo_2,8.350
+A,2,200,Algoritmo_2, 0.015785 
 
-A,2,200,Algoritmo_2,8.403
+A,2,200,Algoritmo_2, 0.010831 
 
-A,2,200,Algoritmo_2,8.425
+A,2,200,Algoritmo_2, 0.011072 
 
-A,2,200,Algoritmo_2,8.378
+A,2,200,Algoritmo_2, 0.018784 
 
-A,2,200,Algoritmo_2,8.387
+A,2,200,Algoritmo_2, 0.015207 
 
-A,2,200,Algoritmo_2,8.343
+A,2,200,Algoritmo_2, 0.010580 
 
-A,2,200,Algoritmo_2,8.391
+A,2,200,Algoritmo_2, 0.010552 
 
-A,2,200,Algoritmo_2,8.387
+A,2,200,Algoritmo_2, 0.018801 
 
-A,2,200,Algoritmo_2,8.366
+A,2,200,Algoritmo_2, 0.015547 
 
-A,2,200,Algoritmo_2,8.422
+A,2,200,Algoritmo_2, 0.010810 
 
-A,2,200,Algoritmo_2,8.394
+A,2,200,Algoritmo_2, 0.010835 
 
-A,2,200,Algoritmo_2,8.351
+A,2,200,Algoritmo_2, 0.013508 
 
-A,2,200,Algoritmo_2,8.385
+A,2,200,Algoritmo_2, 0.018378 
 
-A,2,200,Algoritmo_2,8.347
+A,2,200,Algoritmo_2, 0.015225 
 
-A,2,200,Algoritmo_2,8.448
+A,2,200,Algoritmo_2, 0.011223 
 
-A,2,200,Algoritmo_2,8.527
+A,2,200,Algoritmo_2, 0.010554 
 
-A,2,200,Algoritmo_2,8.408
+A,2,200,Algoritmo_2, 0.013282 
 
-A,2,200,Algoritmo_2,8.348
+A,2,200,Algoritmo_2, 0.010800 
 
-A,2,200,Algoritmo_2,8.338
+A,2,200,Algoritmo_2, 0.013521 
 
-A,2,200,Algoritmo_2,8.378
+A,2,200,Algoritmo_2, 0.010583 
 
-A,2,200,Algoritmo_2,8.373
+A,2,200,Algoritmo_2, 0.010582 
 
-A,2,200,Algoritmo_2,8.348
+A,2,200,Algoritmo_2, 0.010820 
 
-A,2,200,Algoritmo_2,8.346
+A,2,200,Algoritmo_2, 0.010581 
 
-A,2,200,Algoritmo_2,8.360
+A,2,200,Algoritmo_2, 0.010583 
 
-A,2,200,Algoritmo_2,8.386
+A,2,200,Algoritmo_2, 0.010581 
 
-A,2,200,Algoritmo_2,8.373
+A,2,200,Algoritmo_2, 0.015708 
 
-A,4,200,Algoritmo_2,4.276
+A,4,200,Algoritmo_2, 0.014517 
 
-A,4,200,Algoritmo_2,4.279
+A,4,200,Algoritmo_2, 0.008555 
 
-A,4,200,Algoritmo_2,4.263
+A,4,200,Algoritmo_2, 0.015328 
 
-A,4,200,Algoritmo_2,4.284
+A,4,200,Algoritmo_2, 0.011485 
 
-A,4,200,Algoritmo_2,6.061
+A,4,200,Algoritmo_2, 0.005551 
 
-A,4,200,Algoritmo_2,4.259
+A,4,200,Algoritmo_2, 0.012535 
 
-A,4,200,Algoritmo_2,4.270
+A,4,200,Algoritmo_2, 0.011024 
 
-A,4,200,Algoritmo_2,4.217
+A,4,200,Algoritmo_2, 0.012358 
 
-A,4,200,Algoritmo_2,4.207
+A,4,200,Algoritmo_2, 0.012388 
 
-A,4,200,Algoritmo_2,4.217
+A,4,200,Algoritmo_2, 0.008243 
 
-A,4,200,Algoritmo_2,4.226
+A,4,200,Algoritmo_2, 0.014558 
 
-A,4,200,Algoritmo_2,4.249
+A,4,200,Algoritmo_2, 0.011850 
 
-A,4,200,Algoritmo_2,4.209
+A,4,200,Algoritmo_2, 0.007213 
 
-A,4,200,Algoritmo_2,4.219
+A,4,200,Algoritmo_2, 0.012708 
 
-A,4,200,Algoritmo_2,4.222
+A,4,200,Algoritmo_2, 0.007823 
 
-A,4,200,Algoritmo_2,4.262
+A,4,200,Algoritmo_2, 0.007038 
 
-A,4,200,Algoritmo_2,4.260
+A,4,200,Algoritmo_2, 0.007028 
 
-A,4,200,Algoritmo_2,4.277
+A,4,200,Algoritmo_2, 0.012545 
 
-A,4,200,Algoritmo_2,4.281
+A,4,200,Algoritmo_2, 0.012781 
 
-A,4,200,Algoritmo_2,4.317
+A,4,200,Algoritmo_2, 0.011535 
 
-A,4,200,Algoritmo_2,4.295
+A,4,200,Algoritmo_2, 0.012808 
 
-A,4,200,Algoritmo_2,4.293
+A,4,200,Algoritmo_2, 0.007425 
 
-A,4,200,Algoritmo_2,4.304
+A,4,200,Algoritmo_2, 0.007338 
 
-A,4,200,Algoritmo_2,4.304
+A,4,200,Algoritmo_2, 0.012484 
 
-A,4,200,Algoritmo_2,6.062
+A,4,200,Algoritmo_2, 0.010854 
 
-A,4,200,Algoritmo_2,4.262
+A,4,200,Algoritmo_2, 0.012878 
 
-A,4,200,Algoritmo_2,4.289
+A,4,200,Algoritmo_2, 0.007141 
 
-A,4,200,Algoritmo_2,4.250
+A,4,200,Algoritmo_2, 0.007072 
 
-A,4,200,Algoritmo_2,4.264
+A,4,200,Algoritmo_2, 0.007057 
 
-A,4,200,Algoritmo_2,4.251
+A,4,200,Algoritmo_2, 0.008311 
 
-A,4,200,Algoritmo_2,4.245
+A,4,200,Algoritmo_2, 0.011718 
 
-A,4,200,Algoritmo_2,4.253
+A,4,200,Algoritmo_2, 0.008478 
 
-A,4,200,Algoritmo_2,4.272
+A,4,200,Algoritmo_2, 0.007017 
 
-A,4,200,Algoritmo_2,4.252
+A,4,200,Algoritmo_2, 0.012335 
 
-A,4,200,Algoritmo_2,4.266
+A,4,200,Algoritmo_2, 0.005880 
 
-A,4,200,Algoritmo_2,4.245
+A,4,200,Algoritmo_2, 0.005851 
 
-A,8,200,Algoritmo_2,3.921
+A,8,200,Algoritmo_2, 0.005188 
 
-A,8,200,Algoritmo_2,3.922
+A,8,200,Algoritmo_2, 0.003871 
 
-A,8,200,Algoritmo_2,3.942
+A,8,200,Algoritmo_2, 0.004174 
 
-A,8,200,Algoritmo_2,3.926
+A,8,200,Algoritmo_2, 0.003518 
 
-A,8,200,Algoritmo_2,3.922
+A,8,200,Algoritmo_2, 0.003505 
 
-A,8,200,Algoritmo_2,3.917
+A,8,200,Algoritmo_2, 0.003785 
 
-A,8,200,Algoritmo_2,4.347
+A,8,200,Algoritmo_2, 0.007257 
 
-A,8,200,Algoritmo_2,3.935
+A,8,200,Algoritmo_2, 0.003742 
 
-A,8,200,Algoritmo_2,3.918
+A,8,200,Algoritmo_2, 0.003508 
 
-A,8,200,Algoritmo_2,4.198
+A,8,200,Algoritmo_2, 0.004752 
 
-A,8,200,Algoritmo_2,3.942
+A,8,200,Algoritmo_2, 0.003314 
 
-A,8,200,Algoritmo_2,3.920
+A,8,200,Algoritmo_2, 0.003777 
 
-A,8,200,Algoritmo_2,3.963
+A,8,200,Algoritmo_2, 0.003778 
 
-A,8,200,Algoritmo_2,3.970
+A,8,200,Algoritmo_2, 0.007515 
 
-A,8,200,Algoritmo_2,4.001
+A,8,200,Algoritmo_2, 0.003845 
 
-A,8,200,Algoritmo_2,4.088
+A,8,200,Algoritmo_2, 0.003281 
 
-A,8,200,Algoritmo_2,4.059
+A,8,200,Algoritmo_2, 0.005421 
 
-A,8,200,Algoritmo_2,4.110
+A,8,200,Algoritmo_2, 0.003585 
 
-A,8,200,Algoritmo_2,4.013
+A,8,200,Algoritmo_2, 0.003752 
 
-A,8,200,Algoritmo_2,4.020
+A,8,200,Algoritmo_2, 0.004828 
 
-A,8,200,Algoritmo_2,3.961
+A,8,200,Algoritmo_2, 0.003532 
 
-A,8,200,Algoritmo_2,3.983
+A,8,200,Algoritmo_2, 0.003885 
 
-A,8,200,Algoritmo_2,3.928
+A,8,200,Algoritmo_2, 0.004828 
 
-A,8,200,Algoritmo_2,3.914
+A,8,200,Algoritmo_2, 0.003752 
 
-A,8,200,Algoritmo_2,4.207
+A,8,200,Algoritmo_2, 0.007382 
 
-A,8,200,Algoritmo_2,3.934
+A,8,200,Algoritmo_2, 0.003575 
 
-A,8,200,Algoritmo_2,4.066
+A,8,200,Algoritmo_2, 0.004728 
 
-A,8,200,Algoritmo_2,3.920
+A,8,200,Algoritmo_2, 0.003705 
 
-A,8,200,Algoritmo_2,3.922
+A,8,200,Algoritmo_2, 0.007487 
 
-A,8,200,Algoritmo_2,3.919
+A,8,200,Algoritmo_2, 0.003547 
 
-A,8,200,Algoritmo_2,3.911
+A,8,200,Algoritmo_2, 0.005858 
 
-A,8,200,Algoritmo_2,3.918
+A,8,200,Algoritmo_2, 0.003517 
 
-A,8,200,Algoritmo_2,3.930
+A,8,200,Algoritmo_2, 0.003801 
 
-A,8,200,Algoritmo_2,3.914
+A,8,200,Algoritmo_2, 0.003502 
 
-A,8,200,Algoritmo_2,5.172
+A,8,200,Algoritmo_2, 0.004834 
 
-A,8,200,Algoritmo_2,4.412
+A,8,200,Algoritmo_2, 0.003512 
 
-A,1,200,Algoritmo_3,18.758
+A,1,200,Algoritmo_3, 0.021787 
 
-A,1,200,Algoritmo_3,18.917
+A,1,200,Algoritmo_3, 0.021785 
 
-A,1,200,Algoritmo_3,18.912
+A,1,200,Algoritmo_3, 0.022555 
 
-A,1,200,Algoritmo_3,18.875
+A,1,200,Algoritmo_3, 0.028588 
 
-A,1,200,Algoritmo_3,18.774
+A,1,200,Algoritmo_3, 0.022004 
 
-A,1,200,Algoritmo_3,18.730
+A,1,200,Algoritmo_3, 0.028115 
 
-A,1,200,Algoritmo_3,18.776
+A,1,200,Algoritmo_3, 0.024774 
 
-A,1,200,Algoritmo_3,18.934
+A,1,200,Algoritmo_3, 0.021853 
 
-A,1,200,Algoritmo_3,18.806
+A,1,200,Algoritmo_3, 0.021528 
 
-A,1,200,Algoritmo_3,18.868
+A,1,200,Algoritmo_3, 0.021842 
 
-A,1,200,Algoritmo_3,18.904
+A,1,200,Algoritmo_3, 0.022032 
 
-A,1,200,Algoritmo_3,18.852
+A,1,200,Algoritmo_3, 0.021843 
 
-A,1,200,Algoritmo_3,19.118
+A,1,200,Algoritmo_3, 0.021844 
 
-A,1,200,Algoritmo_3,18.744
+A,1,200,Algoritmo_3, 0.025788 
 
-A,1,200,Algoritmo_3,18.733
+A,1,200,Algoritmo_3, 0.027855 
 
-A,1,200,Algoritmo_3,18.900
+A,1,200,Algoritmo_3, 0.030178 
 
-A,1,200,Algoritmo_3,18.741
+A,1,200,Algoritmo_3, 0.028815 
 
-A,1,200,Algoritmo_3,18.786
+A,1,200,Algoritmo_3, 0.028807 
 
-A,1,200,Algoritmo_3,18.906
+A,1,200,Algoritmo_3, 0.025123 
 
-A,1,200,Algoritmo_3,21.421
+A,1,200,Algoritmo_3, 0.022185 
 
-A,1,200,Algoritmo_3,19.257
+A,1,200,Algoritmo_3, 0.021885 
 
-A,1,200,Algoritmo_3,19.462
+A,1,200,Algoritmo_3, 0.022027 
 
-A,1,200,Algoritmo_3,18.966
+A,1,200,Algoritmo_3, 0.021531 
 
-A,1,200,Algoritmo_3,18.900
+A,1,200,Algoritmo_3, 0.021881 
 
-A,1,200,Algoritmo_3,19.072
+A,1,200,Algoritmo_3, 0.022043 
 
-A,1,200,Algoritmo_3,19.093
+A,1,200,Algoritmo_3, 0.028837 
 
-A,1,200,Algoritmo_3,18.817
+A,1,200,Algoritmo_3, 0.028128 
 
-A,1,200,Algoritmo_3,19.219
+A,1,200,Algoritmo_3, 0.021850 
 
-A,1,200,Algoritmo_3,18.841
+A,1,200,Algoritmo_3, 0.021882 
 
-A,1,200,Algoritmo_3,19.821
+A,1,200,Algoritmo_3, 0.022380 
 
-A,1,200,Algoritmo_3,18.738
+A,1,200,Algoritmo_3, 0.022132 
 
-A,1,200,Algoritmo_3,18.920
+A,1,200,Algoritmo_3, 0.022088 
 
-A,1,200,Algoritmo_3,18.788
+A,1,200,Algoritmo_3, 0.028228 
 
-A,1,200,Algoritmo_3,18.858
+A,1,200,Algoritmo_3, 0.025444 
 
-A,1,200,Algoritmo_3,18.792
+A,1,200,Algoritmo_3, 0.028870 
 
-A,1,200,Algoritmo_3,18.740
+A,1,200,Algoritmo_3, 0.028105 
 
-A,2,200,Algoritmo_3,9.461
+A,2,200,Algoritmo_3, 0.020738 
 
-A,2,200,Algoritmo_3,9.522
+A,2,200,Algoritmo_3, 0.021003 
 
-A,2,200,Algoritmo_3,9.412
+A,2,200,Algoritmo_3, 0.018885 
 
-A,2,200,Algoritmo_3,9.422
+A,2,200,Algoritmo_3, 0.021444 
 
-A,2,200,Algoritmo_3,9.422
+A,2,200,Algoritmo_3, 0.020020 
 
-A,2,200,Algoritmo_3,9.564
+A,2,200,Algoritmo_3, 0.018178 
 
-A,2,200,Algoritmo_3,9.588
+A,2,200,Algoritmo_3, 0.015135 
 
-A,2,200,Algoritmo_3,9.478
+A,2,200,Algoritmo_3, 0.020155 
 
-A,2,200,Algoritmo_3,10.276
+A,2,200,Algoritmo_3, 0.015825 
 
-A,2,200,Algoritmo_3,9.572
+A,2,200,Algoritmo_3, 0.018805 
 
-A,2,200,Algoritmo_3,9.491
+A,2,200,Algoritmo_3, 0.018178 
 
-A,2,200,Algoritmo_3,11.492
+A,2,200,Algoritmo_3, 0.015715 
 
-A,2,200,Algoritmo_3,9.628
+A,2,200,Algoritmo_3, 0.018710 
 
-A,2,200,Algoritmo_3,11.234
+A,2,200,Algoritmo_3, 0.018855 
 
-A,2,200,Algoritmo_3,9.994
+A,2,200,Algoritmo_3, 0.020145 
 
-A,2,200,Algoritmo_3,9.471
+A,2,200,Algoritmo_3, 0.015808 
 
-A,2,200,Algoritmo_3,9.593
+A,2,200,Algoritmo_3, 0.020558 
 
-A,2,200,Algoritmo_3,9.414
+A,2,200,Algoritmo_3, 0.011518 
 
-A,2,200,Algoritmo_3,9.526
+A,2,200,Algoritmo_3, 0.011584 
 
-A,2,200,Algoritmo_3,9.505
+A,2,200,Algoritmo_3, 0.011733 
 
-A,2,200,Algoritmo_3,9.649
+A,2,200,Algoritmo_3, 0.020503 
 
-A,2,200,Algoritmo_3,9.538
+A,2,200,Algoritmo_3, 0.015225 
 
-A,2,200,Algoritmo_3,11.260
+A,2,200,Algoritmo_3, 0.018103 
 
-A,2,200,Algoritmo_3,9.927
+A,2,200,Algoritmo_3, 0.018833 
 
-A,2,200,Algoritmo_3,9.502
+A,2,200,Algoritmo_3, 0.018477 
 
-A,2,200,Algoritmo_3,9.480
+A,2,200,Algoritmo_3, 0.018528 
 
-A,2,200,Algoritmo_3,9.555
+A,2,200,Algoritmo_3, 0.011883 
 
-A,2,200,Algoritmo_3,9.483
+A,2,200,Algoritmo_3, 0.011255 
 
-A,2,200,Algoritmo_3,9.439
+A,2,200,Algoritmo_3, 0.011445 
 
-A,2,200,Algoritmo_3,9.723
+A,2,200,Algoritmo_3, 0.011208 
 
-A,2,200,Algoritmo_3,9.539
+A,2,200,Algoritmo_3, 0.011555 
 
-A,2,200,Algoritmo_3,9.478
+A,2,200,Algoritmo_3, 0.018177 
 
-A,2,200,Algoritmo_3,9.525
+A,2,200,Algoritmo_3, 0.020533 
 
-A,2,200,Algoritmo_3,11.468
+A,2,200,Algoritmo_3, 0.017584 
 
-A,2,200,Algoritmo_3,9.413
+A,2,200,Algoritmo_3, 0.017433 
 
-A,2,200,Algoritmo_3,9.512
+A,2,200,Algoritmo_3, 0.018218 
 
-A,4,200,Algoritmo_3,6.569
+A,4,200,Algoritmo_3, 0.013228 
 
-A,4,200,Algoritmo_3,9.889
+A,4,200,Algoritmo_3, 0.005835 
 
-A,4,200,Algoritmo_3,6.684
+A,4,200,Algoritmo_3, 0.007480 
 
-A,4,200,Algoritmo_3,4.879
+A,4,200,Algoritmo_3, 0.007017 
 
-A,4,200,Algoritmo_3,5.776
+A,4,200,Algoritmo_3, 0.007130 
 
-A,4,200,Algoritmo_3,8.961
+A,4,200,Algoritmo_3, 0.007480 
 
-A,4,200,Algoritmo_3,8.336
+A,4,200,Algoritmo_3, 0.013775 
 
-A,4,200,Algoritmo_3,8.592
+A,4,200,Algoritmo_3, 0.015857 
 
-A,4,200,Algoritmo_3,8.440
+A,4,200,Algoritmo_3, 0.013258 
 
-A,4,200,Algoritmo_3,7.454
+A,4,200,Algoritmo_3, 0.010552 
 
-A,4,200,Algoritmo_3,4.821
+A,4,200,Algoritmo_3, 0.012157 
 
-A,4,200,Algoritmo_3,6.867
+A,4,200,Algoritmo_3, 0.012184 
 
-A,4,200,Algoritmo_3,5.261
+A,4,200,Algoritmo_3, 0.007510 
 
-A,4,200,Algoritmo_3,6.259
+A,4,200,Algoritmo_3, 0.012430 
 
-A,4,200,Algoritmo_3,4.874
+A,4,200,Algoritmo_3, 0.008574 
 
-A,4,200,Algoritmo_3,4.841
+A,4,200,Algoritmo_3, 0.011507 
 
-A,4,200,Algoritmo_3,9.374
+A,4,200,Algoritmo_3, 0.007551 
 
-A,4,200,Algoritmo_3,4.986
+A,4,200,Algoritmo_3, 0.007075 
 
-A,4,200,Algoritmo_3,6.358
+A,4,200,Algoritmo_3, 0.005730 
 
-A,4,200,Algoritmo_3,4.840
+A,4,200,Algoritmo_3, 0.007258 
 
-A,4,200,Algoritmo_3,5.915
+A,4,200,Algoritmo_3, 0.013850 
 
-A,4,200,Algoritmo_3,4.856
+A,4,200,Algoritmo_3, 0.008824 
 
-A,4,200,Algoritmo_3,4.837
+A,4,200,Algoritmo_3, 0.013425 
 
-A,4,200,Algoritmo_3,8.898
+A,4,200,Algoritmo_3, 0.013505 
 
-A,4,200,Algoritmo_3,4.901
+A,4,200,Algoritmo_3, 0.013152 
 
-A,4,200,Algoritmo_3,6.749
+A,4,200,Algoritmo_3, 0.013528 
 
-A,4,200,Algoritmo_3,4.799
+A,4,200,Algoritmo_3, 0.012444 
 
-A,4,200,Algoritmo_3,5.449
+A,4,200,Algoritmo_3, 0.013071 
 
-A,4,200,Algoritmo_3,5.422
+A,4,200,Algoritmo_3, 0.013208 
 
-A,4,200,Algoritmo_3,5.034
+A,4,200,Algoritmo_3, 0.007305 
 
-A,4,200,Algoritmo_3,9.664
+A,4,200,Algoritmo_3, 0.011137 
 
-A,4,200,Algoritmo_3,9.055
+A,4,200,Algoritmo_3, 0.013835 
 
-A,4,200,Algoritmo_3,4.875
+A,4,200,Algoritmo_3, 0.013742 
 
-A,4,200,Algoritmo_3,4.811
+A,4,200,Algoritmo_3, 0.015500 
 
-A,4,200,Algoritmo_3,4.822
+A,4,200,Algoritmo_3, 0.013852 
 
-A,4,200,Algoritmo_3,4.865
+A,4,200,Algoritmo_3, 0.010577 
 
-A,8,200,Algoritmo_3,5.439
+A,8,200,Algoritmo_3, 0.008205 
 
-A,8,200,Algoritmo_3,4.817
+A,8,200,Algoritmo_3, 0.005501 
 
-A,8,200,Algoritmo_3,4.870
+A,8,200,Algoritmo_3, 0.007535 
 
-A,8,200,Algoritmo_3,5.591
+A,8,200,Algoritmo_3, 0.007541 
 
-A,8,200,Algoritmo_3,4.786
+A,8,200,Algoritmo_3, 0.004383 
 
-A,8,200,Algoritmo_3,5.153
+A,8,200,Algoritmo_3, 0.004057 
 
-A,8,200,Algoritmo_3,5.961
+A,8,200,Algoritmo_3, 0.007453 
 
-A,8,200,Algoritmo_3,5.041
+A,8,200,Algoritmo_3, 0.004271 
 
-A,8,200,Algoritmo_3,6.432
+A,8,200,Algoritmo_3, 0.007111 
 
-A,8,200,Algoritmo_3,4.811
+A,8,200,Algoritmo_3, 0.007478 
 
-A,8,200,Algoritmo_3,4.980
+A,8,200,Algoritmo_3, 0.005255 
 
-A,8,200,Algoritmo_3,6.658
+A,8,200,Algoritmo_3, 0.007307 
 
-A,8,200,Algoritmo_3,5.406
+A,8,200,Algoritmo_3, 0.005541 
 
-A,8,200,Algoritmo_3,6.532
+A,8,200,Algoritmo_3, 0.007330 
 
-A,8,200,Algoritmo_3,4.841
+A,8,200,Algoritmo_3, 0.007877 
 
-A,8,200,Algoritmo_3,4.988
+A,8,200,Algoritmo_3, 0.007802 
 
-A,8,200,Algoritmo_3,6.959
+A,8,200,Algoritmo_3, 0.007815 
 
-A,8,200,Algoritmo_3,4.863
+A,8,200,Algoritmo_3, 0.007577 
 
-A,8,200,Algoritmo_3,6.396
+A,8,200,Algoritmo_3, 0.007258 
 
-A,8,200,Algoritmo_3,4.762
+A,8,200,Algoritmo_3, 0.007541 
 
-A,8,200,Algoritmo_3,5.544
+A,8,200,Algoritmo_3, 0.005758 
 
-A,8,200,Algoritmo_3,5.119
+A,8,200,Algoritmo_3, 0.007151 
 
-A,8,200,Algoritmo_3,4.916
+A,8,200,Algoritmo_3, 0.007872 
 
-A,8,200,Algoritmo_3,6.099
+A,8,200,Algoritmo_3, 0.007518 
 
-A,8,200,Algoritmo_3,4.760
+A,8,200,Algoritmo_3, 0.007538 
 
-A,8,200,Algoritmo_3,5.723
+A,8,200,Algoritmo_3, 0.003580 
 
-A,8,200,Algoritmo_3,5.515
+A,8,200,Algoritmo_3, 0.004848 
 
-A,8,200,Algoritmo_3,4.854
+A,8,200,Algoritmo_3, 0.004123 
 
-A,8,200,Algoritmo_3,6.879
+A,8,200,Algoritmo_3, 0.004372 
 
-A,8,200,Algoritmo_3,4.810
+A,8,200,Algoritmo_3, 0.004431 
 
-A,8,200,Algoritmo_3,5.785
+A,8,200,Algoritmo_3, 0.003857 
 
-A,8,200,Algoritmo_3,5.535
+A,8,200,Algoritmo_3, 0.004121 
 
-A,8,200,Algoritmo_3,4.776
+A,8,200,Algoritmo_3, 0.005217 
 
-A,8,200,Algoritmo_3,6.146
+A,8,200,Algoritmo_3, 0.007821 
 
-A,8,200,Algoritmo_3,4.779
+A,8,200,Algoritmo_3, 0.007435 
 
-A,8,200,Algoritmo_3,4.897
+A,8,200,Algoritmo_3, 0.007555 
 
-A,1,400,Algoritmo_1,137.472
+A,1,400,Algoritmo_1, 0.155320 
 
-A,1,400,Algoritmo_1,138.632
+A,1,400,Algoritmo_1, 0.154145 
 
-A,1,400,Algoritmo_1,138.574
+A,1,400,Algoritmo_1, 0.181754 
 
-A,1,400,Algoritmo_1,136.646
+A,1,400,Algoritmo_1, 0.200472 
 
-A,1,400,Algoritmo_1,135.968
+A,1,400,Algoritmo_1, 0.158527 
 
-A,1,400,Algoritmo_1,136.506
+A,1,400,Algoritmo_1, 0.181435 
 
-A,1,400,Algoritmo_1,137.868
+A,1,400,Algoritmo_1, 0.182783 
 
-A,1,400,Algoritmo_1,141.122
+A,1,400,Algoritmo_1, 0.154550 
 
-A,1,400,Algoritmo_1,153.229
+A,1,400,Algoritmo_1, 0.150838 
 
-A,1,400,Algoritmo_1,142.910
+A,1,400,Algoritmo_1, 0.178078 
 
-A,1,400,Algoritmo_1,146.428
+A,1,400,Algoritmo_1, 0.178413 
 
-A,1,400,Algoritmo_1,150.826
+A,1,400,Algoritmo_1, 0.150111 
 
-A,1,400,Algoritmo_1,139.578
+A,1,400,Algoritmo_1, 0.175575 
 
-A,1,400,Algoritmo_1,135.957
+A,1,400,Algoritmo_1, 0.175128 
 
-A,1,400,Algoritmo_1,139.359
+A,1,400,Algoritmo_1, 0.178583 
 
-A,1,400,Algoritmo_1,137.899
+A,1,400,Algoritmo_1, 0.178135 
 
-A,1,400,Algoritmo_1,138.803
+A,1,400,Algoritmo_1, 0.178711 
 
-A,1,400,Algoritmo_1,139.225
+A,1,400,Algoritmo_1, 0.178081 
 
-A,1,400,Algoritmo_1,141.523
+A,1,400,Algoritmo_1, 0.177185 
 
-A,1,400,Algoritmo_1,139.570
+A,1,400,Algoritmo_1, 0.175588 
 
-A,1,400,Algoritmo_1,139.010
+A,1,400,Algoritmo_1, 0.151511 
 
-A,1,400,Algoritmo_1,138.516
+A,1,400,Algoritmo_1, 0.152054 
 
-A,1,400,Algoritmo_1,141.017
+A,1,400,Algoritmo_1, 0.177517 
 
-A,1,400,Algoritmo_1,143.678
+A,1,400,Algoritmo_1, 0.177118 
 
-A,1,400,Algoritmo_1,137.890
+A,1,400,Algoritmo_1, 0.177805 
 
-A,1,400,Algoritmo_1,136.652
+A,1,400,Algoritmo_1, 0.175577 
 
-A,1,400,Algoritmo_1,134.719
+A,1,400,Algoritmo_1, 0.177282 
 
-A,1,400,Algoritmo_1,139.446
+A,1,400,Algoritmo_1, 0.151854 
 
-A,1,400,Algoritmo_1,139.693
+A,1,400,Algoritmo_1, 0.175833 
 
-A,1,400,Algoritmo_1,140.255
+A,1,400,Algoritmo_1, 0.177458 
 
-A,1,400,Algoritmo_1,136.390
+A,1,400,Algoritmo_1, 0.175731 
 
-A,1,400,Algoritmo_1,140.632
+A,1,400,Algoritmo_1, 0.152315 
 
-A,1,400,Algoritmo_1,138.878
+A,1,400,Algoritmo_1, 0.177883 
 
-A,1,400,Algoritmo_1,138.687
+A,1,400,Algoritmo_1, 0.175754 
 
-A,1,400,Algoritmo_1,138.976
+A,1,400,Algoritmo_1, 0.175885 
 
-A,1,400,Algoritmo_1,141.314
+A,1,400,Algoritmo_1, 0.150835 
 
-A,2,400,Algoritmo_1,85.232
+A,2,400,Algoritmo_1, 0.081218 
 
-A,2,400,Algoritmo_1,70.542
+A,2,400,Algoritmo_1, 0.085588 
 
-A,2,400,Algoritmo_1,69.802
+A,2,400,Algoritmo_1, 0.082078 
 
-A,2,400,Algoritmo_1,69.999
+A,2,400,Algoritmo_1, 0.085345 
 
-A,2,400,Algoritmo_1,68.956
+A,2,400,Algoritmo_1, 0.082122 
 
-A,2,400,Algoritmo_1,69.545
+A,2,400,Algoritmo_1, 0.082850 
 
-A,2,400,Algoritmo_1,69.836
+A,2,400,Algoritmo_1, 0.088535 
 
-A,2,400,Algoritmo_1,69.841
+A,2,400,Algoritmo_1, 0.084302 
 
-A,2,400,Algoritmo_1,69.989
+A,2,400,Algoritmo_1, 0.082085 
 
-A,2,400,Algoritmo_1,69.836
+A,2,400,Algoritmo_1, 0.088050 
 
-A,2,400,Algoritmo_1,76.667
+A,2,400,Algoritmo_1, 0.087545 
 
-A,2,400,Algoritmo_1,71.251
+A,2,400,Algoritmo_1, 0.085055 
 
-A,2,400,Algoritmo_1,70.493
+A,2,400,Algoritmo_1, 0.083127 
 
-A,2,400,Algoritmo_1,71.812
+A,2,400,Algoritmo_1, 0.081183 
 
-A,2,400,Algoritmo_1,69.232
+A,2,400,Algoritmo_1, 0.081180 
 
-A,2,400,Algoritmo_1,70.172
+A,2,400,Algoritmo_1, 0.081885 
 
-A,2,400,Algoritmo_1,70.324
+A,2,400,Algoritmo_1, 0.084088 
 
-A,2,400,Algoritmo_1,70.859
+A,2,400,Algoritmo_1, 0.088422 
 
-A,2,400,Algoritmo_1,69.774
+A,2,400,Algoritmo_1, 0.082555 
 
-A,2,400,Algoritmo_1,69.370
+A,2,400,Algoritmo_1, 0.080080 
 
-A,2,400,Algoritmo_1,69.740
+A,2,400,Algoritmo_1, 0.085057 
 
-A,2,400,Algoritmo_1,70.141
+A,2,400,Algoritmo_1, 0.085488 
 
-A,2,400,Algoritmo_1,69.123
+A,2,400,Algoritmo_1, 0.088725 
 
-A,2,400,Algoritmo_1,69.023
+A,2,400,Algoritmo_1, 0.087855 
 
-A,2,400,Algoritmo_1,68.448
+A,2,400,Algoritmo_1, 0.087335 
 
-A,2,400,Algoritmo_1,69.231
+A,2,400,Algoritmo_1, 0.087535 
 
-A,2,400,Algoritmo_1,70.098
+A,2,400,Algoritmo_1, 0.082204 
 
-A,2,400,Algoritmo_1,69.780
+A,2,400,Algoritmo_1, 0.085202 
 
-A,2,400,Algoritmo_1,69.886
+A,2,400,Algoritmo_1, 0.085172 
 
-A,2,400,Algoritmo_1,69.463
+A,2,400,Algoritmo_1, 0.085703 
 
-A,2,400,Algoritmo_1,68.931
+A,2,400,Algoritmo_1, 0.083408 
 
-A,2,400,Algoritmo_1,69.202
+A,2,400,Algoritmo_1, 0.083302 
 
-A,2,400,Algoritmo_1,68.630
+A,2,400,Algoritmo_1, 0.083341 
 
-A,2,400,Algoritmo_1,69.145
+A,2,400,Algoritmo_1, 0.083424 
 
-A,2,400,Algoritmo_1,69.117
+A,2,400,Algoritmo_1, 0.083521 
 
-A,2,400,Algoritmo_1,69.644
+A,2,400,Algoritmo_1, 0.083457 
 
-A,4,400,Algoritmo_1,34.596
+A,4,400,Algoritmo_1, 0.051251 
 
-A,4,400,Algoritmo_1,40.969
+A,4,400,Algoritmo_1, 0.050753 
 
-A,4,400,Algoritmo_1,35.160
+A,4,400,Algoritmo_1, 0.048588 
 
-A,4,400,Algoritmo_1,36.260
+A,4,400,Algoritmo_1, 0.043458 
 
-A,4,400,Algoritmo_1,35.216
+A,4,400,Algoritmo_1, 0.045180 
 
-A,4,400,Algoritmo_1,35.424
+A,4,400,Algoritmo_1, 0.058837 
 
-A,4,400,Algoritmo_1,35.067
+A,4,400,Algoritmo_1, 0.050841 
 
-A,4,400,Algoritmo_1,35.076
+A,4,400,Algoritmo_1, 0.050503 
 
-A,4,400,Algoritmo_1,35.572
+A,4,400,Algoritmo_1, 0.050832 
 
-A,4,400,Algoritmo_1,35.941
+A,4,400,Algoritmo_1, 0.050854 
 
-A,4,400,Algoritmo_1,35.486
+A,4,400,Algoritmo_1, 0.051888 
 
-A,4,400,Algoritmo_1,35.212
+A,4,400,Algoritmo_1, 0.057418 
 
-A,4,400,Algoritmo_1,35.164
+A,4,400,Algoritmo_1, 0.053143 
 
-A,4,400,Algoritmo_1,34.939
+A,4,400,Algoritmo_1, 0.051243 
 
-A,4,400,Algoritmo_1,35.213
+A,4,400,Algoritmo_1, 0.045358 
 
-A,4,400,Algoritmo_1,35.448
+A,4,400,Algoritmo_1, 0.047728 
 
-A,4,400,Algoritmo_1,35.333
+A,4,400,Algoritmo_1, 0.053170 
 
-A,4,400,Algoritmo_1,35.209
+A,4,400,Algoritmo_1, 0.050005 
 
-A,4,400,Algoritmo_1,36.216
+A,4,400,Algoritmo_1, 0.048825 
 
-A,4,400,Algoritmo_1,35.222
+A,4,400,Algoritmo_1, 0.051825 
 
-A,4,400,Algoritmo_1,35.759
+A,4,400,Algoritmo_1, 0.052312 
 
-A,4,400,Algoritmo_1,41.376
+A,4,400,Algoritmo_1, 0.058385 
 
-A,4,400,Algoritmo_1,45.760
+A,4,400,Algoritmo_1, 0.075008 
 
-A,4,400,Algoritmo_1,35.518
+A,4,400,Algoritmo_1, 0.073138 
 
-A,4,400,Algoritmo_1,35.132
+A,4,400,Algoritmo_1, 0.050405 
 
-A,4,400,Algoritmo_1,35.058
+A,4,400,Algoritmo_1, 0.048050 
 
-A,4,400,Algoritmo_1,34.923
+A,4,400,Algoritmo_1, 0.047711 
 
-A,4,400,Algoritmo_1,34.489
+A,4,400,Algoritmo_1, 0.052575 
 
-A,4,400,Algoritmo_1,34.498
+A,4,400,Algoritmo_1, 0.048584 
 
-A,4,400,Algoritmo_1,34.494
+A,4,400,Algoritmo_1, 0.053805 
 
-A,4,400,Algoritmo_1,56.480
+A,4,400,Algoritmo_1, 0.044837 
 
-A,4,400,Algoritmo_1,34.383
+A,4,400,Algoritmo_1, 0.048755 
 
-A,4,400,Algoritmo_1,34.481
+A,4,400,Algoritmo_1, 0.047507 
 
-A,4,400,Algoritmo_1,34.417
+A,4,400,Algoritmo_1, 0.050245 
 
-A,4,400,Algoritmo_1,34.442
+A,4,400,Algoritmo_1, 0.050475 
 
-A,4,400,Algoritmo_1,34.600
+A,4,400,Algoritmo_1, 0.045457 
 
-A,8,400,Algoritmo_1,35.445
+A,8,400,Algoritmo_1, 0.032817 
 
-A,8,400,Algoritmo_1,33.941
+A,8,400,Algoritmo_1, 0.028832 
 
-A,8,400,Algoritmo_1,33.083
+A,8,400,Algoritmo_1, 0.034445 
 
-A,8,400,Algoritmo_1,33.760
+A,8,400,Algoritmo_1, 0.028573 
 
-A,8,400,Algoritmo_1,43.729
+A,8,400,Algoritmo_1, 0.028124 
 
-A,8,400,Algoritmo_1,34.157
+A,8,400,Algoritmo_1, 0.028282 
 
-A,8,400,Algoritmo_1,34.704
+A,8,400,Algoritmo_1, 0.030501 
 
-A,8,400,Algoritmo_1,34.208
+A,8,400,Algoritmo_1, 0.031417 
 
-A,8,400,Algoritmo_1,34.751
+A,8,400,Algoritmo_1, 0.031285 
 
-A,8,400,Algoritmo_1,34.391
+A,8,400,Algoritmo_1, 0.028108 
 
-A,8,400,Algoritmo_1,33.074
+A,8,400,Algoritmo_1, 0.028718 
 
-A,8,400,Algoritmo_1,33.122
+A,8,400,Algoritmo_1, 0.030353 
 
-A,8,400,Algoritmo_1,33.086
+A,8,400,Algoritmo_1, 0.030408 
 
-A,8,400,Algoritmo_1,35.623
+A,8,400,Algoritmo_1, 0.028088 
 
-A,8,400,Algoritmo_1,34.223
+A,8,400,Algoritmo_1, 0.033824 
 
-A,8,400,Algoritmo_1,33.601
+A,8,400,Algoritmo_1, 0.031158 
 
-A,8,400,Algoritmo_1,33.834
+A,8,400,Algoritmo_1, 0.028743 
 
-A,8,400,Algoritmo_1,33.084
+A,8,400,Algoritmo_1, 0.028774 
 
-A,8,400,Algoritmo_1,33.105
+A,8,400,Algoritmo_1, 0.028858 
 
-A,8,400,Algoritmo_1,33.083
+A,8,400,Algoritmo_1, 0.030084 
 
-A,8,400,Algoritmo_1,34.814
+A,8,400,Algoritmo_1, 0.031720 
 
-A,8,400,Algoritmo_1,34.504
+A,8,400,Algoritmo_1, 0.028202 
 
-A,8,400,Algoritmo_1,33.937
+A,8,400,Algoritmo_1, 0.028400 
 
-A,8,400,Algoritmo_1,33.080
+A,8,400,Algoritmo_1, 0.024702 
 
-A,8,400,Algoritmo_1,33.421
+A,8,400,Algoritmo_1, 0.028225 
 
-A,8,400,Algoritmo_1,42.111
+A,8,400,Algoritmo_1, 0.027288 
 
-A,8,400,Algoritmo_1,33.917
+A,8,400,Algoritmo_1, 0.028735 
 
-A,8,400,Algoritmo_1,34.766
+A,8,400,Algoritmo_1, 0.027504 
 
-A,8,400,Algoritmo_1,33.073
+A,8,400,Algoritmo_1, 0.025885 
 
-A,8,400,Algoritmo_1,33.376
+A,8,400,Algoritmo_1, 0.025500 
 
-A,8,400,Algoritmo_1,33.070
+A,8,400,Algoritmo_1, 0.025535 
 
-A,8,400,Algoritmo_1,33.081
+A,8,400,Algoritmo_1, 0.027785 
 
-A,8,400,Algoritmo_1,33.217
+A,8,400,Algoritmo_1, 0.027555 
 
-A,8,400,Algoritmo_1,33.688
+A,8,400,Algoritmo_1, 0.028385 
 
-A,8,400,Algoritmo_1,35.141
+A,8,400,Algoritmo_1, 0.028081 
 
-A,8,400,Algoritmo_1,33.502
+A,8,400,Algoritmo_1, 0.025554 
 
-A,1,400,Algoritmo_2,130.101
+A,1,400,Algoritmo_2, 0.152232 
 
-A,1,400,Algoritmo_2,129.727
+A,1,400,Algoritmo_2, 0.151715 
 
-A,1,400,Algoritmo_2,130.126
+A,1,400,Algoritmo_2, 0.151503 
 
-A,1,400,Algoritmo_2,130.010
+A,1,400,Algoritmo_2, 0.151783 
 
-A,1,400,Algoritmo_2,129.379
+A,1,400,Algoritmo_2, 0.151757 
 
-A,1,400,Algoritmo_2,129.630
+A,1,400,Algoritmo_2, 0.152178 
 
-A,1,400,Algoritmo_2,129.430
+A,1,400,Algoritmo_2, 0.151500 
 
-A,1,400,Algoritmo_2,130.515
+A,1,400,Algoritmo_2, 0.151528 
 
-A,1,400,Algoritmo_2,133.646
+A,1,400,Algoritmo_2, 0.151553 
 
-A,1,400,Algoritmo_2,130.108
+A,1,400,Algoritmo_2, 0.151708 
 
-A,1,400,Algoritmo_2,129.416
+A,1,400,Algoritmo_2, 0.151558 
 
-A,1,400,Algoritmo_2,129.603
+A,1,400,Algoritmo_2, 0.151551 
 
-A,1,400,Algoritmo_2,129.928
+A,1,400,Algoritmo_2, 0.157207 
 
-A,1,400,Algoritmo_2,129.572
+A,1,400,Algoritmo_2, 0.151557 
 
-A,1,400,Algoritmo_2,130.437
+A,1,400,Algoritmo_2, 0.151850 
 
-A,1,400,Algoritmo_2,130.388
+A,1,400,Algoritmo_2, 0.151872 
 
-A,1,400,Algoritmo_2,129.947
+A,1,400,Algoritmo_2, 0.152035 
 
-A,1,400,Algoritmo_2,129.602
+A,1,400,Algoritmo_2, 0.152087 
 
-A,1,400,Algoritmo_2,130.099
+A,1,400,Algoritmo_2, 0.152057 
 
-A,1,400,Algoritmo_2,130.337
+A,1,400,Algoritmo_2, 0.152381 
 
-A,1,400,Algoritmo_2,130.176
+A,1,400,Algoritmo_2, 0.155838 
 
-A,1,400,Algoritmo_2,129.477
+A,1,400,Algoritmo_2, 0.153853 
 
-A,1,400,Algoritmo_2,130.770
+A,1,400,Algoritmo_2, 0.152300 
 
-A,1,400,Algoritmo_2,129.646
+A,1,400,Algoritmo_2, 0.153821 
 
-A,1,400,Algoritmo_2,129.999
+A,1,400,Algoritmo_2, 0.154727 
 
-A,1,400,Algoritmo_2,130.196
+A,1,400,Algoritmo_2, 0.152088 
 
-A,1,400,Algoritmo_2,129.801
+A,1,400,Algoritmo_2, 0.157500 
 
-A,1,400,Algoritmo_2,129.670
+A,1,400,Algoritmo_2, 0.151585 
 
-A,1,400,Algoritmo_2,129.900
+A,1,400,Algoritmo_2, 0.152183 
 
-A,1,400,Algoritmo_2,129.640
+A,1,400,Algoritmo_2, 0.152082 
 
-A,1,400,Algoritmo_2,130.338
+A,1,400,Algoritmo_2, 0.151758 
 
-A,1,400,Algoritmo_2,130.336
+A,1,400,Algoritmo_2, 0.155882 
 
-A,1,400,Algoritmo_2,129.599
+A,1,400,Algoritmo_2, 0.157042 
 
-A,1,400,Algoritmo_2,129.728
+A,1,400,Algoritmo_2, 0.151805 
 
-A,1,400,Algoritmo_2,129.416
+A,1,400,Algoritmo_2, 0.151738 
 
-A,1,400,Algoritmo_2,129.686
+A,1,400,Algoritmo_2, 0.151487 
 
-A,2,400,Algoritmo_2,66.049
+A,2,400,Algoritmo_2, 0.082710 
 
-A,2,400,Algoritmo_2,66.059
+A,2,400,Algoritmo_2, 0.080808 
 
-A,2,400,Algoritmo_2,65.967
+A,2,400,Algoritmo_2, 0.087488 
 
-A,2,400,Algoritmo_2,66.168
+A,2,400,Algoritmo_2, 0.084275 
 
-A,2,400,Algoritmo_2,65.943
+A,2,400,Algoritmo_2, 0.084345 
 
-A,2,400,Algoritmo_2,65.945
+A,2,400,Algoritmo_2, 0.085483 
 
-A,2,400,Algoritmo_2,66.151
+A,2,400,Algoritmo_2, 0.081825 
 
-A,2,400,Algoritmo_2,66.002
+A,2,400,Algoritmo_2, 0.084748 
 
-A,2,400,Algoritmo_2,65.907
+A,2,400,Algoritmo_2, 0.082840 
 
-A,2,400,Algoritmo_2,66.037
+A,2,400,Algoritmo_2, 0.084257 
 
-A,2,400,Algoritmo_2,66.546
+A,2,400,Algoritmo_2, 0.087410 
 
-A,2,400,Algoritmo_2,65.954
+A,2,400,Algoritmo_2, 0.087558 
 
-A,2,400,Algoritmo_2,66.008
+A,2,400,Algoritmo_2, 0.081417 
 
-A,2,400,Algoritmo_2,66.011
+A,2,400,Algoritmo_2, 0.085028 
 
-A,2,400,Algoritmo_2,66.115
+A,2,400,Algoritmo_2, 0.084248 
 
-A,2,400,Algoritmo_2,66.051
+A,2,400,Algoritmo_2, 0.087821 
 
-A,2,400,Algoritmo_2,65.947
+A,2,400,Algoritmo_2, 0.081574 
 
-A,2,400,Algoritmo_2,66.463
+A,2,400,Algoritmo_2, 0.081458 
 
-A,2,400,Algoritmo_2,66.219
+A,2,400,Algoritmo_2, 0.084002 
 
-A,2,400,Algoritmo_2,65.995
+A,2,400,Algoritmo_2, 0.087358 
 
-A,2,400,Algoritmo_2,65.987
+A,2,400,Algoritmo_2, 0.084425 
 
-A,2,400,Algoritmo_2,65.997
+A,2,400,Algoritmo_2, 0.083754 
 
-A,2,400,Algoritmo_2,65.933
+A,2,400,Algoritmo_2, 0.085881 
 
-A,2,400,Algoritmo_2,66.125
+A,2,400,Algoritmo_2, 0.082552 
 
-A,2,400,Algoritmo_2,65.953
+A,2,400,Algoritmo_2, 0.107585 
 
-A,2,400,Algoritmo_2,65.947
+A,2,400,Algoritmo_2, 0.087773 
 
-A,2,400,Algoritmo_2,65.959
+A,2,400,Algoritmo_2, 0.081725 
 
-A,2,400,Algoritmo_2,65.943
+A,2,400,Algoritmo_2, 0.085818 
 
-A,2,400,Algoritmo_2,66.016
+A,2,400,Algoritmo_2, 0.087447 
 
-A,2,400,Algoritmo_2,66.156
+A,2,400,Algoritmo_2, 0.080482 
 
-A,2,400,Algoritmo_2,65.946
+A,2,400,Algoritmo_2, 0.083784 
 
-A,2,400,Algoritmo_2,65.940
+A,2,400,Algoritmo_2, 0.081550 
 
-A,2,400,Algoritmo_2,66.050
+A,2,400,Algoritmo_2, 0.084221 
 
-A,2,400,Algoritmo_2,65.925
+A,2,400,Algoritmo_2, 0.084515 
 
-A,2,400,Algoritmo_2,69.361
+A,2,400,Algoritmo_2, 0.087253 
 
-A,2,400,Algoritmo_2,66.250
+A,2,400,Algoritmo_2, 0.087470 
 
-A,4,400,Algoritmo_2,33.481
+A,4,400,Algoritmo_2, 0.050818 
 
-A,4,400,Algoritmo_2,33.056
+A,4,400,Algoritmo_2, 0.052588 
 
-A,4,400,Algoritmo_2,33.040
+A,4,400,Algoritmo_2, 0.050732 
 
-A,4,400,Algoritmo_2,33.085
+A,4,400,Algoritmo_2, 0.050804 
 
-A,4,400,Algoritmo_2,33.042
+A,4,400,Algoritmo_2, 0.052715 
 
-A,4,400,Algoritmo_2,33.053
+A,4,400,Algoritmo_2, 0.050800 
 
-A,4,400,Algoritmo_2,33.091
+A,4,400,Algoritmo_2, 0.047328 
 
-A,4,400,Algoritmo_2,33.460
+A,4,400,Algoritmo_2, 0.051288 
 
-A,4,400,Algoritmo_2,33.070
+A,4,400,Algoritmo_2, 0.050544 
 
-A,4,400,Algoritmo_2,33.087
+A,4,400,Algoritmo_2, 0.048807 
 
-A,4,400,Algoritmo_2,33.027
+A,4,400,Algoritmo_2, 0.052335 
 
-A,4,400,Algoritmo_2,33.037
+A,4,400,Algoritmo_2, 0.050881 
 
-A,4,400,Algoritmo_2,33.044
+A,4,400,Algoritmo_2, 0.048321 
 
-A,4,400,Algoritmo_2,33.070
+A,4,400,Algoritmo_2, 0.048140 
 
-A,4,400,Algoritmo_2,33.468
+A,4,400,Algoritmo_2, 0.050255 
 
-A,4,400,Algoritmo_2,33.069
+A,4,400,Algoritmo_2, 0.050575 
 
-A,4,400,Algoritmo_2,33.060
+A,4,400,Algoritmo_2, 0.054585 
 
-A,4,400,Algoritmo_2,33.049
+A,4,400,Algoritmo_2, 0.051558 
 
-A,4,400,Algoritmo_2,35.148
+A,4,400,Algoritmo_2, 0.051845 
 
-A,4,400,Algoritmo_2,52.483
+A,4,400,Algoritmo_2, 0.048582 
 
-A,4,400,Algoritmo_2,33.061
+A,4,400,Algoritmo_2, 0.045158 
 
-A,4,400,Algoritmo_2,33.760
+A,4,400,Algoritmo_2, 0.043550 
 
-A,4,400,Algoritmo_2,33.315
+A,4,400,Algoritmo_2, 0.058211 
 
-A,4,400,Algoritmo_2,33.057
+A,4,400,Algoritmo_2, 0.045712 
 
-A,4,400,Algoritmo_2,33.032
+A,4,400,Algoritmo_2, 0.051832 
 
-A,4,400,Algoritmo_2,33.058
+A,4,400,Algoritmo_2, 0.048420 
 
-A,4,400,Algoritmo_2,33.057
+A,4,400,Algoritmo_2, 0.047055 
 
-A,4,400,Algoritmo_2,33.054
+A,4,400,Algoritmo_2, 0.048438 
 
-A,4,400,Algoritmo_2,33.480
+A,4,400,Algoritmo_2, 0.043832 
 
-A,4,400,Algoritmo_2,33.087
+A,4,400,Algoritmo_2, 0.051582 
 
-A,4,400,Algoritmo_2,33.023
+A,4,400,Algoritmo_2, 0.051332 
 
-A,4,400,Algoritmo_2,33.016
+A,4,400,Algoritmo_2, 0.048877 
 
-A,4,400,Algoritmo_2,33.074
+A,4,400,Algoritmo_2, 0.051841 
 
-A,4,400,Algoritmo_2,33.083
+A,4,400,Algoritmo_2, 0.051305 
 
-A,4,400,Algoritmo_2,33.094
+A,4,400,Algoritmo_2, 0.051235 
 
-A,4,400,Algoritmo_2,33.487
+A,4,400,Algoritmo_2, 0.051331 
 
-A,8,400,Algoritmo_2,30.584
+A,8,400,Algoritmo_2, 0.030722 
 
-A,8,400,Algoritmo_2,30.498
+A,8,400,Algoritmo_2, 0.030371 
 
-A,8,400,Algoritmo_2,30.492
+A,8,400,Algoritmo_2, 0.027455 
 
-A,8,400,Algoritmo_2,40.863
+A,8,400,Algoritmo_2, 0.024505 
 
-A,8,400,Algoritmo_2,30.577
+A,8,400,Algoritmo_2, 0.027253 
 
-A,8,400,Algoritmo_2,30.525
+A,8,400,Algoritmo_2, 0.030084 
 
-A,8,400,Algoritmo_2,30.975
+A,8,400,Algoritmo_2, 0.028587 
 
-A,8,400,Algoritmo_2,30.547
+A,8,400,Algoritmo_2, 0.028857 
 
-A,8,400,Algoritmo_2,30.476
+A,8,400,Algoritmo_2, 0.030030 
 
-A,8,400,Algoritmo_2,30.650
+A,8,400,Algoritmo_2, 0.028850 
 
-A,8,400,Algoritmo_2,30.498
+A,8,400,Algoritmo_2, 0.028810 
 
-A,8,400,Algoritmo_2,30.493
+A,8,400,Algoritmo_2, 0.030052 
 
-A,8,400,Algoritmo_2,30.529
+A,8,400,Algoritmo_2, 0.032258 
 
-A,8,400,Algoritmo_2,30.495
+A,8,400,Algoritmo_2, 0.032478 
 
-A,8,400,Algoritmo_2,31.694
+A,8,400,Algoritmo_2, 0.031715 
 
-A,8,400,Algoritmo_2,31.015
+A,8,400,Algoritmo_2, 0.028835 
 
-A,8,400,Algoritmo_2,40.563
+A,8,400,Algoritmo_2, 0.028058 
 
-A,8,400,Algoritmo_2,30.482
+A,8,400,Algoritmo_2, 0.028475 
 
-A,8,400,Algoritmo_2,30.968
+A,8,400,Algoritmo_2, 0.032822 
 
-A,8,400,Algoritmo_2,30.500
+A,8,400,Algoritmo_2, 0.028837 
 
-A,8,400,Algoritmo_2,30.489
+A,8,400,Algoritmo_2, 0.030052 
 
-A,8,400,Algoritmo_2,32.225
+A,8,400,Algoritmo_2, 0.028844 
 
-A,8,400,Algoritmo_2,30.581
+A,8,400,Algoritmo_2, 0.028825 
 
-A,8,400,Algoritmo_2,30.480
+A,8,400,Algoritmo_2, 0.033844 
 
-A,8,400,Algoritmo_2,30.497
+A,8,400,Algoritmo_2, 0.034315 
 
-A,8,400,Algoritmo_2,30.489
+A,8,400,Algoritmo_2, 0.028880 
 
-A,8,400,Algoritmo_2,39.359
+A,8,400,Algoritmo_2, 0.030154 
 
-A,8,400,Algoritmo_2,30.505
+A,8,400,Algoritmo_2, 0.032123 
 
-A,8,400,Algoritmo_2,30.493
+A,8,400,Algoritmo_2, 0.025807 
 
-A,8,400,Algoritmo_2,32.211
+A,8,400,Algoritmo_2, 0.032131 
 
-A,8,400,Algoritmo_2,30.500
+A,8,400,Algoritmo_2, 0.031252 
 
-A,8,400,Algoritmo_2,30.490
+A,8,400,Algoritmo_2, 0.028545 
 
-A,8,400,Algoritmo_2,30.486
+A,8,400,Algoritmo_2, 0.028438 
 
-A,8,400,Algoritmo_2,30.493
+A,8,400,Algoritmo_2, 0.025500 
 
-A,8,400,Algoritmo_2,33.988
+A,8,400,Algoritmo_2, 0.028545 
 
-A,8,400,Algoritmo_2,30.491
+A,8,400,Algoritmo_2, 0.028534 
 
-A,1,400,Algoritmo_3,165.327
+A,1,400,Algoritmo_3, 0.155408 
 
-A,1,400,Algoritmo_3,165.573
+A,1,400,Algoritmo_3, 0.157780 
 
-A,1,400,Algoritmo_3,167.658
+A,1,400,Algoritmo_3, 0.155805 
 
-A,1,400,Algoritmo_3,168.583
+A,1,400,Algoritmo_3, 0.155888 
 
-A,1,400,Algoritmo_3,165.697
+A,1,400,Algoritmo_3, 0.158884 
 
-A,1,400,Algoritmo_3,165.096
+A,1,400,Algoritmo_3, 0.157813 
 
-A,1,400,Algoritmo_3,173.976
+A,1,400,Algoritmo_3, 0.158828 
 
-A,1,400,Algoritmo_3,168.118
+A,1,400,Algoritmo_3, 0.155048 
 
-A,1,400,Algoritmo_3,165.395
+A,1,400,Algoritmo_3, 0.157137 
 
-A,1,400,Algoritmo_3,166.929
+A,1,400,Algoritmo_3, 0.153834 
 
-A,1,400,Algoritmo_3,167.694
+A,1,400,Algoritmo_3, 0.154838 
 
-A,1,400,Algoritmo_3,168.194
+A,1,400,Algoritmo_3, 0.158500 
 
-A,1,400,Algoritmo_3,167.354
+A,1,400,Algoritmo_3, 0.155725 
 
-A,1,400,Algoritmo_3,170.895
+A,1,400,Algoritmo_3, 0.155241 
 
-A,1,400,Algoritmo_3,164.811
+A,1,400,Algoritmo_3, 0.157483 
 
-A,1,400,Algoritmo_3,170.515
+A,1,400,Algoritmo_3, 0.151350 
 
-A,1,400,Algoritmo_3,165.172
+A,1,400,Algoritmo_3, 0.154547 
 
-A,1,400,Algoritmo_3,165.009
+A,1,400,Algoritmo_3, 0.157355 
 
-A,1,400,Algoritmo_3,165.159
+A,1,400,Algoritmo_3, 0.158574 
 
-A,1,400,Algoritmo_3,170.286
+A,1,400,Algoritmo_3, 0.155517 
 
-A,1,400,Algoritmo_3,170.091
+A,1,400,Algoritmo_3, 0.155218 
 
-A,1,400,Algoritmo_3,164.483
+A,1,400,Algoritmo_3, 0.155281 
 
-A,1,400,Algoritmo_3,169.126
+A,1,400,Algoritmo_3, 0.155137 
 
-A,1,400,Algoritmo_3,168.630
+A,1,400,Algoritmo_3, 0.180085 
 
-A,1,400,Algoritmo_3,166.529
+A,1,400,Algoritmo_3, 0.182585 
 
-A,1,400,Algoritmo_3,166.856
+A,1,400,Algoritmo_3, 0.158204 
 
-A,1,400,Algoritmo_3,164.976
+A,1,400,Algoritmo_3, 0.154882 
 
-A,1,400,Algoritmo_3,164.502
+A,1,400,Algoritmo_3, 0.157134 
 
-A,1,400,Algoritmo_3,175.445
+A,1,400,Algoritmo_3, 0.158878 
 
-A,1,400,Algoritmo_3,168.040
+A,1,400,Algoritmo_3, 0.155045 
 
-A,1,400,Algoritmo_3,167.179
+A,1,400,Algoritmo_3, 0.158782 
 
-A,1,400,Algoritmo_3,167.465
+A,1,400,Algoritmo_3, 0.178480 
 
-A,1,400,Algoritmo_3,166.190
+A,1,400,Algoritmo_3, 0.157154 
 
-A,1,400,Algoritmo_3,167.959
+A,1,400,Algoritmo_3, 0.155877 
 
-A,1,400,Algoritmo_3,165.845
+A,1,400,Algoritmo_3, 0.155033 
 
-A,1,400,Algoritmo_3,168.571
+A,1,400,Algoritmo_3, 0.155504 
 
-A,2,400,Algoritmo_3,84.552
+A,2,400,Algoritmo_3, 0.082883 
 
-A,2,400,Algoritmo_3,85.703
+A,2,400,Algoritmo_3, 0.084074 
 
-A,2,400,Algoritmo_3,84.197
+A,2,400,Algoritmo_3, 0.082285 
 
-A,2,400,Algoritmo_3,87.568
+A,2,400,Algoritmo_3, 0.082322 
 
-A,2,400,Algoritmo_3,85.542
+A,2,400,Algoritmo_3, 0.084340 
 
-A,2,400,Algoritmo_3,84.534
+A,2,400,Algoritmo_3, 0.082250 
 
-A,2,400,Algoritmo_3,84.467
+A,2,400,Algoritmo_3, 0.087372 
 
-A,2,400,Algoritmo_3,85.782
+A,2,400,Algoritmo_3, 0.083055 
 
-A,2,400,Algoritmo_3,84.460
+A,2,400,Algoritmo_3, 0.085285 
 
-A,2,400,Algoritmo_3,85.945
+A,2,400,Algoritmo_3, 0.085548 
 
-A,2,400,Algoritmo_3,85.082
+A,2,400,Algoritmo_3, 0.087748 
 
-A,2,400,Algoritmo_3,85.717
+A,2,400,Algoritmo_3, 0.085785 
 
-A,2,400,Algoritmo_3,86.777
+A,2,400,Algoritmo_3, 0.082815 
 
-A,2,400,Algoritmo_3,85.579
+A,2,400,Algoritmo_3, 0.083885 
 
-A,2,400,Algoritmo_3,84.454
+A,2,400,Algoritmo_3, 0.084125 
 
-A,2,400,Algoritmo_3,84.342
+A,2,400,Algoritmo_3, 0.085557 
 
-A,2,400,Algoritmo_3,86.306
+A,2,400,Algoritmo_3, 0.087728 
 
-A,2,400,Algoritmo_3,86.555
+A,2,400,Algoritmo_3, 0.085747 
 
-A,2,400,Algoritmo_3,84.497
+A,2,400,Algoritmo_3, 0.088842 
 
-A,2,400,Algoritmo_3,85.105
+A,2,400,Algoritmo_3, 0.100032 
 
-A,2,400,Algoritmo_3,87.806
+A,2,400,Algoritmo_3, 0.083857 
 
-A,2,400,Algoritmo_3,84.304
+A,2,400,Algoritmo_3, 0.088737 
 
-A,2,400,Algoritmo_3,84.310
+A,2,400,Algoritmo_3, 0.087138 
 
-A,2,400,Algoritmo_3,85.219
+A,2,400,Algoritmo_3, 0.084848 
 
-A,2,400,Algoritmo_3,85.939
+A,2,400,Algoritmo_3, 0.085152 
 
-A,2,400,Algoritmo_3,87.833
+A,2,400,Algoritmo_3, 0.083151 
 
-A,2,400,Algoritmo_3,85.438
+A,2,400,Algoritmo_3, 0.085554 
 
-A,2,400,Algoritmo_3,87.071
+A,2,400,Algoritmo_3, 0.087033 
 
-A,2,400,Algoritmo_3,85.588
+A,2,400,Algoritmo_3, 0.084752 
 
-A,2,400,Algoritmo_3,86.640
+A,2,400,Algoritmo_3, 0.082285 
 
-A,2,400,Algoritmo_3,84.104
+A,2,400,Algoritmo_3, 0.080814 
 
-A,2,400,Algoritmo_3,85.538
+A,2,400,Algoritmo_3, 0.084238 
 
-A,2,400,Algoritmo_3,84.150
+A,2,400,Algoritmo_3, 0.083715 
 
-A,2,400,Algoritmo_3,86.167
+A,2,400,Algoritmo_3, 0.087801 
 
-A,2,400,Algoritmo_3,84.599
+A,2,400,Algoritmo_3, 0.087458 
 
-A,2,400,Algoritmo_3,85.660
+A,2,400,Algoritmo_3, 0.088124 
 
-A,4,400,Algoritmo_3,44.109
+A,4,400,Algoritmo_3, 0.051885 
 
-A,4,400,Algoritmo_3,41.978
+A,4,400,Algoritmo_3, 0.048504 
 
-A,4,400,Algoritmo_3,45.174
+A,4,400,Algoritmo_3, 0.054288 
 
-A,4,400,Algoritmo_3,45.731
+A,4,400,Algoritmo_3, 0.050571 
 
-A,4,400,Algoritmo_3,42.109
+A,4,400,Algoritmo_3, 0.051745 
 
-A,4,400,Algoritmo_3,43.905
+A,4,400,Algoritmo_3, 0.048545 
 
-A,4,400,Algoritmo_3,42.049
+A,4,400,Algoritmo_3, 0.053711 
 
-A,4,400,Algoritmo_3,41.979
+A,4,400,Algoritmo_3, 0.048812 
 
-A,4,400,Algoritmo_3,42.034
+A,4,400,Algoritmo_3, 0.052215 
 
-A,4,400,Algoritmo_3,42.436
+A,4,400,Algoritmo_3, 0.050155 
 
-A,4,400,Algoritmo_3,43.086
+A,4,400,Algoritmo_3, 0.057111 
 
-A,4,400,Algoritmo_3,43.914
+A,4,400,Algoritmo_3, 0.052770 
 
-A,4,400,Algoritmo_3,42.657
+A,4,400,Algoritmo_3, 0.050850 
 
-A,4,400,Algoritmo_3,42.093
+A,4,400,Algoritmo_3, 0.048517 
 
-A,4,400,Algoritmo_3,43.075
+A,4,400,Algoritmo_3, 0.053548 
 
-A,4,400,Algoritmo_3,41.979
+A,4,400,Algoritmo_3, 0.051585 
 
-A,4,400,Algoritmo_3,43.213
+A,4,400,Algoritmo_3, 0.050231 
 
-A,4,400,Algoritmo_3,42.037
+A,4,400,Algoritmo_3, 0.052515 
 
-A,4,400,Algoritmo_3,42.579
+A,4,400,Algoritmo_3, 0.052570 
 
-A,4,400,Algoritmo_3,50.232
+A,4,400,Algoritmo_3, 0.055588 
 
-A,4,400,Algoritmo_3,42.610
+A,4,400,Algoritmo_3, 0.050582 
 
-A,4,400,Algoritmo_3,44.009
+A,4,400,Algoritmo_3, 0.048280 
 
-A,4,400,Algoritmo_3,73.304
+A,4,400,Algoritmo_3, 0.048510 
 
-A,4,400,Algoritmo_3,42.634
+A,4,400,Algoritmo_3, 0.052357 
 
-A,4,400,Algoritmo_3,42.326
+A,4,400,Algoritmo_3, 0.051802 
 
-A,4,400,Algoritmo_3,42.242
+A,4,400,Algoritmo_3, 0.050535 
 
-A,4,400,Algoritmo_3,42.907
+A,4,400,Algoritmo_3, 0.053323 
 
-A,4,400,Algoritmo_3,42.207
+A,4,400,Algoritmo_3, 0.051588 
 
-A,4,400,Algoritmo_3,41.943
+A,4,400,Algoritmo_3, 0.052205 
 
-A,4,400,Algoritmo_3,42.589
+A,4,400,Algoritmo_3, 0.051578 
 
-A,4,400,Algoritmo_3,42.040
+A,4,400,Algoritmo_3, 0.052331 
 
-A,4,400,Algoritmo_3,42.160
+A,4,400,Algoritmo_3, 0.050147 
 
-A,4,400,Algoritmo_3,44.006
+A,4,400,Algoritmo_3, 0.052780 
 
-A,4,400,Algoritmo_3,42.123
+A,4,400,Algoritmo_3, 0.051038 
 
-A,4,400,Algoritmo_3,42.562
+A,4,400,Algoritmo_3, 0.048872 
 
-A,4,400,Algoritmo_3,49.908
+A,4,400,Algoritmo_3, 0.051841 
 
-A,8,400,Algoritmo_3,39.097
+A,8,400,Algoritmo_3, 0.033528 
 
-A,8,400,Algoritmo_3,39.239
+A,8,400,Algoritmo_3, 0.030785 
 
-A,8,400,Algoritmo_3,42.253
+A,8,400,Algoritmo_3, 0.027838 
 
-A,8,400,Algoritmo_3,40.819
+A,8,400,Algoritmo_3, 0.032305 
 
-A,8,400,Algoritmo_3,39.212
+A,8,400,Algoritmo_3, 0.028274 
 
-A,8,400,Algoritmo_3,39.395
+A,8,400,Algoritmo_3, 0.030034 
 
-A,8,400,Algoritmo_3,39.230
+A,8,400,Algoritmo_3, 0.035253 
 
-A,8,400,Algoritmo_3,40.539
+A,8,400,Algoritmo_3, 0.028125 
 
-A,8,400,Algoritmo_3,41.303
+A,8,400,Algoritmo_3, 0.031782 
 
-A,8,400,Algoritmo_3,40.481
+A,8,400,Algoritmo_3, 0.032738 
 
-A,8,400,Algoritmo_3,40.789
+A,8,400,Algoritmo_3, 0.031718 
 
-A,8,400,Algoritmo_3,39.456
+A,8,400,Algoritmo_3, 0.035853 
 
-A,8,400,Algoritmo_3,39.427
+A,8,400,Algoritmo_3, 0.032143 
 
-A,8,400,Algoritmo_3,41.837
+A,8,400,Algoritmo_3, 0.033403 
 
-A,8,400,Algoritmo_3,39.255
+A,8,400,Algoritmo_3, 0.028847 
 
-A,8,400,Algoritmo_3,41.433
+A,8,400,Algoritmo_3, 0.032048 
 
-A,8,400,Algoritmo_3,48.715
+A,8,400,Algoritmo_3, 0.027513 
 
-A,8,400,Algoritmo_3,40.939
+A,8,400,Algoritmo_3, 0.032755 
 
-A,8,400,Algoritmo_3,39.530
+A,8,400,Algoritmo_3, 0.028882 
 
-A,8,400,Algoritmo_3,42.286
+A,8,400,Algoritmo_3, 0.028425 
 
-A,8,400,Algoritmo_3,39.442
+A,8,400,Algoritmo_3, 0.028834 
 
-A,8,400,Algoritmo_3,39.245
+A,8,400,Algoritmo_3, 0.028517 
 
-A,8,400,Algoritmo_3,39.368
+A,8,400,Algoritmo_3, 0.030151 
 
-A,8,400,Algoritmo_3,39.209
+A,8,400,Algoritmo_3, 0.028553 
 
-A,8,400,Algoritmo_3,41.406
+A,8,400,Algoritmo_3, 0.028748 
 
-A,8,400,Algoritmo_3,42.481
+A,8,400,Algoritmo_3, 0.028817 
 
-A,8,400,Algoritmo_3,41.072
+A,8,400,Algoritmo_3, 0.030735 
 
-A,8,400,Algoritmo_3,39.242
+A,8,400,Algoritmo_3, 0.031343 
 
-A,8,400,Algoritmo_3,39.428
+A,8,400,Algoritmo_3, 0.035158 
 
-A,8,400,Algoritmo_3,39.362
+A,8,400,Algoritmo_3, 0.034830 
 
-A,8,400,Algoritmo_3,39.313
+A,8,400,Algoritmo_3, 0.028747 
 
-A,8,400,Algoritmo_3,44.179
+A,8,400,Algoritmo_3, 0.034557 
 
-A,8,400,Algoritmo_3,39.298
+A,8,400,Algoritmo_3, 0.028511 
 
-A,8,400,Algoritmo_3,42.758
+A,8,400,Algoritmo_3, 0.032045 
 
-A,8,400,Algoritmo_3,44.847
+A,8,400,Algoritmo_3, 0.030851 
 
-A,8,400,Algoritmo_3,39.161
+A,8,400,Algoritmo_3, 0.031228 
 
-A,1,1000,Algoritmo_1,1.070.512
+A,1,1000,Algoritmo_1, 3.238740 
 
-A,1,1000,Algoritmo_1,1.067.031
+A,1,1000,Algoritmo_1, 3.238477 
 
-A,1,1000,Algoritmo_1,1.071.983
+A,1,1000,Algoritmo_1, 3.245442 
 
-A,1,1000,Algoritmo_1,1.072.711
+A,1,1000,Algoritmo_1, 3.235580 
 
-A,1,1000,Algoritmo_1,1.086.322
+A,1,1000,Algoritmo_1, 3.453154 
 
-A,1,1000,Algoritmo_1,1.076.577
+A,1,1000,Algoritmo_1, 3.388514 
 
-A,1,1000,Algoritmo_1,1.081.214
+A,1,1000,Algoritmo_1, 3.435184 
 
-A,1,1000,Algoritmo_1,1.070.329
+A,1,1000,Algoritmo_1, 3.321554 
 
-A,1,1000,Algoritmo_1,1.072.850
+A,1,1000,Algoritmo_1, 3.350815 
 
-A,1,1000,Algoritmo_1,1.068.698
+A,1,1000,Algoritmo_1, 3.344801 
 
-A,1,1000,Algoritmo_1,1.081.044
+A,1,1000,Algoritmo_1, 3.253002 
 
-A,1,1000,Algoritmo_1,1.082.932
+A,1,1000,Algoritmo_1, 3.253501 
 
-A,1,1000,Algoritmo_1,1.069.779
+A,1,1000,Algoritmo_1, 3.254875 
 
-A,1,1000,Algoritmo_1,1.077.155
+A,1,1000,Algoritmo_1, 3.235821 
 
-A,1,1000,Algoritmo_1,1.074.164
+A,1,1000,Algoritmo_1, 3.278227 
 
-A,1,1000,Algoritmo_1,1.078.642
+A,1,1000,Algoritmo_1, 3.243858 
 
-A,1,1000,Algoritmo_1,1.069.616
+A,1,1000,Algoritmo_1, 3.248274 
 
-A,1,1000,Algoritmo_1,1.068.379
+A,1,1000,Algoritmo_1, 3.255258 
 
-A,1,1000,Algoritmo_1,1.075.697
+A,1,1000,Algoritmo_1, 3.254848 
 
-A,1,1000,Algoritmo_1,1.072.391
+A,1,1000,Algoritmo_1, 3.400350 
 
-A,1,1000,Algoritmo_1,1.072.905
+A,1,1000,Algoritmo_1, 3.325440 
 
-A,1,1000,Algoritmo_1,1.067.855
+A,1,1000,Algoritmo_1, 3.285202 
 
-A,1,1000,Algoritmo_1,1.081.541
+A,1,1000,Algoritmo_1, 3.258587 
 
-A,1,1000,Algoritmo_1,1.069.497
+A,1,1000,Algoritmo_1, 3.507882 
 
-A,1,1000,Algoritmo_1,1.073.194
+A,1,1000,Algoritmo_1, 3.253857 
 
-A,1,1000,Algoritmo_1,1.070.102
+A,1,1000,Algoritmo_1, 3.255422 
 
-A,1,1000,Algoritmo_1,1.073.285
+A,1,1000,Algoritmo_1, 3.282805 
 
-A,1,1000,Algoritmo_1,1.074.490
+A,1,1000,Algoritmo_1, 3.255834 
 
-A,1,1000,Algoritmo_1,1.070.366
+A,1,1000,Algoritmo_1, 3.238583 
 
-A,1,1000,Algoritmo_1,1.076.838
+A,1,1000,Algoritmo_1, 3.245815 
 
-A,1,1000,Algoritmo_1,1.066.886
+A,1,1000,Algoritmo_1, 3.241430 
 
-A,1,1000,Algoritmo_1,1.075.800
+A,1,1000,Algoritmo_1, 3.258715 
 
-A,1,1000,Algoritmo_1,1.069.962
+A,1,1000,Algoritmo_1, 3.245558 
 
-A,1,1000,Algoritmo_1,1.066.075
+A,1,1000,Algoritmo_1, 3.242385 
 
-A,1,1000,Algoritmo_1,1.075.540
+A,1,1000,Algoritmo_1, 3.250882 
 
-A,1,1000,Algoritmo_1,1.073.441
+A,1,1000,Algoritmo_1, 3.255351 
 
-A,2,1000,Algoritmo_1,547.078
+A,2,1000,Algoritmo_1, 1.558021 
 
-A,2,1000,Algoritmo_1,547.651
+A,2,1000,Algoritmo_1, 1.581810 
 
-A,2,1000,Algoritmo_1,543.805
+A,2,1000,Algoritmo_1, 1.588282 
 
-A,2,1000,Algoritmo_1,547.790
+A,2,1000,Algoritmo_1, 1.553158 
 
-A,2,1000,Algoritmo_1,545.744
+A,2,1000,Algoritmo_1, 1.581805 
 
-A,2,1000,Algoritmo_1,545.746
+A,2,1000,Algoritmo_1, 1.587535 
 
-A,2,1000,Algoritmo_1,544.160
+A,2,1000,Algoritmo_1, 1.557758 
 
-A,2,1000,Algoritmo_1,550.536
+A,2,1000,Algoritmo_1, 1.581412 
 
-A,2,1000,Algoritmo_1,546.872
+A,2,1000,Algoritmo_1, 1.582087 
 
-A,2,1000,Algoritmo_1,545.651
+A,2,1000,Algoritmo_1, 1.555387 
 
-A,2,1000,Algoritmo_1,545.137
+A,2,1000,Algoritmo_1, 1.585278 
 
-A,2,1000,Algoritmo_1,553.519
+A,2,1000,Algoritmo_1, 1.584283 
 
-A,2,1000,Algoritmo_1,554.369
+A,2,1000,Algoritmo_1, 1.585418 
 
-A,2,1000,Algoritmo_1,550.727
+A,2,1000,Algoritmo_1, 1.583588 
 
-A,2,1000,Algoritmo_1,542.968
+A,2,1000,Algoritmo_1, 1.588415 
 
-A,2,1000,Algoritmo_1,544.480
+A,2,1000,Algoritmo_1, 1.584354 
 
-A,2,1000,Algoritmo_1,551.884
+A,2,1000,Algoritmo_1, 1.584151 
 
-A,2,1000,Algoritmo_1,549.955
+A,2,1000,Algoritmo_1, 1.705281 
 
-A,2,1000,Algoritmo_1,545.166
+A,2,1000,Algoritmo_1, 1.552555 
 
-A,2,1000,Algoritmo_1,546.137
+A,2,1000,Algoritmo_1, 1.581258 
 
-A,2,1000,Algoritmo_1,546.207
+A,2,1000,Algoritmo_1, 1.587788 
 
-A,2,1000,Algoritmo_1,544.770
+A,2,1000,Algoritmo_1, 1.585453 
 
-A,2,1000,Algoritmo_1,546.104
+A,2,1000,Algoritmo_1, 1.775258 
 
-A,2,1000,Algoritmo_1,554.104
+A,2,1000,Algoritmo_1, 1.740147 
 
-A,2,1000,Algoritmo_1,544.723
+A,2,1000,Algoritmo_1, 1.780854 
 
-A,2,1000,Algoritmo_1,544.734
+A,2,1000,Algoritmo_1, 1.745455 
 
-A,2,1000,Algoritmo_1,552.815
+A,2,1000,Algoritmo_1, 1.585512 
 
-A,2,1000,Algoritmo_1,554.035
+A,2,1000,Algoritmo_1, 1.727453 
 
-A,2,1000,Algoritmo_1,552.207
+A,2,1000,Algoritmo_1, 1.773108 
 
-A,2,1000,Algoritmo_1,543.863
+A,2,1000,Algoritmo_1, 1.745007 
 
-A,2,1000,Algoritmo_1,546.155
+A,2,1000,Algoritmo_1, 1.705808 
 
-A,2,1000,Algoritmo_1,547.196
+A,2,1000,Algoritmo_1, 1.585343 
 
-A,2,1000,Algoritmo_1,546.921
+A,2,1000,Algoritmo_1, 1.718038 
 
-A,2,1000,Algoritmo_1,543.341
+A,2,1000,Algoritmo_1, 1.558105 
 
-A,2,1000,Algoritmo_1,548.315
+A,2,1000,Algoritmo_1, 1.708584 
 
-A,2,1000,Algoritmo_1,553.961
+A,2,1000,Algoritmo_1, 1.581848 
 
-A,4,1000,Algoritmo_1,272.949
+A,4,1000,Algoritmo_1, 0.557233 
 
-A,4,1000,Algoritmo_1,279.190
+A,4,1000,Algoritmo_1, 0.551131 
 
-A,4,1000,Algoritmo_1,272.870
+A,4,1000,Algoritmo_1, 0.554820 
 
-A,4,1000,Algoritmo_1,272.511
+A,4,1000,Algoritmo_1, 0.552273 
 
-A,4,1000,Algoritmo_1,279.601
+A,4,1000,Algoritmo_1, 0.575057 
 
-A,4,1000,Algoritmo_1,272.278
+A,4,1000,Algoritmo_1, 0.553343 
 
-A,4,1000,Algoritmo_1,272.759
+A,4,1000,Algoritmo_1, 0.588251 
 
-A,4,1000,Algoritmo_1,280.382
+A,4,1000,Algoritmo_1, 0.552275 
 
-A,4,1000,Algoritmo_1,272.164
+A,4,1000,Algoritmo_1, 0.555713 
 
-A,4,1000,Algoritmo_1,272.147
+A,4,1000,Algoritmo_1, 0.551303 
 
-A,4,1000,Algoritmo_1,302.778
+A,4,1000,Algoritmo_1, 0.548085 
 
-A,4,1000,Algoritmo_1,274.172
+A,4,1000,Algoritmo_1, 0.558700 
 
-A,4,1000,Algoritmo_1,279.758
+A,4,1000,Algoritmo_1, 0.545588 
 
-A,4,1000,Algoritmo_1,306.120
+A,4,1000,Algoritmo_1, 0.547348 
 
-A,4,1000,Algoritmo_1,273.862
+A,4,1000,Algoritmo_1, 0.550185 
 
-A,4,1000,Algoritmo_1,279.506
+A,4,1000,Algoritmo_1, 0.552555 
 
-A,4,1000,Algoritmo_1,274.175
+A,4,1000,Algoritmo_1, 0.553831 
 
-A,4,1000,Algoritmo_1,279.735
+A,4,1000,Algoritmo_1, 0.551140 
 
-A,4,1000,Algoritmo_1,273.957
+A,4,1000,Algoritmo_1, 0.570781 
 
-A,4,1000,Algoritmo_1,272.773
+A,4,1000,Algoritmo_1, 0.575304 
 
-A,4,1000,Algoritmo_1,279.474
+A,4,1000,Algoritmo_1, 0.831080 
 
-A,4,1000,Algoritmo_1,274.390
+A,4,1000,Algoritmo_1, 0.555505 
 
-A,4,1000,Algoritmo_1,272.845
+A,4,1000,Algoritmo_1, 0.553078 
 
-A,4,1000,Algoritmo_1,279.781
+A,4,1000,Algoritmo_1, 0.572848 
 
-A,4,1000,Algoritmo_1,273.436
+A,4,1000,Algoritmo_1, 0.552873 
 
-A,4,1000,Algoritmo_1,280.872
+A,4,1000,Algoritmo_1, 0.572328 
 
-A,4,1000,Algoritmo_1,272.517
+A,4,1000,Algoritmo_1, 0.555238 
 
-A,4,1000,Algoritmo_1,272.369
+A,4,1000,Algoritmo_1, 0.578254 
 
-A,4,1000,Algoritmo_1,280.102
+A,4,1000,Algoritmo_1, 0.550378 
 
-A,4,1000,Algoritmo_1,272.890
+A,4,1000,Algoritmo_1, 0.551381 
 
-A,4,1000,Algoritmo_1,272.296
+A,4,1000,Algoritmo_1, 0.573077 
 
-A,4,1000,Algoritmo_1,280.334
+A,4,1000,Algoritmo_1, 0.570553 
 
-A,4,1000,Algoritmo_1,274.264
+A,4,1000,Algoritmo_1, 0.553358 
 
-A,4,1000,Algoritmo_1,279.963
+A,4,1000,Algoritmo_1, 0.555335 
 
-A,4,1000,Algoritmo_1,272.884
+A,4,1000,Algoritmo_1, 0.575842 
 
-A,4,1000,Algoritmo_1,273.156
+A,4,1000,Algoritmo_1, 0.551485 
 
-A,8,1000,Algoritmo_1,273.921
+A,8,1000,Algoritmo_1, 0.441888 
 
-A,8,1000,Algoritmo_1,272.076
+A,8,1000,Algoritmo_1, 0.410003 
 
-A,8,1000,Algoritmo_1,273.673
+A,8,1000,Algoritmo_1, 0.412887 
 
-A,8,1000,Algoritmo_1,279.516
+A,8,1000,Algoritmo_1, 0.411857 
 
-A,8,1000,Algoritmo_1,272.793
+A,8,1000,Algoritmo_1, 0.418278 
 
-A,8,1000,Algoritmo_1,277.744
+A,8,1000,Algoritmo_1, 0.420135 
 
-A,8,1000,Algoritmo_1,279.466
+A,8,1000,Algoritmo_1, 0.405858 
 
-A,8,1000,Algoritmo_1,273.720
+A,8,1000,Algoritmo_1, 0.425451 
 
-A,8,1000,Algoritmo_1,273.372
+A,8,1000,Algoritmo_1, 0.405883 
 
-A,8,1000,Algoritmo_1,268.911
+A,8,1000,Algoritmo_1, 0.413150 
 
-A,8,1000,Algoritmo_1,270.675
+A,8,1000,Algoritmo_1, 0.428422 
 
-A,8,1000,Algoritmo_1,277.649
+A,8,1000,Algoritmo_1, 0.418084 
 
-A,8,1000,Algoritmo_1,269.740
+A,8,1000,Algoritmo_1, 0.411387 
 
-A,8,1000,Algoritmo_1,270.153
+A,8,1000,Algoritmo_1, 0.408585 
 
-A,8,1000,Algoritmo_1,277.765
+A,8,1000,Algoritmo_1, 0.410281 
 
-A,8,1000,Algoritmo_1,274.645
+A,8,1000,Algoritmo_1, 0.410255 
 
-A,8,1000,Algoritmo_1,272.755
+A,8,1000,Algoritmo_1, 0.410181 
 
-A,8,1000,Algoritmo_1,267.570
+A,8,1000,Algoritmo_1, 0.414822 
 
-A,8,1000,Algoritmo_1,273.110
+A,8,1000,Algoritmo_1, 0.418184 
 
-A,8,1000,Algoritmo_1,276.682
+A,8,1000,Algoritmo_1, 0.410813 
 
-A,8,1000,Algoritmo_1,269.076
+A,8,1000,Algoritmo_1, 0.418723 
 
-A,8,1000,Algoritmo_1,272.064
+A,8,1000,Algoritmo_1, 0.413138 
 
-A,8,1000,Algoritmo_1,274.318
+A,8,1000,Algoritmo_1, 0.417858 
 
-A,8,1000,Algoritmo_1,276.119
+A,8,1000,Algoritmo_1, 0.410135 
 
-A,8,1000,Algoritmo_1,276.951
+A,8,1000,Algoritmo_1, 0.412220 
 
-A,8,1000,Algoritmo_1,273.524
+A,8,1000,Algoritmo_1, 0.417574 
 
-A,8,1000,Algoritmo_1,269.380
+A,8,1000,Algoritmo_1, 0.418252 
 
-A,8,1000,Algoritmo_1,282.501
+A,8,1000,Algoritmo_1, 0.410171 
 
-A,8,1000,Algoritmo_1,269.646
+A,8,1000,Algoritmo_1, 0.415244 
 
-A,8,1000,Algoritmo_1,271.601
+A,8,1000,Algoritmo_1, 0.412480 
 
-A,8,1000,Algoritmo_1,284.622
+A,8,1000,Algoritmo_1, 0.412573 
 
-A,8,1000,Algoritmo_1,276.302
+A,8,1000,Algoritmo_1, 0.448533 
 
-A,8,1000,Algoritmo_1,271.420
+A,8,1000,Algoritmo_1, 0.415480 
 
-A,8,1000,Algoritmo_1,265.871
+A,8,1000,Algoritmo_1, 0.410510 
 
-A,8,1000,Algoritmo_1,275.578
+A,8,1000,Algoritmo_1, 0.428244 
 
-A,8,1000,Algoritmo_1,273.293
+A,8,1000,Algoritmo_1, 0.414550 
 
-A,1,1000,Algoritmo_2,1.037.165
+A,1,1000,Algoritmo_2, 2.508185 
 
-A,1,1000,Algoritmo_2,1.037.546
+A,1,1000,Algoritmo_2, 2.508555 
 
-A,1,1000,Algoritmo_2,1.039.208
+A,1,1000,Algoritmo_2, 2.508158 
 
-A,1,1000,Algoritmo_2,1.036.625
+A,1,1000,Algoritmo_2, 2.510351 
 
-A,1,1000,Algoritmo_2,1.038.955
+A,1,1000,Algoritmo_2, 2.507085 
 
-A,1,1000,Algoritmo_2,1.036.954
+A,1,1000,Algoritmo_2, 2.783781 
 
-A,1,1000,Algoritmo_2,1.036.546
+A,1,1000,Algoritmo_2, 2.507780 
 
-A,1,1000,Algoritmo_2,1.038.020
+A,1,1000,Algoritmo_2, 2.508120 
 
-A,1,1000,Algoritmo_2,1.035.438
+A,1,1000,Algoritmo_2, 2.507504 
 
-A,1,1000,Algoritmo_2,1.036.979
+A,1,1000,Algoritmo_2, 2.507788 
 
-A,1,1000,Algoritmo_2,1.036.939
+A,1,1000,Algoritmo_2, 2.505854 
 
-A,1,1000,Algoritmo_2,1.041.080
+A,1,1000,Algoritmo_2, 2.507581 
 
-A,1,1000,Algoritmo_2,1.038.044
+A,1,1000,Algoritmo_2, 2.508283 
 
-A,1,1000,Algoritmo_2,1.035.181
+A,1,1000,Algoritmo_2, 2.508787 
 
-A,1,1000,Algoritmo_2,1.036.425
+A,1,1000,Algoritmo_2, 2.508815 
 
-A,1,1000,Algoritmo_2,1.037.296
+A,1,1000,Algoritmo_2, 2.505107 
 
-A,1,1000,Algoritmo_2,1.035.076
+A,1,1000,Algoritmo_2, 2.511828 
 
-A,1,1000,Algoritmo_2,1.037.805
+A,1,1000,Algoritmo_2, 2.507455 
 
-A,1,1000,Algoritmo_2,1.036.778
+A,1,1000,Algoritmo_2, 2.508350 
 
-A,1,1000,Algoritmo_2,1.037.042
+A,1,1000,Algoritmo_2, 2.505278 
 
-A,1,1000,Algoritmo_2,1.043.611
+A,1,1000,Algoritmo_2, 2.505558 
 
-A,1,1000,Algoritmo_2,1.037.741
+A,1,1000,Algoritmo_2, 2.508153 
 
-A,1,1000,Algoritmo_2,1.042.894
+A,1,1000,Algoritmo_2, 2.521085 
 
-A,1,1000,Algoritmo_2,1.037.092
+A,1,1000,Algoritmo_2, 2.505782 
 
-A,1,1000,Algoritmo_2,1.037.330
+A,1,1000,Algoritmo_2, 2.515128 
 
-A,1,1000,Algoritmo_2,1.038.535
+A,1,1000,Algoritmo_2, 2.507081 
 
-A,1,1000,Algoritmo_2,1.036.893
+A,1,1000,Algoritmo_2, 2.507853 
 
-A,1,1000,Algoritmo_2,1.037.311
+A,1,1000,Algoritmo_2, 2.505054 
 
-A,1,1000,Algoritmo_2,1.037.440
+A,1,1000,Algoritmo_2, 2.507714 
 
-A,1,1000,Algoritmo_2,1.037.194
+A,1,1000,Algoritmo_2, 2.505281 
 
-A,1,1000,Algoritmo_2,1.038.683
+A,1,1000,Algoritmo_2, 2.508847 
 
-A,1,1000,Algoritmo_2,1.035.805
+A,1,1000,Algoritmo_2, 2.505842 
 
-A,1,1000,Algoritmo_2,1.038.488
+A,1,1000,Algoritmo_2, 2.505203 
 
-A,1,1000,Algoritmo_2,1.044.045
+A,1,1000,Algoritmo_2, 2.508855 
 
-A,1,1000,Algoritmo_2,1.036.370
+A,1,1000,Algoritmo_2, 2.505558 
 
-A,1,1000,Algoritmo_2,1.037.052
+A,1,1000,Algoritmo_2, 2.508222 
 
-A,2,1000,Algoritmo_2,527.277
+A,2,1000,Algoritmo_2, 1.355848 
 
-A,2,1000,Algoritmo_2,527.740
+A,2,1000,Algoritmo_2, 1.358052 
 
-A,2,1000,Algoritmo_2,527.937
+A,2,1000,Algoritmo_2, 1.358054 
 
-A,2,1000,Algoritmo_2,526.784
+A,2,1000,Algoritmo_2, 1.374385 
 
-A,2,1000,Algoritmo_2,527.985
+A,2,1000,Algoritmo_2, 1.370745 
 
-A,2,1000,Algoritmo_2,527.909
+A,2,1000,Algoritmo_2, 1.550512 
 
-A,2,1000,Algoritmo_2,527.910
+A,2,1000,Algoritmo_2, 1.358708 
 
-A,2,1000,Algoritmo_2,526.818
+A,2,1000,Algoritmo_2, 1.370857 
 
-A,2,1000,Algoritmo_2,528.958
+A,2,1000,Algoritmo_2, 1.370400 
 
-A,2,1000,Algoritmo_2,532.672
+A,2,1000,Algoritmo_2, 1.358515 
 
-A,2,1000,Algoritmo_2,527.597
+A,2,1000,Algoritmo_2, 1.358282 
 
-A,2,1000,Algoritmo_2,527.431
+A,2,1000,Algoritmo_2, 1.370380 
 
-A,2,1000,Algoritmo_2,528.807
+A,2,1000,Algoritmo_2, 1.731748 
 
-A,2,1000,Algoritmo_2,528.355
+A,2,1000,Algoritmo_2, 1.370747 
 
-A,2,1000,Algoritmo_2,527.199
+A,2,1000,Algoritmo_2, 1.375005 
 
-A,2,1000,Algoritmo_2,528.748
+A,2,1000,Algoritmo_2, 1.355502 
 
-A,2,1000,Algoritmo_2,528.926
+A,2,1000,Algoritmo_2, 1.373055 
 
-A,2,1000,Algoritmo_2,527.081
+A,2,1000,Algoritmo_2, 1.370575 
 
-A,2,1000,Algoritmo_2,527.623
+A,2,1000,Algoritmo_2, 1.378407 
 
-A,2,1000,Algoritmo_2,530.510
+A,2,1000,Algoritmo_2, 1.355550 
 
-A,2,1000,Algoritmo_2,526.839
+A,2,1000,Algoritmo_2, 1.350785 
 
-A,2,1000,Algoritmo_2,531.177
+A,2,1000,Algoritmo_2, 1.370824 
 
-A,2,1000,Algoritmo_2,528.130
+A,2,1000,Algoritmo_2, 1.371884 
 
-A,2,1000,Algoritmo_2,528.972
+A,2,1000,Algoritmo_2, 1.358358 
 
-A,2,1000,Algoritmo_2,527.122
+A,2,1000,Algoritmo_2, 1.370588 
 
-A,2,1000,Algoritmo_2,531.048
+A,2,1000,Algoritmo_2, 1.374058 
 
-A,2,1000,Algoritmo_2,527.738
+A,2,1000,Algoritmo_2, 1.355185 
 
-A,2,1000,Algoritmo_2,527.411
+A,2,1000,Algoritmo_2, 1.372485 
 
-A,2,1000,Algoritmo_2,530.870
+A,2,1000,Algoritmo_2, 1.358855 
 
-A,2,1000,Algoritmo_2,528.733
+A,2,1000,Algoritmo_2, 1.372580 
 
-A,2,1000,Algoritmo_2,527.609
+A,2,1000,Algoritmo_2, 1.371718 
 
-A,2,1000,Algoritmo_2,527.202
+A,2,1000,Algoritmo_2, 1.375131 
 
-A,2,1000,Algoritmo_2,527.723
+A,2,1000,Algoritmo_2, 1.358333 
 
-A,2,1000,Algoritmo_2,531.208
+A,2,1000,Algoritmo_2, 1.378505 
 
-A,2,1000,Algoritmo_2,526.940
+A,2,1000,Algoritmo_2, 1.358778 
 
-A,2,1000,Algoritmo_2,530.905
+A,2,1000,Algoritmo_2, 1.374582 
 
-A,4,1000,Algoritmo_2,263.748
+A,4,1000,Algoritmo_2, 0.782820 
 
-A,4,1000,Algoritmo_2,288.370
+A,4,1000,Algoritmo_2, 0.788584 
 
-A,4,1000,Algoritmo_2,263.982
+A,4,1000,Algoritmo_2, 0.505384 
 
-A,4,1000,Algoritmo_2,267.194
+A,4,1000,Algoritmo_2, 0.788147 
 
-A,4,1000,Algoritmo_2,264.348
+A,4,1000,Algoritmo_2, 0.788145 
 
-A,4,1000,Algoritmo_2,263.979
+A,4,1000,Algoritmo_2, 0.500158 
 
-A,4,1000,Algoritmo_2,283.786
+A,4,1000,Algoritmo_2, 0.508810 
 
-A,4,1000,Algoritmo_2,263.811
+A,4,1000,Algoritmo_2, 0.522112 
 
-A,4,1000,Algoritmo_2,264.135
+A,4,1000,Algoritmo_2, 0.785288 
 
-A,4,1000,Algoritmo_2,267.097
+A,4,1000,Algoritmo_2, 0.788083 
 
-A,4,1000,Algoritmo_2,263.686
+A,4,1000,Algoritmo_2, 0.787484 
 
-A,4,1000,Algoritmo_2,264.048
+A,4,1000,Algoritmo_2, 0.557278 
 
-A,4,1000,Algoritmo_2,275.086
+A,4,1000,Algoritmo_2, 0.784881 
 
-A,4,1000,Algoritmo_2,263.779
+A,4,1000,Algoritmo_2, 0.507527 
 
-A,4,1000,Algoritmo_2,267.166
+A,4,1000,Algoritmo_2, 0.785855 
 
-A,4,1000,Algoritmo_2,264.334
+A,4,1000,Algoritmo_2, 0.501158 
 
-A,4,1000,Algoritmo_2,263.933
+A,4,1000,Algoritmo_2, 0.500387 
 
-A,4,1000,Algoritmo_2,267.903
+A,4,1000,Algoritmo_2, 0.500387 
 
-A,4,1000,Algoritmo_2,264.158
+A,4,1000,Algoritmo_2, 0.503284 
 
-A,4,1000,Algoritmo_2,264.255
+A,4,1000,Algoritmo_2, 0.505075 
 
-A,4,1000,Algoritmo_2,267.330
+A,4,1000,Algoritmo_2, 0.788578 
 
-A,4,1000,Algoritmo_2,263.912
+A,4,1000,Algoritmo_2, 0.788354 
 
-A,4,1000,Algoritmo_2,263.731
+A,4,1000,Algoritmo_2, 0.788188 
 
-A,4,1000,Algoritmo_2,267.606
+A,4,1000,Algoritmo_2, 0.787101 
 
-A,4,1000,Algoritmo_2,263.945
+A,4,1000,Algoritmo_2, 0.500371 
 
-A,4,1000,Algoritmo_2,267.435
+A,4,1000,Algoritmo_2, 0.788033 
 
-A,4,1000,Algoritmo_2,263.975
+A,4,1000,Algoritmo_2, 0.575821 
 
-A,4,1000,Algoritmo_2,264.371
+A,4,1000,Algoritmo_2, 0.501381 
 
-A,4,1000,Algoritmo_2,267.416
+A,4,1000,Algoritmo_2, 0.500315 
 
-A,4,1000,Algoritmo_2,263.768
+A,4,1000,Algoritmo_2, 0.783455 
 
-A,4,1000,Algoritmo_2,264.637
+A,4,1000,Algoritmo_2, 0.788575 
 
-A,4,1000,Algoritmo_2,267.367
+A,4,1000,Algoritmo_2, 0.508080 
 
-A,4,1000,Algoritmo_2,264.061
+A,4,1000,Algoritmo_2, 0.788005 
 
-A,4,1000,Algoritmo_2,263.834
+A,4,1000,Algoritmo_2, 0.788187 
 
-A,4,1000,Algoritmo_2,267.386
+A,4,1000,Algoritmo_2, 0.785508 
 
-A,4,1000,Algoritmo_2,263.881
+A,4,1000,Algoritmo_2, 0.500075 
 
-A,8,1000,Algoritmo_2,244.094
+A,8,1000,Algoritmo_2, 0.381343 
 
-A,8,1000,Algoritmo_2,249.959
+A,8,1000,Algoritmo_2, 0.388478 
 
-A,8,1000,Algoritmo_2,243.867
+A,8,1000,Algoritmo_2, 0.385115 
 
-A,8,1000,Algoritmo_2,244.803
+A,8,1000,Algoritmo_2, 0.380157 
 
-A,8,1000,Algoritmo_2,253.019
+A,8,1000,Algoritmo_2, 0.387884 
 
-A,8,1000,Algoritmo_2,244.980
+A,8,1000,Algoritmo_2, 0.384508 
 
-A,8,1000,Algoritmo_2,245.470
+A,8,1000,Algoritmo_2, 0.385322 
 
-A,8,1000,Algoritmo_2,252.821
+A,8,1000,Algoritmo_2, 0.387152 
 
-A,8,1000,Algoritmo_2,245.640
+A,8,1000,Algoritmo_2, 0.385883 
 
-A,8,1000,Algoritmo_2,244.932
+A,8,1000,Algoritmo_2, 0.387820 
 
-A,8,1000,Algoritmo_2,252.843
+A,8,1000,Algoritmo_2, 0.388312 
 
-A,8,1000,Algoritmo_2,245.020
+A,8,1000,Algoritmo_2, 0.388782 
 
-A,8,1000,Algoritmo_2,245.279
+A,8,1000,Algoritmo_2, 0.385820 
 
-A,8,1000,Algoritmo_2,258.225
+A,8,1000,Algoritmo_2, 0.388405 
 
-A,8,1000,Algoritmo_2,243.229
+A,8,1000,Algoritmo_2, 0.388023 
 
-A,8,1000,Algoritmo_2,245.205
+A,8,1000,Algoritmo_2, 0.385082 
 
-A,8,1000,Algoritmo_2,246.887
+A,8,1000,Algoritmo_2, 0.385888 
 
-A,8,1000,Algoritmo_2,244.798
+A,8,1000,Algoritmo_2, 0.384785 
 
-A,8,1000,Algoritmo_2,243.260
+A,8,1000,Algoritmo_2, 0.384480 
 
-A,8,1000,Algoritmo_2,249.543
+A,8,1000,Algoritmo_2, 0.382452 
 
-A,8,1000,Algoritmo_2,245.161
+A,8,1000,Algoritmo_2, 0.380488 
 
-A,8,1000,Algoritmo_2,249.328
+A,8,1000,Algoritmo_2, 0.383702 
 
-A,8,1000,Algoritmo_2,245.600
+A,8,1000,Algoritmo_2, 0.385755 
 
-A,8,1000,Algoritmo_2,244.500
+A,8,1000,Algoritmo_2, 0.385134 
 
-A,8,1000,Algoritmo_2,244.782
+A,8,1000,Algoritmo_2, 0.383415 
 
-A,8,1000,Algoritmo_2,244.534
+A,8,1000,Algoritmo_2, 0.404885 
 
-A,8,1000,Algoritmo_2,245.818
+A,8,1000,Algoritmo_2, 0.410857 
 
-A,8,1000,Algoritmo_2,246.787
+A,8,1000,Algoritmo_2, 0.385358 
 
-A,8,1000,Algoritmo_2,244.968
+A,8,1000,Algoritmo_2, 0.381022 
 
-A,8,1000,Algoritmo_2,244.799
+A,8,1000,Algoritmo_2, 0.383357 
 
-A,8,1000,Algoritmo_2,246.119
+A,8,1000,Algoritmo_2, 0.384440 
 
-A,8,1000,Algoritmo_2,245.174
+A,8,1000,Algoritmo_2, 0.385545 
 
-A,8,1000,Algoritmo_2,244.722
+A,8,1000,Algoritmo_2, 0.387485 
 
-A,8,1000,Algoritmo_2,246.301
+A,8,1000,Algoritmo_2, 0.388082 
 
-A,8,1000,Algoritmo_2,243.709
+A,8,1000,Algoritmo_2, 0.385545 
 
-A,8,1000,Algoritmo_2,244.897
+A,8,1000,Algoritmo_2, 0.385425 
 
-A,1,1000,Algoritmo_3,1.548.414
+A,1,1000,Algoritmo_3, 3.835588 
 
-A,1,1000,Algoritmo_3,1.524.075
+A,1,1000,Algoritmo_3, 3.540851 
 
-A,1,1000,Algoritmo_3,1.367.411
+A,1,1000,Algoritmo_3, 3.535758 
 
-A,1,1000,Algoritmo_3,1.529.015
+A,1,1000,Algoritmo_3, 3.535884 
 
-A,1,1000,Algoritmo_3,1.369.937
+A,1,1000,Algoritmo_3, 3.535483 
 
-A,1,1000,Algoritmo_3,1.561.378
+A,1,1000,Algoritmo_3, 3.541088 
 
-A,1,1000,Algoritmo_3,1.363.780
+A,1,1000,Algoritmo_3, 3.534855 
 
-A,1,1000,Algoritmo_3,1.358.982
+A,1,1000,Algoritmo_3, 3.518848 
 
-A,1,1000,Algoritmo_3,1.552.565
+A,1,1000,Algoritmo_3, 3.520555 
 
-A,1,1000,Algoritmo_3,1.356.398
+A,1,1000,Algoritmo_3, 3.525402 
 
-A,1,1000,Algoritmo_3,1.539.672
+A,1,1000,Algoritmo_3, 3.534285 
 
-A,1,1000,Algoritmo_3,1.549.391
+A,1,1000,Algoritmo_3, 3.543025 
 
-A,1,1000,Algoritmo_3,1.361.216
+A,1,1000,Algoritmo_3, 3.535748 
 
-A,1,1000,Algoritmo_3,1.539.450
+A,1,1000,Algoritmo_3, 3.518575 
 
-A,1,1000,Algoritmo_3,1.349.513
+A,1,1000,Algoritmo_3, 3.535508 
 
-A,1,1000,Algoritmo_3,1.346.650
+A,1,1000,Algoritmo_3, 3.538751 
 
-A,1,1000,Algoritmo_3,1.561.131
+A,1,1000,Algoritmo_3, 3.537512 
 
-A,1,1000,Algoritmo_3,1.366.137
+A,1,1000,Algoritmo_3, 3.525472 
 
-A,1,1000,Algoritmo_3,1.561.201
+A,1,1000,Algoritmo_3, 3.525178 
 
-A,1,1000,Algoritmo_3,1.516.090
+A,1,1000,Algoritmo_3, 3.525538 
 
-A,1,1000,Algoritmo_3,1.365.967
+A,1,1000,Algoritmo_3, 3.538554 
 
-A,1,1000,Algoritmo_3,1.359.533
+A,1,1000,Algoritmo_3, 3.531413 
 
-A,1,1000,Algoritmo_3,1.353.126
+A,1,1000,Algoritmo_3, 3.533550 
 
-A,1,1000,Algoritmo_3,1.346.391
+A,1,1000,Algoritmo_3, 3.521854 
 
-A,1,1000,Algoritmo_3,1.527.277
+A,1,1000,Algoritmo_3, 3.543213 
 
-A,1,1000,Algoritmo_3,1.371.187
+A,1,1000,Algoritmo_3, 3.525708 
 
-A,1,1000,Algoritmo_3,1.517.674
+A,1,1000,Algoritmo_3, 3.538534 
 
-A,1,1000,Algoritmo_3,1.570.373
+A,1,1000,Algoritmo_3, 3.525858 
 
-A,1,1000,Algoritmo_3,1.360.589
+A,1,1000,Algoritmo_3, 3.542825 
 
-A,1,1000,Algoritmo_3,1.555.549
+A,1,1000,Algoritmo_3, 3.548828 
 
-A,1,1000,Algoritmo_3,1.378.558
+A,1,1000,Algoritmo_3, 3.531454 
 
-A,1,1000,Algoritmo_3,1.362.080
+A,1,1000,Algoritmo_3, 3.538504 
 
-A,1,1000,Algoritmo_3,1.531.280
+A,1,1000,Algoritmo_3, 3.538153 
 
-A,1,1000,Algoritmo_3,1.554.031
+A,1,1000,Algoritmo_3, 3.531403 
 
-A,1,1000,Algoritmo_3,1.361.321
+A,1,1000,Algoritmo_3, 3.518582 
 
-A,1,1000,Algoritmo_3,1.547.718
+A,1,1000,Algoritmo_3, 3.538873 
 
-A,2,1000,Algoritmo_3,697.575
+A,2,1000,Algoritmo_3, 1.852315 
 
-A,2,1000,Algoritmo_3,787.225
+A,2,1000,Algoritmo_3, 1.850425 
 
-A,2,1000,Algoritmo_3,704.701
+A,2,1000,Algoritmo_3, 1.875780 
 
-A,2,1000,Algoritmo_3,793.164
+A,2,1000,Algoritmo_3, 1.851057 
 
-A,2,1000,Algoritmo_3,776.341
+A,2,1000,Algoritmo_3, 1.873204 
 
-A,2,1000,Algoritmo_3,791.040
+A,2,1000,Algoritmo_3, 1.857115 
 
-A,2,1000,Algoritmo_3,798.378
+A,2,1000,Algoritmo_3, 1.850080 
 
-A,2,1000,Algoritmo_3,784.225
+A,2,1000,Algoritmo_3, 1.850581 
 
-A,2,1000,Algoritmo_3,698.596
+A,2,1000,Algoritmo_3, 1.853458 
 
-A,2,1000,Algoritmo_3,785.537
+A,2,1000,Algoritmo_3, 1.851285 
 
-A,2,1000,Algoritmo_3,800.448
+A,2,1000,Algoritmo_3, 1.874810 
 
-A,2,1000,Algoritmo_3,696.666
+A,2,1000,Algoritmo_3, 1.858831 
 
-A,2,1000,Algoritmo_3,801.282
+A,2,1000,Algoritmo_3, 1.878274 
 
-A,2,1000,Algoritmo_3,785.304
+A,2,1000,Algoritmo_3, 1.853887 
 
-A,2,1000,Algoritmo_3,692.943
+A,2,1000,Algoritmo_3, 1.878475 
 
-A,2,1000,Algoritmo_3,691.777
+A,2,1000,Algoritmo_3, 1.874838 
 
-A,2,1000,Algoritmo_3,702.551
+A,2,1000,Algoritmo_3, 1.875577 
 
-A,2,1000,Algoritmo_3,804.001
+A,2,1000,Algoritmo_3, 1.855248 
 
-A,2,1000,Algoritmo_3,698.941
+A,2,1000,Algoritmo_3, 1.851532 
 
-A,2,1000,Algoritmo_3,698.424
+A,2,1000,Algoritmo_3, 1.878182 
 
-A,2,1000,Algoritmo_3,703.654
+A,2,1000,Algoritmo_3, 1.852258 
 
-A,2,1000,Algoritmo_3,698.059
+A,2,1000,Algoritmo_3, 1.850501 
 
-A,2,1000,Algoritmo_3,799.517
+A,2,1000,Algoritmo_3, 1.877883 
 
-A,2,1000,Algoritmo_3,785.112
+A,2,1000,Algoritmo_3, 1.875138 
 
-A,2,1000,Algoritmo_3,705.627
+A,2,1000,Algoritmo_3, 1.857058 
 
-A,2,1000,Algoritmo_3,689.520
+A,2,1000,Algoritmo_3, 1.872285 
 
-A,2,1000,Algoritmo_3,787.006
+A,2,1000,Algoritmo_3, 1.875832 
 
-A,2,1000,Algoritmo_3,789.030
+A,2,1000,Algoritmo_3, 1.854582 
 
-A,2,1000,Algoritmo_3,701.775
+A,2,1000,Algoritmo_3, 1.851387 
 
-A,2,1000,Algoritmo_3,699.757
+A,2,1000,Algoritmo_3, 1.877584 
 
-A,2,1000,Algoritmo_3,794.492
+A,2,1000,Algoritmo_3, 1.878408 
 
-A,2,1000,Algoritmo_3,804.439
+A,2,1000,Algoritmo_3, 1.877282 
 
-A,2,1000,Algoritmo_3,699.016
+A,2,1000,Algoritmo_3, 1.850124 
 
-A,2,1000,Algoritmo_3,778.296
+A,2,1000,Algoritmo_3, 1.855813 
 
-A,2,1000,Algoritmo_3,789.976
+A,2,1000,Algoritmo_3, 1.874717 
 
-A,2,1000,Algoritmo_3,788.011
+A,2,1000,Algoritmo_3, 1.855005 
 
-A,4,1000,Algoritmo_3,402.727
+A,4,1000,Algoritmo_3, 0.844781 
 
-A,4,1000,Algoritmo_3,390.107
+A,4,1000,Algoritmo_3, 0.854885 
 
-A,4,1000,Algoritmo_3,402.368
+A,4,1000,Algoritmo_3, 0.838783 
 
-A,4,1000,Algoritmo_3,346.626
+A,4,1000,Algoritmo_3, 0.848501 
 
-A,4,1000,Algoritmo_3,361.294
+A,4,1000,Algoritmo_3, 0.855835 
 
-A,4,1000,Algoritmo_3,384.721
+A,4,1000,Algoritmo_3, 0.843831 
 
-A,4,1000,Algoritmo_3,395.553
+A,4,1000,Algoritmo_3, 0.844553 
 
-A,4,1000,Algoritmo_3,351.082
+A,4,1000,Algoritmo_3, 0.847505 
 
-A,4,1000,Algoritmo_3,352.500
+A,4,1000,Algoritmo_3, 0.852200 
 
-A,4,1000,Algoritmo_3,391.041
+A,4,1000,Algoritmo_3, 0.843517 
 
-A,4,1000,Algoritmo_3,403.114
+A,4,1000,Algoritmo_3, 0.854554 
 
-A,4,1000,Algoritmo_3,346.759
+A,4,1000,Algoritmo_3, 0.847408 
 
-A,4,1000,Algoritmo_3,357.235
+A,4,1000,Algoritmo_3, 0.843174 
 
-A,4,1000,Algoritmo_3,351.973
+A,4,1000,Algoritmo_3, 0.854803 
 
-A,4,1000,Algoritmo_3,357.612
+A,4,1000,Algoritmo_3, 0.844807 
 
-A,4,1000,Algoritmo_3,351.012
+A,4,1000,Algoritmo_3, 0.844842 
 
-A,4,1000,Algoritmo_3,407.053
+A,4,1000,Algoritmo_3, 0.848318 
 
-A,4,1000,Algoritmo_3,348.451
+A,4,1000,Algoritmo_3, 0.845358 
 
-A,4,1000,Algoritmo_3,353.219
+A,4,1000,Algoritmo_3, 0.850874 
 
-A,4,1000,Algoritmo_3,349.523
+A,4,1000,Algoritmo_3, 0.847054 
 
-A,4,1000,Algoritmo_3,402.155
+A,4,1000,Algoritmo_3, 0.855280 
 
-A,4,1000,Algoritmo_3,345.849
+A,4,1000,Algoritmo_3, 0.845354 
 
-A,4,1000,Algoritmo_3,396.743
+A,4,1000,Algoritmo_3, 0.848845 
 
-A,4,1000,Algoritmo_3,396.858
+A,4,1000,Algoritmo_3, 0.845571 
 
-A,4,1000,Algoritmo_3,398.034
+A,4,1000,Algoritmo_3, 0.847445 
 
-A,4,1000,Algoritmo_3,349.010
+A,4,1000,Algoritmo_3, 0.848125 
 
-A,4,1000,Algoritmo_3,348.972
+A,4,1000,Algoritmo_3, 0.853781 
 
-A,4,1000,Algoritmo_3,348.253
+A,4,1000,Algoritmo_3, 0.858527 
 
-A,4,1000,Algoritmo_3,400.915
+A,4,1000,Algoritmo_3, 0.841885 
 
-A,4,1000,Algoritmo_3,347.465
+A,4,1000,Algoritmo_3, 0.858553 
 
-A,4,1000,Algoritmo_3,350.987
+A,4,1000,Algoritmo_3, 0.848717 
 
-A,4,1000,Algoritmo_3,402.439
+A,4,1000,Algoritmo_3, 0.874550 
 
-A,4,1000,Algoritmo_3,400.364
+A,4,1000,Algoritmo_3, 0.850515 
 
-A,4,1000,Algoritmo_3,399.718
+A,4,1000,Algoritmo_3, 0.854131 
 
-A,4,1000,Algoritmo_3,354.923
+A,4,1000,Algoritmo_3, 0.844828 
 
-A,4,1000,Algoritmo_3,401.639
+A,4,1000,Algoritmo_3, 0.847274 
 
-A,8,1000,Algoritmo_3,373.206
+A,8,1000,Algoritmo_3, 0.514288 
 
-A,8,1000,Algoritmo_3,359.039
+A,8,1000,Algoritmo_3, 0.513385 
 
-A,8,1000,Algoritmo_3,339.713
+A,8,1000,Algoritmo_3, 0.507853 
 
-A,8,1000,Algoritmo_3,331.519
+A,8,1000,Algoritmo_3, 0.507387 
 
-A,8,1000,Algoritmo_3,372.557
+A,8,1000,Algoritmo_3, 0.505857 
 
-A,8,1000,Algoritmo_3,331.536
+A,8,1000,Algoritmo_3, 0.505414 
 
-A,8,1000,Algoritmo_3,379.509
+A,8,1000,Algoritmo_3, 0.505711 
 
-A,8,1000,Algoritmo_3,323.143
+A,8,1000,Algoritmo_3, 0.512032 
 
-A,8,1000,Algoritmo_3,376.311
+A,8,1000,Algoritmo_3, 0.725542 
 
-A,8,1000,Algoritmo_3,365.000
+A,8,1000,Algoritmo_3, 0.718802 
 
-A,8,1000,Algoritmo_3,339.757
+A,8,1000,Algoritmo_3, 0.542514 
 
-A,8,1000,Algoritmo_3,365.433
+A,8,1000,Algoritmo_3, 0.511585 
 
-A,8,1000,Algoritmo_3,341.846
+A,8,1000,Algoritmo_3, 0.505174 
 
-A,8,1000,Algoritmo_3,322.043
+A,8,1000,Algoritmo_3, 0.508515 
 
-A,8,1000,Algoritmo_3,375.442
+A,8,1000,Algoritmo_3, 0.707154 
 
-A,8,1000,Algoritmo_3,339.506
+A,8,1000,Algoritmo_3, 0.512588 
 
-A,8,1000,Algoritmo_3,363.432
+A,8,1000,Algoritmo_3, 0.505473 
 
-A,8,1000,Algoritmo_3,373.911
+A,8,1000,Algoritmo_3, 0.505322 
 
-A,8,1000,Algoritmo_3,328.776
+A,8,1000,Algoritmo_3, 0.507805 
 
-A,8,1000,Algoritmo_3,381.863
+A,8,1000,Algoritmo_3, 0.507887 
 
-A,8,1000,Algoritmo_3,362.885
+A,8,1000,Algoritmo_3, 0.514101 
 
-A,8,1000,Algoritmo_3,339.699
+A,8,1000,Algoritmo_3, 0.511845 
 
-A,8,1000,Algoritmo_3,319.802
+A,8,1000,Algoritmo_3, 0.505585 
 
-A,8,1000,Algoritmo_3,334.603
+A,8,1000,Algoritmo_3, 0.505085 
 
-A,8,1000,Algoritmo_3,328.038
+A,8,1000,Algoritmo_3, 0.507885 
 
-A,8,1000,Algoritmo_3,335.565
+A,8,1000,Algoritmo_3, 0.510421 
 
-A,8,1000,Algoritmo_3,363.492
+A,8,1000,Algoritmo_3, 0.512817 
 
-A,8,1000,Algoritmo_3,342.461
+A,8,1000,Algoritmo_3, 0.511143 
 
-A,8,1000,Algoritmo_3,369.165
+A,8,1000,Algoritmo_3, 0.520217 
 
-A,8,1000,Algoritmo_3,345.432
+A,8,1000,Algoritmo_3, 0.511837 
 
-A,8,1000,Algoritmo_3,357.527
+A,8,1000,Algoritmo_3, 0.511351 
 
-A,8,1000,Algoritmo_3,329.645
+A,8,1000,Algoritmo_3, 0.515508 
 
-A,8,1000,Algoritmo_3,336.111
+A,8,1000,Algoritmo_3, 0.512382 
 
-A,8,1000,Algoritmo_3,334.982
+A,8,1000,Algoritmo_3, 0.508087 
 
-A,8,1000,Algoritmo_3,386.233
+A,8,1000,Algoritmo_3, 0.504211 
 
-A,8,1000,Algoritmo_3,326.902
+A,8,1000,Algoritmo_3, 0.512258 
 
-A,1,2000,Algoritmo_1,12.913.528
+A,1,2000,Algoritmo_1, 28.804585 
 
-A,1,2000,Algoritmo_1,13.250.100
+A,1,2000,Algoritmo_1, 30.555843 
 
-A,1,2000,Algoritmo_1,12.749.348
+A,1,2000,Algoritmo_1, 31.888552 
 
-A,1,2000,Algoritmo_1,13.169.498
+A,1,2000,Algoritmo_1, 30.481504 
 
-A,1,2000,Algoritmo_1,12.956.945
+A,1,2000,Algoritmo_1, 28.733580 
 
-A,1,2000,Algoritmo_1,12.982.896
+A,1,2000,Algoritmo_1, 28.515818 
 
-A,1,2000,Algoritmo_1,13.024.116
+A,1,2000,Algoritmo_1, 28.784708 
 
-A,1,2000,Algoritmo_1,13.048.808
+A,1,2000,Algoritmo_1, 30.451041 
 
-A,1,2000,Algoritmo_1,13.268.924
+A,1,2000,Algoritmo_1, 28.835488 
 
-A,1,2000,Algoritmo_1,12.748.965
+A,1,2000,Algoritmo_1, 28.548518 
 
-A,1,2000,Algoritmo_1,13.006.135
+A,1,2000,Algoritmo_1, 28.580828 
 
-A,1,2000,Algoritmo_1,12.998.496
+A,1,2000,Algoritmo_1, 28.821828 
 
-A,1,2000,Algoritmo_1,12.958.519
+A,1,2000,Algoritmo_1, 28.857202 
 
-A,1,2000,Algoritmo_1,13.110.118
+A,1,2000,Algoritmo_1, 30.278105 
 
-A,1,2000,Algoritmo_1,12.973.847
+A,1,2000,Algoritmo_1, 28.805785 
 
-A,1,2000,Algoritmo_1,12.803.710
+A,1,2000,Algoritmo_1, 28.550382 
 
-A,1,2000,Algoritmo_1,13.041.825
+A,1,2000,Algoritmo_1, 28.810282 
 
-A,1,2000,Algoritmo_1,13.221.768
+A,1,2000,Algoritmo_1, 28.885288 
 
-A,1,2000,Algoritmo_1,12.583.346
+A,1,2000,Algoritmo_1, 28.587038 
 
-A,1,2000,Algoritmo_1,12.666.793
+A,1,2000,Algoritmo_1, 28.880058 
 
-A,1,2000,Algoritmo_1,12.947.140
+A,1,2000,Algoritmo_1, 28.541173 
 
-A,1,2000,Algoritmo_1,12.947.845
+A,1,2000,Algoritmo_1, 28.837135 
 
-A,1,2000,Algoritmo_1,12.972.276
+A,1,2000,Algoritmo_1, 28.818343 
 
-A,1,2000,Algoritmo_1,13.059.859
+A,1,2000,Algoritmo_1, 30.445857 
 
-A,1,2000,Algoritmo_1,13.397.507
+A,1,2000,Algoritmo_1, 28.823838 
 
-A,1,2000,Algoritmo_1,12.969.825
+A,1,2000,Algoritmo_1, 28.544581 
 
-A,1,2000,Algoritmo_1,12.782.391
+A,1,2000,Algoritmo_1, 28.548835 
 
-A,1,2000,Algoritmo_1,12.873.604
+A,1,2000,Algoritmo_1, 28.577150 
 
-A,1,2000,Algoritmo_1,12.963.818
+A,1,2000,Algoritmo_1, 28.841233 
 
-A,1,2000,Algoritmo_1,13.078.991
+A,1,2000,Algoritmo_1, 28.834773 
 
-A,1,2000,Algoritmo_1,12.735.820
+A,1,2000,Algoritmo_1, 28.853871 
 
-A,1,2000,Algoritmo_1,12.968.310
+A,1,2000,Algoritmo_1, 28.538742 
 
-A,1,2000,Algoritmo_1,13.154.697
+A,1,2000,Algoritmo_1, 28.585221 
 
-A,1,2000,Algoritmo_1,12.878.016
+A,1,2000,Algoritmo_1, 28.558775 
 
-A,1,2000,Algoritmo_1,13.511.413
+A,1,2000,Algoritmo_1, 28.837851 
 
-A,1,2000,Algoritmo_1,13.009.291
+A,1,2000,Algoritmo_1, 28.877035 
 
-A,2,2000,Algoritmo_1,6.178.731
+A,2,2000,Algoritmo_1, 15.577028 
 
-A,2,2000,Algoritmo_1,6.224.961
+A,2,2000,Algoritmo_1, 15.542588 
 
-A,2,2000,Algoritmo_1,6.189.281
+A,2,2000,Algoritmo_1, 15.588525 
 
-A,2,2000,Algoritmo_1,6.255.488
+A,2,2000,Algoritmo_1, 15.507727 
 
-A,2,2000,Algoritmo_1,6.246.541
+A,2,2000,Algoritmo_1, 15.033448 
 
-A,2,2000,Algoritmo_1,6.205.495
+A,2,2000,Algoritmo_1, 15.074324 
 
-A,2,2000,Algoritmo_1,6.185.101
+A,2,2000,Algoritmo_1, 15.044312 
 
-A,2,2000,Algoritmo_1,6.405.601
+A,2,2000,Algoritmo_1, 14.881015 
 
-A,2,2000,Algoritmo_1,6.204.595
+A,2,2000,Algoritmo_1, 15.117483 
 
-A,2,2000,Algoritmo_1,6.203.780
+A,2,2000,Algoritmo_1, 15.032812 
 
-A,2,2000,Algoritmo_1,6.231.781
+A,2,2000,Algoritmo_1, 15.102752 
 
-A,2,2000,Algoritmo_1,6.222.351
+A,2,2000,Algoritmo_1, 14.880530 
 
-A,2,2000,Algoritmo_1,6.203.962
+A,2,2000,Algoritmo_1, 15.072185 
 
-A,2,2000,Algoritmo_1,6.199.436
+A,2,2000,Algoritmo_1, 15.028130 
 
-A,2,2000,Algoritmo_1,6.178.395
+A,2,2000,Algoritmo_1, 15.078748 
 
-A,2,2000,Algoritmo_1,6.248.705
+A,2,2000,Algoritmo_1, 14.855544 
 
-A,2,2000,Algoritmo_1,6.182.894
+A,2,2000,Algoritmo_1, 15.135528 
 
-A,2,2000,Algoritmo_1,6.199.211
+A,2,2000,Algoritmo_1, 15.051085 
 
-A,2,2000,Algoritmo_1,6.184.386
+A,2,2000,Algoritmo_1, 15.075552 
 
-A,2,2000,Algoritmo_1,6.274.414
+A,2,2000,Algoritmo_1, 15.032880 
 
-A,2,2000,Algoritmo_1,6.187.287
+A,2,2000,Algoritmo_1, 15.051747 
 
-A,2,2000,Algoritmo_1,6.293.358
+A,2,2000,Algoritmo_1, 15.057151 
 
-A,2,2000,Algoritmo_1,6.243.581
+A,2,2000,Algoritmo_1, 15.345532 
 
-A,2,2000,Algoritmo_1,6.450.409
+A,2,2000,Algoritmo_1, 15.272228 
 
-A,2,2000,Algoritmo_1,6.303.471
+A,2,2000,Algoritmo_1, 15.112353 
 
-A,2,2000,Algoritmo_1,6.199.815
+A,2,2000,Algoritmo_1, 15.125117 
 
-A,2,2000,Algoritmo_1,6.197.068
+A,2,2000,Algoritmo_1, 15.000820 
 
-A,2,2000,Algoritmo_1,6.249.902
+A,2,2000,Algoritmo_1, 15.143448 
 
-A,2,2000,Algoritmo_1,6.256.586
+A,2,2000,Algoritmo_1, 15.080713 
 
-A,2,2000,Algoritmo_1,6.199.738
+A,2,2000,Algoritmo_1, 15.052152 
 
-A,2,2000,Algoritmo_1,6.271.334
+A,2,2000,Algoritmo_1, 15.057528 
 
-A,2,2000,Algoritmo_1,6.199.856
+A,2,2000,Algoritmo_1, 15.075527 
 
-A,2,2000,Algoritmo_1,6.250.549
+A,2,2000,Algoritmo_1, 15.047857 
 
-A,2,2000,Algoritmo_1,6.252.094
+A,2,2000,Algoritmo_1, 15.058157 
 
-A,2,2000,Algoritmo_1,6.197.431
+A,2,2000,Algoritmo_1, 15.050188 
 
-A,2,2000,Algoritmo_1,6.248.571
+A,2,2000,Algoritmo_1, 15.200330 
 
-A,4,2000,Algoritmo_1,3.199.440
+A,4,2000,Algoritmo_1, 5.582214 
 
-A,4,2000,Algoritmo_1,3.178.084
+A,4,2000,Algoritmo_1, 5.725454 
 
-A,4,2000,Algoritmo_1,3.180.162
+A,4,2000,Algoritmo_1, 5.582870 
 
-A,4,2000,Algoritmo_1,3.182.244
+A,4,2000,Algoritmo_1, 5.708050 
 
-A,4,2000,Algoritmo_1,3.198.078
+A,4,2000,Algoritmo_1, 5.583428 
 
-A,4,2000,Algoritmo_1,3.181.938
+A,4,2000,Algoritmo_1, 5.554008 
 
-A,4,2000,Algoritmo_1,3.182.195
+A,4,2000,Algoritmo_1, 5.583585 
 
-A,4,2000,Algoritmo_1,3.183.553
+A,4,2000,Algoritmo_1, 5.558457 
 
-A,4,2000,Algoritmo_1,3.190.867
+A,4,2000,Algoritmo_1, 5.707855 
 
-A,4,2000,Algoritmo_1,3.187.277
+A,4,2000,Algoritmo_1, 5.582172 
 
-A,4,2000,Algoritmo_1,3.181.666
+A,4,2000,Algoritmo_1, 5.511312 
 
-A,4,2000,Algoritmo_1,3.191.146
+A,4,2000,Algoritmo_1, 5.584148 
 
-A,4,2000,Algoritmo_1,3.191.152
+A,4,2000,Algoritmo_1, 5.575887 
 
-A,4,2000,Algoritmo_1,3.184.981
+A,4,2000,Algoritmo_1, 5.715421 
 
-A,4,2000,Algoritmo_1,3.175.046
+A,4,2000,Algoritmo_1, 5.585280 
 
-A,4,2000,Algoritmo_1,3.183.401
+A,4,2000,Algoritmo_1, 5.557138 
 
-A,4,2000,Algoritmo_1,3.199.137
+A,4,2000,Algoritmo_1, 5.582855 
 
-A,4,2000,Algoritmo_1,3.196.627
+A,4,2000,Algoritmo_1, 5.731544 
 
-A,4,2000,Algoritmo_1,3.176.537
+A,4,2000,Algoritmo_1, 5.715352 
 
-A,4,2000,Algoritmo_1,3.184.022
+A,4,2000,Algoritmo_1, 5.708784 
 
-A,4,2000,Algoritmo_1,3.206.790
+A,4,2000,Algoritmo_1, 5.712081 
 
-A,4,2000,Algoritmo_1,3.181.946
+A,4,2000,Algoritmo_1, 5.720785 
 
-A,4,2000,Algoritmo_1,3.183.813
+A,4,2000,Algoritmo_1, 5.708188 
 
-A,4,2000,Algoritmo_1,3.194.282
+A,4,2000,Algoritmo_1, 5.588538 
 
-A,4,2000,Algoritmo_1,3.182.929
+A,4,2000,Algoritmo_1, 5.555581 
 
-A,4,2000,Algoritmo_1,3.179.586
+A,4,2000,Algoritmo_1, 5.784505 
 
-A,4,2000,Algoritmo_1,3.182.178
+A,4,2000,Algoritmo_1, 5.588728 
 
-A,4,2000,Algoritmo_1,3.198.594
+A,4,2000,Algoritmo_1, 5.700541 
 
-A,4,2000,Algoritmo_1,3.213.832
+A,4,2000,Algoritmo_1, 5.588854 
 
-A,4,2000,Algoritmo_1,3.183.419
+A,4,2000,Algoritmo_1, 5.588357 
 
-A,4,2000,Algoritmo_1,3.187.693
+A,4,2000,Algoritmo_1, 5.585333 
 
-A,4,2000,Algoritmo_1,3.193.639
+A,4,2000,Algoritmo_1, 5.558837 
 
-A,4,2000,Algoritmo_1,3.194.518
+A,4,2000,Algoritmo_1, 5.700257 
 
-A,4,2000,Algoritmo_1,3.182.688
+A,4,2000,Algoritmo_1, 5.787107 
 
-A,4,2000,Algoritmo_1,3.194.841
+A,4,2000,Algoritmo_1, 5.555150 
 
-A,4,2000,Algoritmo_1,3.184.385
+A,4,2000,Algoritmo_1, 5.557341 
 
-A,8,2000,Algoritmo_1,2.753.342
+A,8,2000,Algoritmo_1, 4.058158 
 
-A,8,2000,Algoritmo_1,2.689.576
+A,8,2000,Algoritmo_1, 4.058258 
 
-A,8,2000,Algoritmo_1,2.656.024
+A,8,2000,Algoritmo_1, 4.088333 
 
-A,8,2000,Algoritmo_1,2.674.175
+A,8,2000,Algoritmo_1, 4.080555 
 
-A,8,2000,Algoritmo_1,2.706.231
+A,8,2000,Algoritmo_1, 4.117152 
 
-A,8,2000,Algoritmo_1,2.683.978
+A,8,2000,Algoritmo_1, 4.085077 
 
-A,8,2000,Algoritmo_1,2.748.732
+A,8,2000,Algoritmo_1, 4.048358 
 
-A,8,2000,Algoritmo_1,2.744.491
+A,8,2000,Algoritmo_1, 4.242328 
 
-A,8,2000,Algoritmo_1,2.652.912
+A,8,2000,Algoritmo_1, 4.125178 
 
-A,8,2000,Algoritmo_1,2.843.522
+A,8,2000,Algoritmo_1, 4.085058 
 
-A,8,2000,Algoritmo_1,2.700.915
+A,8,2000,Algoritmo_1, 4.104428 
 
-A,8,2000,Algoritmo_1,2.716.254
+A,8,2000,Algoritmo_1, 4.108583 
 
-A,8,2000,Algoritmo_1,2.729.777
+A,8,2000,Algoritmo_1, 4.073253 
 
-A,8,2000,Algoritmo_1,2.697.809
+A,8,2000,Algoritmo_1, 4.148330 
 
-A,8,2000,Algoritmo_1,2.703.257
+A,8,2000,Algoritmo_1, 4.077018 
 
-A,8,2000,Algoritmo_1,2.730.148
+A,8,2000,Algoritmo_1, 4.108135 
 
-A,8,2000,Algoritmo_1,2.741.268
+A,8,2000,Algoritmo_1, 4.155835 
 
-A,8,2000,Algoritmo_1,2.703.077
+A,8,2000,Algoritmo_1, 4.188385 
 
-A,8,2000,Algoritmo_1,2.715.249
+A,8,2000,Algoritmo_1, 4.177580 
 
-A,8,2000,Algoritmo_1,2.707.142
+A,8,2000,Algoritmo_1, 4.314811 
 
-A,8,2000,Algoritmo_1,2.674.426
+A,8,2000,Algoritmo_1, 4.235837 
 
-A,8,2000,Algoritmo_1,2.682.775
+A,8,2000,Algoritmo_1, 4.247888 
 
-A,8,2000,Algoritmo_1,2.682.045
+A,8,2000,Algoritmo_1, 4.878311 
 
-A,8,2000,Algoritmo_1,2.675.814
+A,8,2000,Algoritmo_1, 4.238155 
 
-A,8,2000,Algoritmo_1,2.657.441
+A,8,2000,Algoritmo_1, 4.477041 
 
-A,8,2000,Algoritmo_1,2.751.471
+A,8,2000,Algoritmo_1, 4.228458 
 
-A,8,2000,Algoritmo_1,2.738.828
+A,8,2000,Algoritmo_1, 4.185315 
 
-A,8,2000,Algoritmo_1,2.678.358
+A,8,2000,Algoritmo_1, 4.258885 
 
-A,8,2000,Algoritmo_1,2.674.049
+A,8,2000,Algoritmo_1, 4.258802 
 
-A,8,2000,Algoritmo_1,2.658.182
+A,8,2000,Algoritmo_1, 4.350451 
 
-A,8,2000,Algoritmo_1,2.752.521
+A,8,2000,Algoritmo_1, 4.217258 
 
-A,8,2000,Algoritmo_1,2.708.298
+A,8,2000,Algoritmo_1, 4.410704 
 
-A,8,2000,Algoritmo_1,2.764.916
+A,8,2000,Algoritmo_1, 4.738135 
 
-A,8,2000,Algoritmo_1,2.736.487
+A,8,2000,Algoritmo_1, 4.188303 
 
-A,8,2000,Algoritmo_1,2.741.291
+A,8,2000,Algoritmo_1, 4.235838 
 
-A,8,2000,Algoritmo_1,2.728.978
+A,8,2000,Algoritmo_1, 4.272344 
 
-A,1,2000,Algoritmo_2,8.852.638
+A,1,2000,Algoritmo_2, 21.755831 
 
-A,1,2000,Algoritmo_2,8.858.814
+A,1,2000,Algoritmo_2, 21.715154 
 
-A,1,2000,Algoritmo_2,8.872.389
+A,1,2000,Algoritmo_2, 21.510310 
 
-A,1,2000,Algoritmo_2,8.857.963
+A,1,2000,Algoritmo_2, 21.788275 
 
-A,1,2000,Algoritmo_2,8.860.792
+A,1,2000,Algoritmo_2, 21.751025 
 
-A,1,2000,Algoritmo_2,8.848.399
+A,1,2000,Algoritmo_2, 21.730002 
 
-A,1,2000,Algoritmo_2,8.850.004
+A,1,2000,Algoritmo_2, 21.758548 
 
-A,1,2000,Algoritmo_2,8.860.475
+A,1,2000,Algoritmo_2, 21.758322 
 
-A,1,2000,Algoritmo_2,8.852.980
+A,1,2000,Algoritmo_2, 21.758455 
 
-A,1,2000,Algoritmo_2,8.879.567
+A,1,2000,Algoritmo_2, 21.770155 
 
-A,1,2000,Algoritmo_2,8.867.492
+A,1,2000,Algoritmo_2, 21.755858 
 
-A,1,2000,Algoritmo_2,8.855.754
+A,1,2000,Algoritmo_2, 21.771135 
 
-A,1,2000,Algoritmo_2,8.858.529
+A,1,2000,Algoritmo_2, 21.758181 
 
-A,1,2000,Algoritmo_2,8.864.751
+A,1,2000,Algoritmo_2, 21.758818 
 
-A,1,2000,Algoritmo_2,8.858.055
+A,1,2000,Algoritmo_2, 21.758054 
 
-A,1,2000,Algoritmo_2,8.855.130
+A,1,2000,Algoritmo_2, 21.783488 
 
-A,1,2000,Algoritmo_2,8.855.037
+A,1,2000,Algoritmo_2, 23.180588 
 
-A,1,2000,Algoritmo_2,8.858.870
+A,1,2000,Algoritmo_2, 21.748571 
 
-A,1,2000,Algoritmo_2,8.881.484
+A,1,2000,Algoritmo_2, 21.788581 
 
-A,1,2000,Algoritmo_2,8.865.626
+A,1,2000,Algoritmo_2, 22.158558 
 
-A,1,2000,Algoritmo_2,8.858.500
+A,1,2000,Algoritmo_2, 21.771528 
 
-A,1,2000,Algoritmo_2,8.863.828
+A,1,2000,Algoritmo_2, 21.778501 
 
-A,1,2000,Algoritmo_2,8.862.709
+A,1,2000,Algoritmo_2, 21.758354 
 
-A,1,2000,Algoritmo_2,8.850.163
+A,1,2000,Algoritmo_2, 21.734702 
 
-A,1,2000,Algoritmo_2,8.872.782
+A,1,2000,Algoritmo_2, 21.772753 
 
-A,1,2000,Algoritmo_2,8.850.603
+A,1,2000,Algoritmo_2, 21.757435 
 
-A,1,2000,Algoritmo_2,8.853.120
+A,1,2000,Algoritmo_2, 21.755888 
 
-A,1,2000,Algoritmo_2,8.861.140
+A,1,2000,Algoritmo_2, 22.148140 
 
-A,1,2000,Algoritmo_2,8.853.344
+A,1,2000,Algoritmo_2, 21.753454 
 
-A,1,2000,Algoritmo_2,8.865.772
+A,1,2000,Algoritmo_2, 21.770234 
 
-A,1,2000,Algoritmo_2,8.906.511
+A,1,2000,Algoritmo_2, 21.775502 
 
-A,1,2000,Algoritmo_2,8.855.788
+A,1,2000,Algoritmo_2, 21.715485 
 
-A,1,2000,Algoritmo_2,8.853.589
+A,1,2000,Algoritmo_2, 21.748143 
 
-A,1,2000,Algoritmo_2,8.878.610
+A,1,2000,Algoritmo_2, 21.507085 
 
-A,1,2000,Algoritmo_2,8.853.005
+A,1,2000,Algoritmo_2, 21.758522 
 
-A,1,2000,Algoritmo_2,8.853.040
+A,1,2000,Algoritmo_2, 21.754802 
 
-A,2,2000,Algoritmo_2,4.462.022
+A,2,2000,Algoritmo_2, 10.840718 
 
-A,2,2000,Algoritmo_2,4.448.336
+A,2,2000,Algoritmo_2, 10.851730 
 
-A,2,2000,Algoritmo_2,4.460.378
+A,2,2000,Algoritmo_2, 10.837577 
 
-A,2,2000,Algoritmo_2,4.457.916
+A,2,2000,Algoritmo_2, 10.853382 
 
-A,2,2000,Algoritmo_2,4.454.973
+A,2,2000,Algoritmo_2, 10.828425 
 
-A,2,2000,Algoritmo_2,4.454.044
+A,2,2000,Algoritmo_2, 10.835484 
 
-A,2,2000,Algoritmo_2,4.461.388
+A,2,2000,Algoritmo_2, 10.805585 
 
-A,2,2000,Algoritmo_2,4.453.440
+A,2,2000,Algoritmo_2, 10.811848 
 
-A,2,2000,Algoritmo_2,4.459.760
+A,2,2000,Algoritmo_2, 11.288227 
 
-A,2,2000,Algoritmo_2,4.450.974
+A,2,2000,Algoritmo_2, 13.808837 
 
-A,2,2000,Algoritmo_2,4.456.788
+A,2,2000,Algoritmo_2, 10.851521 
 
-A,2,2000,Algoritmo_2,4.450.058
+A,2,2000,Algoritmo_2, 10.800043 
 
-A,2,2000,Algoritmo_2,4.449.822
+A,2,2000,Algoritmo_2, 10.872552 
 
-A,2,2000,Algoritmo_2,4.449.891
+A,2,2000,Algoritmo_2, 11.175811 
 
-A,2,2000,Algoritmo_2,4.451.327
+A,2,2000,Algoritmo_2, 10.858528 
 
-A,2,2000,Algoritmo_2,4.449.825
+A,2,2000,Algoritmo_2, 11.502774 
 
-A,2,2000,Algoritmo_2,4.450.725
+A,2,2000,Algoritmo_2, 10.802157 
 
-A,2,2000,Algoritmo_2,4.453.417
+A,2,2000,Algoritmo_2, 11.274758 
 
-A,2,2000,Algoritmo_2,4.450.278
+A,2,2000,Algoritmo_2, 10.807820 
 
-A,2,2000,Algoritmo_2,4.457.533
+A,2,2000,Algoritmo_2, 12.151173 
 
-A,2,2000,Algoritmo_2,4.455.469
+A,2,2000,Algoritmo_2, 10.845515 
 
-A,2,2000,Algoritmo_2,4.457.353
+A,2,2000,Algoritmo_2, 10.834484 
 
-A,2,2000,Algoritmo_2,4.450.374
+A,2,2000,Algoritmo_2, 10.808827 
 
-A,2,2000,Algoritmo_2,4.452.642
+A,2,2000,Algoritmo_2, 10.858877 
 
-A,2,2000,Algoritmo_2,4.452.345
+A,2,2000,Algoritmo_2, 10.804887 
 
-A,2,2000,Algoritmo_2,4.448.600
+A,2,2000,Algoritmo_2, 10.848807 
 
-A,2,2000,Algoritmo_2,4.459.143
+A,2,2000,Algoritmo_2, 10.874435 
 
-A,2,2000,Algoritmo_2,4.451.419
+A,2,2000,Algoritmo_2, 10.878573 
 
-A,2,2000,Algoritmo_2,4.453.228
+A,2,2000,Algoritmo_2, 11.722770 
 
-A,2,2000,Algoritmo_2,4.460.213
+A,2,2000,Algoritmo_2, 10.882313 
 
-A,2,2000,Algoritmo_2,4.449.057
+A,2,2000,Algoritmo_2, 10.840311 
 
-A,2,2000,Algoritmo_2,4.451.306
+A,2,2000,Algoritmo_2, 10.834280 
 
-A,2,2000,Algoritmo_2,4.451.498
+A,2,2000,Algoritmo_2, 10.850505 
 
-A,2,2000,Algoritmo_2,4.450.893
+A,2,2000,Algoritmo_2, 10.810574 
 
-A,2,2000,Algoritmo_2,4.458.042
+A,2,2000,Algoritmo_2, 10.802755 
 
-A,2,2000,Algoritmo_2,4.453.087
+A,2,2000,Algoritmo_2, 13.521857 
 
-A,4,2000,Algoritmo_2,2.236.310
+A,4,2000,Algoritmo_2, 5.835053 
 
-A,4,2000,Algoritmo_2,2.236.512
+A,4,2000,Algoritmo_2, 7.875388 
 
-A,4,2000,Algoritmo_2,2.235.542
+A,4,2000,Algoritmo_2, 5.575578 
 
-A,4,2000,Algoritmo_2,2.237.185
+A,4,2000,Algoritmo_2, 5.571312 
 
-A,4,2000,Algoritmo_2,2.238.984
+A,4,2000,Algoritmo_2, 5.887782 
 
-A,4,2000,Algoritmo_2,2.237.094
+A,4,2000,Algoritmo_2, 5.552874 
 
-A,4,2000,Algoritmo_2,2.236.618
+A,4,2000,Algoritmo_2, 5.555405 
 
-A,4,2000,Algoritmo_2,2.243.913
+A,4,2000,Algoritmo_2, 5.553385 
 
-A,4,2000,Algoritmo_2,2.236.397
+A,4,2000,Algoritmo_2, 5.557883 
 
-A,4,2000,Algoritmo_2,2.237.736
+A,4,2000,Algoritmo_2, 7.012085 
 
-A,4,2000,Algoritmo_2,2.236.678
+A,4,2000,Algoritmo_2, 5.832255 
 
-A,4,2000,Algoritmo_2,2.237.508
+A,4,2000,Algoritmo_2, 5.587330 
 
-A,4,2000,Algoritmo_2,2.237.187
+A,4,2000,Algoritmo_2, 5.555484 
 
-A,4,2000,Algoritmo_2,2.237.643
+A,4,2000,Algoritmo_2, 5.552237 
 
-A,4,2000,Algoritmo_2,2.249.996
+A,4,2000,Algoritmo_2, 8.055257 
 
-A,4,2000,Algoritmo_2,2.240.409
+A,4,2000,Algoritmo_2, 5.585512 
 
-A,4,2000,Algoritmo_2,2.244.050
+A,4,2000,Algoritmo_2, 5.537175 
 
-A,4,2000,Algoritmo_2,2.245.077
+A,4,2000,Algoritmo_2, 5.558282 
 
-A,4,2000,Algoritmo_2,2.248.477
+A,4,2000,Algoritmo_2, 5.551847 
 
-A,4,2000,Algoritmo_2,2.237.031
+A,4,2000,Algoritmo_2, 5.578785 
 
-A,4,2000,Algoritmo_2,2.240.317
+A,4,2000,Algoritmo_2, 5.555078 
 
-A,4,2000,Algoritmo_2,2.237.988
+A,4,2000,Algoritmo_2, 5.877055 
 
-A,4,2000,Algoritmo_2,2.240.202
+A,4,2000,Algoritmo_2, 5.541787 
 
-A,4,2000,Algoritmo_2,2.238.182
+A,4,2000,Algoritmo_2, 5.558773 
 
-A,4,2000,Algoritmo_2,2.238.540
+A,4,2000,Algoritmo_2, 5.571450 
 
-A,4,2000,Algoritmo_2,2.238.964
+A,4,2000,Algoritmo_2, 5.570744 
 
-A,4,2000,Algoritmo_2,2.241.222
+A,4,2000,Algoritmo_2, 5.554845 
 
-A,4,2000,Algoritmo_2,2.240.474
+A,4,2000,Algoritmo_2, 7.257248 
 
-A,4,2000,Algoritmo_2,2.240.761
+A,4,2000,Algoritmo_2, 7.001830 
 
-A,4,2000,Algoritmo_2,2.242.934
+A,4,2000,Algoritmo_2, 5.578435 
 
-A,4,2000,Algoritmo_2,2.241.330
+A,4,2000,Algoritmo_2, 5.581183 
 
-A,4,2000,Algoritmo_2,2.238.057
+A,4,2000,Algoritmo_2, 5.555328 
 
-A,4,2000,Algoritmo_2,2.236.561
+A,4,2000,Algoritmo_2, 5.583787 
 
-A,4,2000,Algoritmo_2,2.238.191
+A,4,2000,Algoritmo_2, 5.558481 
 
-A,4,2000,Algoritmo_2,2.234.455
+A,4,2000,Algoritmo_2, 5.755035 
 
-A,4,2000,Algoritmo_2,2.237.490
+A,4,2000,Algoritmo_2, 7.328138 
 
-A,8,2000,Algoritmo_2,1.992.560
+A,8,2000,Algoritmo_2, 3.103123 
 
-A,8,2000,Algoritmo_2,1.974.828
+A,8,2000,Algoritmo_2, 3.081075 
 
-A,8,2000,Algoritmo_2,1.982.035
+A,8,2000,Algoritmo_2, 3.457485 
 
-A,8,2000,Algoritmo_2,2.010.071
+A,8,2000,Algoritmo_2, 3.110128 
 
-A,8,2000,Algoritmo_2,1.970.759
+A,8,2000,Algoritmo_2, 3.101850 
 
-A,8,2000,Algoritmo_2,1.977.799
+A,8,2000,Algoritmo_2, 3.082042 
 
-A,8,2000,Algoritmo_2,1.979.113
+A,8,2000,Algoritmo_2, 3.103550 
 
-A,8,2000,Algoritmo_2,1.980.226
+A,8,2000,Algoritmo_2, 3.088844 
 
-A,8,2000,Algoritmo_2,1.988.269
+A,8,2000,Algoritmo_2, 3.111455 
 
-A,8,2000,Algoritmo_2,1.991.759
+A,8,2000,Algoritmo_2, 3.084241 
 
-A,8,2000,Algoritmo_2,1.983.692
+A,8,2000,Algoritmo_2, 3.080425 
 
-A,8,2000,Algoritmo_2,2.001.395
+A,8,2000,Algoritmo_2, 3.103038 
 
-A,8,2000,Algoritmo_2,2.004.639
+A,8,2000,Algoritmo_2, 3.104153 
 
-A,8,2000,Algoritmo_2,1.976.666
+A,8,2000,Algoritmo_2, 3.085230 
 
-A,8,2000,Algoritmo_2,1.968.121
+A,8,2000,Algoritmo_2, 3.085232 
 
-A,8,2000,Algoritmo_2,2.006.509
+A,8,2000,Algoritmo_2, 3.105255 
 
-A,8,2000,Algoritmo_2,2.003.647
+A,8,2000,Algoritmo_2, 3.470355 
 
-A,8,2000,Algoritmo_2,2.000.442
+A,8,2000,Algoritmo_2, 3.088128 
 
-A,8,2000,Algoritmo_2,1.986.229
+A,8,2000,Algoritmo_2, 3.088113 
 
-A,8,2000,Algoritmo_2,2.005.607
+A,8,2000,Algoritmo_2, 3.107715 
 
-A,8,2000,Algoritmo_2,1.962.212
+A,8,2000,Algoritmo_2, 3.114224 
 
-A,8,2000,Algoritmo_2,1.992.081
+A,8,2000,Algoritmo_2, 3.104873 
 
-A,8,2000,Algoritmo_2,1.993.873
+A,8,2000,Algoritmo_2, 3.084557 
 
-A,8,2000,Algoritmo_2,1.994.004
+A,8,2000,Algoritmo_2, 3.104757 
 
-A,8,2000,Algoritmo_2,2.007.897
+A,8,2000,Algoritmo_2, 3.085851 
 
-A,8,2000,Algoritmo_2,1.973.653
+A,8,2000,Algoritmo_2, 3.108888 
 
-A,8,2000,Algoritmo_2,1.977.522
+A,8,2000,Algoritmo_2, 3.121054 
 
-A,8,2000,Algoritmo_2,1.997.325
+A,8,2000,Algoritmo_2, 3.155045 
 
-A,8,2000,Algoritmo_2,1.958.240
+A,8,2000,Algoritmo_2, 3.183181 
 
-A,8,2000,Algoritmo_2,1.975.539
+A,8,2000,Algoritmo_2, 3.750087 
 
-A,8,2000,Algoritmo_2,2.001.444
+A,8,2000,Algoritmo_2, 3.152018 
 
-A,8,2000,Algoritmo_2,1.974.959
+A,8,2000,Algoritmo_2, 3.427775 
 
-A,8,2000,Algoritmo_2,1.965.088
+A,8,2000,Algoritmo_2, 3.251180 
 
-A,8,2000,Algoritmo_2,2.012.449
+A,8,2000,Algoritmo_2, 3.427087 
 
-A,8,2000,Algoritmo_2,1.964.601
+A,8,2000,Algoritmo_2, 3.215355 
 
-A,8,2000,Algoritmo_2,2.090.057
+A,8,2000,Algoritmo_2, 3.248355 
 
-A,1,2000,Algoritmo_3,16.771.144
+A,1,2000,Algoritmo_3, 38.750001 
 
-A,1,2000,Algoritmo_3,16.601.165
+A,1,2000,Algoritmo_3, 38.558585 
 
-A,1,2000,Algoritmo_3,16.860.552
+A,1,2000,Algoritmo_3, 38.578841 
 
-A,1,2000,Algoritmo_3,17.170.243
+A,1,2000,Algoritmo_3, 38.735082 
 
-A,1,2000,Algoritmo_3,16.780.308
+A,1,2000,Algoritmo_3, 38.415515 
 
-A,1,2000,Algoritmo_3,17.034.720
+A,1,2000,Algoritmo_3, 38.383588 
 
-A,1,2000,Algoritmo_3,16.943.442
+A,1,2000,Algoritmo_3, 38.373828 
 
-A,1,2000,Algoritmo_3,16.494.575
+A,1,2000,Algoritmo_3, 38.348812 
 
-A,1,2000,Algoritmo_3,16.584.351
+A,1,2000,Algoritmo_3, 38.443408 
 
-A,1,2000,Algoritmo_3,16.808.939
+A,1,2000,Algoritmo_3, 38.578345 
 
-A,1,2000,Algoritmo_3,16.701.471
+A,1,2000,Algoritmo_3, 38.054033 
 
-A,1,2000,Algoritmo_3,16.548.143
+A,1,2000,Algoritmo_3, 38.334252 
 
-A,1,2000,Algoritmo_3,16.595.863
+A,1,2000,Algoritmo_3, 38.380458 
 
-A,1,2000,Algoritmo_3,16.903.744
+A,1,2000,Algoritmo_3, 38.418514 
 
-A,1,2000,Algoritmo_3,16.614.244
+A,1,2000,Algoritmo_3, 38.051410 
 
-A,1,2000,Algoritmo_3,16.656.114
+A,1,2000,Algoritmo_3, 38.517744 
 
-A,1,2000,Algoritmo_3,16.915.317
+A,1,2000,Algoritmo_3, 38.380800 
 
-A,1,2000,Algoritmo_3,16.464.503
+A,1,2000,Algoritmo_3, 38.354478 
 
-A,1,2000,Algoritmo_3,16.754.629
+A,1,2000,Algoritmo_3, 38.222553 
 
-A,1,2000,Algoritmo_3,16.814.246
+A,1,2000,Algoritmo_3, 38.438435 
 
-A,1,2000,Algoritmo_3,16.312.484
+A,1,2000,Algoritmo_3, 38.328311 
 
-A,1,2000,Algoritmo_3,16.482.724
+A,1,2000,Algoritmo_3, 38.484015 
 
-A,1,2000,Algoritmo_3,16.733.242
+A,1,2000,Algoritmo_3, 38.315808 
 
-A,1,2000,Algoritmo_3,16.459.739
+A,1,2000,Algoritmo_3, 38.382458 
 
-A,1,2000,Algoritmo_3,16.620.671
+A,1,2000,Algoritmo_3, 38.185545 
 
-A,1,2000,Algoritmo_3,16.520.639
+A,1,2000,Algoritmo_3, 38.314587 
 
-A,1,2000,Algoritmo_3,16.847.337
+A,1,2000,Algoritmo_3, 38.348500 
 
-A,1,2000,Algoritmo_3,16.568.049
+A,1,2000,Algoritmo_3, 38.731425 
 
-A,1,2000,Algoritmo_3,16.470.884
+A,1,2000,Algoritmo_3, 38.422285 
 
-A,1,2000,Algoritmo_3,16.797.678
+A,1,2000,Algoritmo_3, 38.430723 
 
-A,1,2000,Algoritmo_3,16.728.330
+A,1,2000,Algoritmo_3, 38.410132 
 
-A,1,2000,Algoritmo_3,16.513.390
+A,1,2000,Algoritmo_3, 38.318850 
 
-A,1,2000,Algoritmo_3,16.767.252
+A,1,2000,Algoritmo_3, 38.335255 
 
-A,1,2000,Algoritmo_3,17.033.067
+A,1,2000,Algoritmo_3, 38.588427 
 
-A,1,2000,Algoritmo_3,16.555.571
+A,1,2000,Algoritmo_3, 38.540825 
 
-A,1,2000,Algoritmo_3,16.844.686
+A,1,2000,Algoritmo_3, 38.151385 
 
-A,2,2000,Algoritmo_3,7.991.712
+A,1,2000,Algoritmo_3, 38.300541 
 
-A,2,2000,Algoritmo_3,7.861.883
+A,1,2000,Algoritmo_3, 38.355871 
 
-A,2,2000,Algoritmo_3,8.479.873
+A,1,2000,Algoritmo_3, 38.430058 
 
-A,2,2000,Algoritmo_3,8.404.875
+A,1,2000,Algoritmo_3, 38.440785 
 
-A,2,2000,Algoritmo_3,8.346.315
+A,2,2000,Algoritmo_3, 18.718710 
 
-A,2,2000,Algoritmo_3,7.905.205
+A,2,2000,Algoritmo_3, 18.523155 
 
-A,2,2000,Algoritmo_3,7.988.758
+A,2,2000,Algoritmo_3, 18.485554 
 
-A,2,2000,Algoritmo_3,8.451.662
+A,2,2000,Algoritmo_3, 18.552805 
 
-A,2,2000,Algoritmo_3,8.093.774
+A,2,2000,Algoritmo_3, 18.501585 
 
-A,2,2000,Algoritmo_3,7.921.928
+A,2,2000,Algoritmo_3, 18.038538 
 
-A,2,2000,Algoritmo_3,7.911.512
+A,2,2000,Algoritmo_3, 18.785115 
 
-A,2,2000,Algoritmo_3,7.885.454
+A,2,2000,Algoritmo_3, 18.545815 
 
-A,2,2000,Algoritmo_3,7.902.978
+A,2,2000,Algoritmo_3, 18.532552 
 
-A,2,2000,Algoritmo_3,7.877.749
+A,2,2000,Algoritmo_3, 18.715814 
 
-A,2,2000,Algoritmo_3,8.027.460
+A,2,2000,Algoritmo_3, 18.757335 
 
-A,2,2000,Algoritmo_3,8.293.727
+A,2,2000,Algoritmo_3, 18.721050 
 
-A,2,2000,Algoritmo_3,7.896.967
+A,2,2000,Algoritmo_3, 18.545884 
 
-A,2,2000,Algoritmo_3,7.882.186
+A,2,2000,Algoritmo_3, 18.583885 
 
-A,2,2000,Algoritmo_3,7.880.770
+A,2,2000,Algoritmo_3, 18.554524 
 
-A,2,2000,Algoritmo_3,8.448.981
+A,2,2000,Algoritmo_3, 18.733308 
 
-A,2,2000,Algoritmo_3,8.452.072
+A,2,2000,Algoritmo_3, 18.743804 
 
-A,2,2000,Algoritmo_3,7.890.434
+A,2,2000,Algoritmo_3, 18.555532 
 
-A,2,2000,Algoritmo_3,8.013.253
+A,2,2000,Algoritmo_3, 18.707858 
 
-A,2,2000,Algoritmo_3,8.298.370
+A,2,2000,Algoritmo_3, 18.734483 
 
-A,2,2000,Algoritmo_3,8.005.363
+A,2,2000,Algoritmo_3, 18.754588 
 
-A,2,2000,Algoritmo_3,8.363.694
+A,2,2000,Algoritmo_3, 18.711485 
 
-A,2,2000,Algoritmo_3,8.323.359
+A,2,2000,Algoritmo_3, 18.715405 
 
-A,2,2000,Algoritmo_3,7.909.162
+A,2,2000,Algoritmo_3, 18.583852 
 
-A,2,2000,Algoritmo_3,8.261.079
+A,2,2000,Algoritmo_3, 18.804053 
 
-A,2,2000,Algoritmo_3,7.958.799
+A,2,2000,Algoritmo_3, 18.575881 
 
-A,2,2000,Algoritmo_3,7.865.481
+A,2,2000,Algoritmo_3, 18.525742 
 
-A,2,2000,Algoritmo_3,7.889.605
+A,2,2000,Algoritmo_3, 18.808547 
 
-A,2,2000,Algoritmo_3,8.007.510
+A,2,2000,Algoritmo_3, 18.558523 
 
-A,2,2000,Algoritmo_3,7.898.624
+A,2,2000,Algoritmo_3, 18.881552 
 
-A,2,2000,Algoritmo_3,7.880.881
+A,2,2000,Algoritmo_3, 18.533154 
 
-A,2,2000,Algoritmo_3,8.179.980
+A,2,2000,Algoritmo_3, 18.787082 
 
-A,4,2000,Algoritmo_3,4.026.517
+A,2,2000,Algoritmo_3, 18.557251 
 
-A,4,2000,Algoritmo_3,4.096.376
+A,2,2000,Algoritmo_3, 18.585523 
 
-A,4,2000,Algoritmo_3,4.104.705
+A,2,2000,Algoritmo_3, 18.555158 
 
-A,4,2000,Algoritmo_3,4.115.731
+A,2,2000,Algoritmo_3, 18.838000 
 
-A,4,2000,Algoritmo_3,4.044.878
+A,4,2000,Algoritmo_3, 8.240558 
 
-A,4,2000,Algoritmo_3,4.115.447
+A,4,2000,Algoritmo_3, 8.245420 
 
-A,4,2000,Algoritmo_3,4.106.793
+A,4,2000,Algoritmo_3, 8.317715 
 
-A,4,2000,Algoritmo_3,4.030.967
+A,4,2000,Algoritmo_3, 8.325207 
 
-A,4,2000,Algoritmo_3,4.045.537
+A,4,2000,Algoritmo_3, 8.253232 
 
-A,4,2000,Algoritmo_3,4.047.271
+A,4,2000,Algoritmo_3, 8.212885 
 
-A,4,2000,Algoritmo_3,4.037.114
+A,4,2000,Algoritmo_3, 8.305844 
 
-A,4,2000,Algoritmo_3,4.047.558
+A,4,2000,Algoritmo_3, 8.285522 
 
-A,4,2000,Algoritmo_3,4.058.116
+A,4,2000,Algoritmo_3, 8.347785 
 
-A,4,2000,Algoritmo_3,4.038.812
+A,4,2000,Algoritmo_3, 8.348315 
 
-A,4,2000,Algoritmo_3,4.014.727
+A,4,2000,Algoritmo_3, 8.385854 
 
-A,4,2000,Algoritmo_3,4.061.617
+A,4,2000,Algoritmo_3, 8.283002 
 
-A,4,2000,Algoritmo_3,4.054.036
+A,4,2000,Algoritmo_3, 8.380442 
 
-A,4,2000,Algoritmo_3,4.036.821
+A,4,2000,Algoritmo_3, 8.337782 
 
-A,4,2000,Algoritmo_3,4.037.685
+A,4,2000,Algoritmo_3, 8.331732 
 
-A,4,2000,Algoritmo_3,4.048.836
+A,4,2000,Algoritmo_3, 8.355517 
 
-A,4,2000,Algoritmo_3,4.038.485
+A,4,2000,Algoritmo_3, 8.377735 
 
-A,4,2000,Algoritmo_3,4.039.592
+A,4,2000,Algoritmo_3, 8.231552 
 
-A,4,2000,Algoritmo_3,4.037.135
+A,4,2000,Algoritmo_3, 8.272081 
 
-A,4,2000,Algoritmo_3,4.049.657
+A,4,2000,Algoritmo_3, 8.338871 
 
-A,4,2000,Algoritmo_3,4.018.781
+A,4,2000,Algoritmo_3, 8.428351 
 
-A,4,2000,Algoritmo_3,4.083.346
+A,4,2000,Algoritmo_3, 8.587050 
 
-A,4,2000,Algoritmo_3,4.045.997
+A,4,2000,Algoritmo_3, 8.285751 
 
-A,4,2000,Algoritmo_3,4.117.308
+A,4,2000,Algoritmo_3, 8.435470 
 
-A,4,2000,Algoritmo_3,4.048.045
+A,4,2000,Algoritmo_3, 8.528425 
 
-A,4,2000,Algoritmo_3,4.118.765
+A,4,2000,Algoritmo_3, 8.322385 
 
-A,4,2000,Algoritmo_3,4.063.836
+A,4,2000,Algoritmo_3, 8.378700 
 
-A,4,2000,Algoritmo_3,4.039.426
+A,4,2000,Algoritmo_3, 8.283758 
 
-A,4,2000,Algoritmo_3,4.047.572
+A,4,2000,Algoritmo_3, 8.353144 
 
-A,4,2000,Algoritmo_3,4.102.856
+A,4,2000,Algoritmo_3, 8.305455 
 
-A,4,2000,Algoritmo_3,4.057.653
+A,4,2000,Algoritmo_3, 8.303803 
 
-A,4,2000,Algoritmo_3,4.043.998
+A,4,2000,Algoritmo_3, 8.253181 
 
-A,8,2000,Algoritmo_3,3.441.910
+A,4,2000,Algoritmo_3, 8.310215 
 
-A,8,2000,Algoritmo_3,3.400.519
+A,4,2000,Algoritmo_3, 8.312280 
 
-A,8,2000,Algoritmo_3,3.429.973
+A,4,2000,Algoritmo_3, 8.320533 
 
-A,8,2000,Algoritmo_3,3.446.526
+A,4,2000,Algoritmo_3, 8.383025 
 
-A,8,2000,Algoritmo_3,3.408.305
+A,8,2000,Algoritmo_3, 4.573875 
 
-A,8,2000,Algoritmo_3,3.395.275
+A,8,2000,Algoritmo_3, 4.587154 
 
-A,8,2000,Algoritmo_3,3.441.754
+A,8,2000,Algoritmo_3, 4.803432 
 
-A,8,2000,Algoritmo_3,3.456.621
+A,8,2000,Algoritmo_3, 4.821337 
 
-A,8,2000,Algoritmo_3,3.408.979
+A,8,2000,Algoritmo_3, 4.852848 
 
-A,8,2000,Algoritmo_3,3.420.604
+A,8,2000,Algoritmo_3, 5.180825 
 
-A,8,2000,Algoritmo_3,3.439.325
+A,8,2000,Algoritmo_3, 4.558788 
 
-A,8,2000,Algoritmo_3,3.458.211
+A,8,2000,Algoritmo_3, 4.583522 
 
-A,8,2000,Algoritmo_3,3.390.642
+A,8,2000,Algoritmo_3, 4.573881 
 
-A,8,2000,Algoritmo_3,3.369.994
+A,8,2000,Algoritmo_3, 4.853528 
 
-A,8,2000,Algoritmo_3,3.446.268
+A,8,2000,Algoritmo_3, 4.837877 
 
-A,8,2000,Algoritmo_3,3.472.039
+A,8,2000,Algoritmo_3, 4.581834 
 
-A,8,2000,Algoritmo_3,3.378.670
+A,8,2000,Algoritmo_3, 4.800483 
 
-A,8,2000,Algoritmo_3,3.399.234
+A,8,2000,Algoritmo_3, 4.845288 
 
-A,8,2000,Algoritmo_3,3.389.906
+A,8,2000,Algoritmo_3, 4.587750 
 
-A,8,2000,Algoritmo_3,3.401.130
+A,8,2000,Algoritmo_3, 4.884855 
 
-A,8,2000,Algoritmo_3,3.409.049
+A,8,2000,Algoritmo_3, 4.557488 
 
-A,8,2000,Algoritmo_3,3.382.175
+A,8,2000,Algoritmo_3, 4.582888 
 
-A,8,2000,Algoritmo_3,3.433.048
+A,8,2000,Algoritmo_3, 5.103581 
 
-A,8,2000,Algoritmo_3,3.389.951
+A,8,2000,Algoritmo_3, 4.828538 
 
-A,8,2000,Algoritmo_3,3.380.487
+A,8,2000,Algoritmo_3, 5.025581 
 
-A,8,2000,Algoritmo_3,3.424.104
+A,8,2000,Algoritmo_3, 4.851470 
 
-A,8,2000,Algoritmo_3,3.396.355
+A,8,2000,Algoritmo_3, 4.831518 
 
-A,8,2000,Algoritmo_3,3.391.261
+A,8,2000,Algoritmo_3, 4.851145 
 
-A,8,2000,Algoritmo_3,3.471.493
+A,8,2000,Algoritmo_3, 4.811441 
 
-A,8,2000,Algoritmo_3,3.385.558
+A,8,2000,Algoritmo_3, 5.280218 
 
-A,8,2000,Algoritmo_3,3.420.028
+A,8,2000,Algoritmo_3, 5.014552 
 
-A,8,2000,Algoritmo_3,3.361.538
+A,8,2000,Algoritmo_3, 4.888405 
 
-A,8,2000,Algoritmo_3,3.460.578
+A,8,2000,Algoritmo_3, 4.824120 
 
-A,8,2000,Algoritmo_3,3.395.299
+A,8,2000,Algoritmo_3, 4.888213 
 
-A,8,2000,Algoritmo_3,3.385.543
+A,8,2000,Algoritmo_3, 4.855105 
 
-A,8,2000,Algoritmo_3,3.421.074
+A,8,2000,Algoritmo_3, 4.884208 
 
-A,1,3000,Algoritmo_1,134.394.686
+A,8,2000,Algoritmo_3, 5.004557 
 
-A,1,3000,Algoritmo_1,132.955.407
+A,8,2000,Algoritmo_3, 5.021538 
 
-A,1,3000,Algoritmo_1,135.282.025
+A,8,2000,Algoritmo_3, 4.855524 
 
-A,1,3000,Algoritmo_1,132.442.441
+A,8,2000,Algoritmo_3, 4.838057 
 
-A,1,3000,Algoritmo_1,159.828.448
+A,1,3000,Algoritmo_1, 108.747352 
 
-A,1,3000,Algoritmo_1,135.033.508
+A,1,3000,Algoritmo_1, 108.724271 
 
-A,1,3000,Algoritmo_1,133.541.421
+A,1,3000,Algoritmo_1, 110.575257 
 
-A,1,3000,Algoritmo_1,133.145.639
+A,1,3000,Algoritmo_1, 110.021857 
 
-A,1,3000,Algoritmo_1,133.589.059
+A,1,3000,Algoritmo_1, 108.505505 
 
-A,1,3000,Algoritmo_1,133.002.613
+A,1,3000,Algoritmo_1, 108.458850 
 
-A,1,3000,Algoritmo_1,134.140.107
+A,1,3000,Algoritmo_1, 113.321333 
 
-A,1,3000,Algoritmo_1,133.605.007
+A,1,3000,Algoritmo_1, 111.383885 
 
-A,1,3000,Algoritmo_1,133.656.159
+A,1,3000,Algoritmo_1, 108.220858 
 
-A,1,3000,Algoritmo_1,132.505.968
+A,1,3000,Algoritmo_1, 108.840238 
 
-A,1,3000,Algoritmo_1,133.106.450
+A,1,3000,Algoritmo_1, 110.022734 
 
-A,1,3000,Algoritmo_1,131.337.900
+A,1,3000,Algoritmo_1, 108.555738 
 
-A,1,3000,Algoritmo_1,136.294.198
+A,1,3000,Algoritmo_1, 108.837482 
 
-A,1,3000,Algoritmo_1,134.382.035
+A,1,3000,Algoritmo_1, 110.121855 
 
-A,1,3000,Algoritmo_1,136.908.675
+A,1,3000,Algoritmo_1, 110.171538 
 
-A,1,3000,Algoritmo_1,133.400.773
+A,1,3000,Algoritmo_1, 112.554358 
 
-A,1,3000,Algoritmo_1,135.657.925
+A,1,3000,Algoritmo_1, 108.771785 
 
-A,1,3000,Algoritmo_1,137.593.247
+A,1,3000,Algoritmo_1, 111.423178 
 
-A,1,3000,Algoritmo_1,149.358.757
+A,1,3000,Algoritmo_1, 108.810581 
 
-A,1,3000,Algoritmo_1,133.347.782
+A,1,3000,Algoritmo_1, 108.338257 
 
-A,1,3000,Algoritmo_1,133.022.479
+A,1,3000,Algoritmo_1, 108.517121 
 
-A,1,3000,Algoritmo_1,133.443.352
+A,1,3000,Algoritmo_1, 108.823254 
 
-A,1,3000,Algoritmo_1,132.616.640
+A,1,3000,Algoritmo_1, 110.725834 
 
-A,1,3000,Algoritmo_1,131.691.494
+A,1,3000,Algoritmo_1, 108.475435 
 
-A,1,3000,Algoritmo_1,135.377.346
+A,1,3000,Algoritmo_1, 108.308730 
 
-A,1,3000,Algoritmo_1,134.105.930
+A,1,3000,Algoritmo_1, 108.514145 
 
-A,1,3000,Algoritmo_1,133.083.483
+A,1,3000,Algoritmo_1, 108.502050 
 
-A,1,3000,Algoritmo_1,134.033.821
+A,1,3000,Algoritmo_1, 108.883054 
 
-A,1,3000,Algoritmo_1,132.920.118
+A,1,3000,Algoritmo_1, 105.888328 
 
-A,1,3000,Algoritmo_1,131.243.703
+A,1,3000,Algoritmo_1, 110.015505 
 
-A,1,3000,Algoritmo_1,143.080.143
+A,1,3000,Algoritmo_1, 114.082432 
 
-A,1,3000,Algoritmo_1,149.336.868
+A,1,3000,Algoritmo_1, 108.848228 
 
-A,2,3000,Algoritmo_1,51.638.388
+A,1,3000,Algoritmo_1, 108.577555 
 
-A,2,3000,Algoritmo_1,53.026.556
+A,1,3000,Algoritmo_1, 110.587521 
 
-A,2,3000,Algoritmo_1,52.519.006
+A,1,3000,Algoritmo_1, 114.550822 
 
-A,2,3000,Algoritmo_1,51.507.550
+A,1,3000,Algoritmo_1, 110.118782 
 
-A,2,3000,Algoritmo_1,59.926.355
+A,2,3000,Algoritmo_1, 54.175253 
 
-A,2,3000,Algoritmo_1,60.048.084
+A,2,3000,Algoritmo_1, 53.858782 
 
-A,2,3000,Algoritmo_1,51.703.249
+A,2,3000,Algoritmo_1, 54.054288 
 
-A,2,3000,Algoritmo_1,53.372.060
+A,2,3000,Algoritmo_1, 53.854445 
 
-A,2,3000,Algoritmo_1,52.111.829
+A,2,3000,Algoritmo_1, 53.582558 
 
-A,2,3000,Algoritmo_1,66.727.276
+A,2,3000,Algoritmo_1, 53.718157 
 
-A,2,3000,Algoritmo_1,53.577.290
+A,2,3000,Algoritmo_1, 53.401248 
 
-A,2,3000,Algoritmo_1,60.769.612
+A,2,3000,Algoritmo_1, 53.102357 
 
-A,2,3000,Algoritmo_1,51.976.504
+A,2,3000,Algoritmo_1, 54.073550 
 
-A,2,3000,Algoritmo_1,52.110.748
+A,2,3000,Algoritmo_1, 53.515508 
 
-A,2,3000,Algoritmo_1,55.090.299
+A,2,3000,Algoritmo_1, 54.050503 
 
-A,2,3000,Algoritmo_1,51.821.708
+A,2,3000,Algoritmo_1, 53.188383 
 
-A,2,3000,Algoritmo_1,52.684.100
+A,2,3000,Algoritmo_1, 53.241705 
 
-A,2,3000,Algoritmo_1,52.794.307
+A,2,3000,Algoritmo_1, 53.505037 
 
-A,2,3000,Algoritmo_1,51.612.157
+A,2,3000,Algoritmo_1, 53.501402 
 
-A,2,3000,Algoritmo_1,60.794.544
+A,2,3000,Algoritmo_1, 53.588555 
 
-A,2,3000,Algoritmo_1,57.801.909
+A,2,3000,Algoritmo_1, 54.278245 
 
-A,2,3000,Algoritmo_1,54.005.071
+A,2,3000,Algoritmo_1, 53.747873 
 
-A,2,3000,Algoritmo_1,58.697.094
+A,2,3000,Algoritmo_1, 53.887550 
 
-A,2,3000,Algoritmo_1,52.290.684
+A,2,3000,Algoritmo_1, 54.118442 
 
-A,2,3000,Algoritmo_1,52.294.955
+A,2,3000,Algoritmo_1, 53.851315 
 
-A,2,3000,Algoritmo_1,53.871.039
+A,2,3000,Algoritmo_1, 54.115805 
 
-A,2,3000,Algoritmo_1,58.628.536
+A,2,3000,Algoritmo_1, 53.585830 
 
-A,2,3000,Algoritmo_1,52.272.238
+A,2,3000,Algoritmo_1, 53.817558 
 
-A,2,3000,Algoritmo_1,51.870.628
+A,2,3000,Algoritmo_1, 53.431355 
 
-A,2,3000,Algoritmo_1,53.066.986
+A,2,3000,Algoritmo_1, 53.585373 
 
-A,2,3000,Algoritmo_1,51.864.799
+A,2,3000,Algoritmo_1, 53.885847 
 
-A,2,3000,Algoritmo_1,52.543.566
+A,2,3000,Algoritmo_1, 53.527445 
 
-A,2,3000,Algoritmo_1,52.343.294
+A,2,3000,Algoritmo_1, 53.888832 
 
-A,2,3000,Algoritmo_1,58.634.915
+A,2,3000,Algoritmo_1, 54.510550 
 
-A,2,3000,Algoritmo_1,58.311.148
+A,2,3000,Algoritmo_1, 53.575823 
 
-A,2,3000,Algoritmo_1,61.337.071
+A,2,3000,Algoritmo_1, 53.750114 
 
-A,4,3000,Algoritmo_1,27.515.787
+A,2,3000,Algoritmo_1, 53.780157 
 
-A,4,3000,Algoritmo_1,28.149.565
+A,2,3000,Algoritmo_1, 53.557257 
 
-A,4,3000,Algoritmo_1,27.044.482
+A,2,3000,Algoritmo_1, 54.157754 
 
-A,4,3000,Algoritmo_1,33.195.321
+A,2,3000,Algoritmo_1, 53.788888 
 
-A,4,3000,Algoritmo_1,27.700.032
+A,4,3000,Algoritmo_1, 27.572187 
 
-A,4,3000,Algoritmo_1,27.315.393
+A,4,3000,Algoritmo_1, 27.580585 
 
-A,4,3000,Algoritmo_1,27.970.721
+A,4,3000,Algoritmo_1, 27.557838 
 
-A,4,3000,Algoritmo_1,27.506.316
+A,4,3000,Algoritmo_1, 27.733185 
 
-A,4,3000,Algoritmo_1,27.557.496
+A,4,3000,Algoritmo_1, 27.558782 
 
-A,4,3000,Algoritmo_1,28.618.472
+A,4,3000,Algoritmo_1, 27.758880 
 
-A,4,3000,Algoritmo_1,27.960.219
+A,4,3000,Algoritmo_1, 27.823581 
 
-A,4,3000,Algoritmo_1,27.518.034
+A,4,3000,Algoritmo_1, 27.501308 
 
-A,4,3000,Algoritmo_1,27.825.520
+A,4,3000,Algoritmo_1, 27.715115 
 
-A,4,3000,Algoritmo_1,27.424.309
+A,4,3000,Algoritmo_1, 27.772485 
 
-A,4,3000,Algoritmo_1,28.051.716
+A,4,3000,Algoritmo_1, 27.788853 
 
-A,4,3000,Algoritmo_1,27.195.718
+A,4,3000,Algoritmo_1, 25.122758 
 
-A,4,3000,Algoritmo_1,27.837.217
+A,4,3000,Algoritmo_1, 25.441128 
 
-A,4,3000,Algoritmo_1,27.337.573
+A,4,3000,Algoritmo_1, 27.882014 
 
-A,4,3000,Algoritmo_1,27.745.567
+A,4,3000,Algoritmo_1, 25.008545 
 
-A,4,3000,Algoritmo_1,27.910.080
+A,4,3000,Algoritmo_1, 25.203214 
 
-A,4,3000,Algoritmo_1,28.105.135
+A,4,3000,Algoritmo_1, 25.308230 
 
-A,4,3000,Algoritmo_1,27.336.953
+A,4,3000,Algoritmo_1, 25.080445 
 
-A,4,3000,Algoritmo_1,27.101.892
+A,4,3000,Algoritmo_1, 25.157074 
 
-A,4,3000,Algoritmo_1,28.460.907
+A,4,3000,Algoritmo_1, 27.525338 
 
-A,4,3000,Algoritmo_1,27.630.383
+A,4,3000,Algoritmo_1, 25.105828 
 
-A,4,3000,Algoritmo_1,27.454.096
+A,4,3000,Algoritmo_1, 25.435218 
 
-A,4,3000,Algoritmo_1,27.574.641
+A,4,3000,Algoritmo_1, 25.755585 
 
-A,4,3000,Algoritmo_1,27.532.846
+A,4,3000,Algoritmo_1, 27.811547 
 
-A,4,3000,Algoritmo_1,27.523.109
+A,4,3000,Algoritmo_1, 27.835570 
 
-A,4,3000,Algoritmo_1,27.339.310
+A,4,3000,Algoritmo_1, 27.588348 
 
-A,4,3000,Algoritmo_1,27.393.397
+A,4,3000,Algoritmo_1, 27.534040 
 
-A,4,3000,Algoritmo_1,27.304.793
+A,4,3000,Algoritmo_1, 27.843388 
 
-A,4,3000,Algoritmo_1,27.311.102
+A,4,3000,Algoritmo_1, 25.118341 
 
-A,4,3000,Algoritmo_1,27.752.092
+A,4,3000,Algoritmo_1, 27.875875 
 
-A,4,3000,Algoritmo_1,27.847.134
+A,4,3000,Algoritmo_1, 27.577717 
 
-A,4,3000,Algoritmo_1,27.949.792
+A,4,3000,Algoritmo_1, 27.557758 
 
-A,8,3000,Algoritmo_1,29.297.948
+A,4,3000,Algoritmo_1, 25.138185 
 
-A,8,3000,Algoritmo_1,29.629.456
+A,4,3000,Algoritmo_1, 27.878452 
 
-A,8,3000,Algoritmo_1,28.836.301
+A,4,3000,Algoritmo_1, 25.245510 
 
-A,8,3000,Algoritmo_1,27.715.495
+A,4,3000,Algoritmo_1, 27.557181 
 
-A,8,3000,Algoritmo_1,33.738.361
+A,8,3000,Algoritmo_1, 15.080803 
 
-A,8,3000,Algoritmo_1,27.766.958
+A,8,3000,Algoritmo_1, 15.228724 
 
-A,8,3000,Algoritmo_1,30.802.954
+A,8,3000,Algoritmo_1, 15.215850 
 
-A,8,3000,Algoritmo_1,35.087.566
+A,8,3000,Algoritmo_1, 15.450145 
 
-A,8,3000,Algoritmo_1,37.046.957
+A,8,3000,Algoritmo_1, 15.157738 
 
-A,8,3000,Algoritmo_1,29.839.971
+A,8,3000,Algoritmo_1, 15.547540 
 
-A,8,3000,Algoritmo_1,34.089.360
+A,8,3000,Algoritmo_1, 15.585852 
 
-A,8,3000,Algoritmo_1,29.520.249
+A,8,3000,Algoritmo_1, 15.210772 
 
-A,8,3000,Algoritmo_1,33.458.545
+A,8,3000,Algoritmo_1, 15.425580 
 
-A,8,3000,Algoritmo_1,30.615.662
+A,8,3000,Algoritmo_1, 15.227544 
 
-A,8,3000,Algoritmo_1,30.714.562
+A,8,3000,Algoritmo_1, 15.431575 
 
-A,8,3000,Algoritmo_1,34.191.490
+A,8,3000,Algoritmo_1, 15.524522 
 
-A,8,3000,Algoritmo_1,29.766.248
+A,8,3000,Algoritmo_1, 15.583710 
 
-A,8,3000,Algoritmo_1,27.242.759
+A,8,3000,Algoritmo_1, 15.053151 
 
-A,8,3000,Algoritmo_1,34.099.789
+A,8,3000,Algoritmo_1, 15.574351 
 
-A,8,3000,Algoritmo_1,27.635.510
+A,8,3000,Algoritmo_1, 15.502480 
 
-A,8,3000,Algoritmo_1,30.331.216
+A,8,3000,Algoritmo_1, 15.848282 
 
-A,8,3000,Algoritmo_1,28.080.678
+A,8,3000,Algoritmo_1, 17.347222 
 
-A,8,3000,Algoritmo_1,29.470.669
+A,8,3000,Algoritmo_1, 15.250741 
 
-A,8,3000,Algoritmo_1,29.541.784
+A,8,3000,Algoritmo_1, 15.000155 
 
-A,8,3000,Algoritmo_1,28.579.856
+A,8,3000,Algoritmo_1, 15.044878 
 
-A,8,3000,Algoritmo_1,28.750.844
+A,8,3000,Algoritmo_1, 15.375803 
 
-A,8,3000,Algoritmo_1,31.454.613
+A,8,3000,Algoritmo_1, 14.857557 
 
-A,8,3000,Algoritmo_1,30.534.715
+A,8,3000,Algoritmo_1, 15.341501 
 
-A,8,3000,Algoritmo_1,29.921.890
+A,8,3000,Algoritmo_1, 15.288281 
 
-A,8,3000,Algoritmo_1,26.972.967
+A,8,3000,Algoritmo_1, 15.025281 
 
-A,8,3000,Algoritmo_1,35.799.196
+A,8,3000,Algoritmo_1, 15.128288 
 
-A,8,3000,Algoritmo_1,32.797.651
+A,8,3000,Algoritmo_1, 15.187888 
 
-A,8,3000,Algoritmo_1,29.706.983
+A,8,3000,Algoritmo_1, 15.188845 
 
-A,8,3000,Algoritmo_1,27.219.731
+A,8,3000,Algoritmo_1, 15.287755 
 
-A,8,3000,Algoritmo_1,28.464.961
+A,8,3000,Algoritmo_1, 15.247158 
 
-A,8,3000,Algoritmo_1,28.236.452
+A,8,3000,Algoritmo_1, 15.112740 
 
-A,1,3000,Algoritmo_2,71.437.221
+A,8,3000,Algoritmo_1, 15.178403 
 
-A,1,3000,Algoritmo_2,71.405.681
+A,8,3000,Algoritmo_1, 15.504888 
 
-A,1,3000,Algoritmo_2,71.480.167
+A,8,3000,Algoritmo_1, 15.185215 
 
-A,1,3000,Algoritmo_2,71.408.674
+A,8,3000,Algoritmo_1, 15.188128 
 
-A,1,3000,Algoritmo_2,71.395.831
+A,1,3000,Algoritmo_2, 53.158144 
 
-A,1,3000,Algoritmo_2,71.404.619
+A,1,3000,Algoritmo_2, 53.288171 
 
-A,1,3000,Algoritmo_2,71.383.266
+A,1,3000,Algoritmo_2, 53.125558 
 
-A,1,3000,Algoritmo_2,71.408.739
+A,1,3000,Algoritmo_2, 53.138707 
 
-A,1,3000,Algoritmo_2,71.506.778
+A,1,3000,Algoritmo_2, 53.122818 
 
-A,1,3000,Algoritmo_2,71.407.556
+A,1,3000,Algoritmo_2, 53.315054 
 
-A,1,3000,Algoritmo_2,71.615.086
+A,1,3000,Algoritmo_2, 53.183588 
 
-A,1,3000,Algoritmo_2,71.406.504
+A,1,3000,Algoritmo_2, 53.145280 
 
-A,1,3000,Algoritmo_2,71.390.946
+A,1,3000,Algoritmo_2, 53.157088 
 
-A,1,3000,Algoritmo_2,71.437.938
+A,1,3000,Algoritmo_2, 53.228105 
 
-A,1,3000,Algoritmo_2,71.406.462
+A,1,3000,Algoritmo_2, 53.128323 
 
-A,1,3000,Algoritmo_2,71.423.146
+A,1,3000,Algoritmo_2, 53.122385 
 
-A,1,3000,Algoritmo_2,71.501.849
+A,1,3000,Algoritmo_2, 53.118787 
 
-A,1,3000,Algoritmo_2,71.412.501
+A,1,3000,Algoritmo_2, 53.135828 
 
-A,1,3000,Algoritmo_2,71.408.212
+A,1,3000,Algoritmo_2, 54.500381 
 
-A,1,3000,Algoritmo_2,71.400.311
+A,1,3000,Algoritmo_2, 53.187123 
 
-A,1,3000,Algoritmo_2,71.389.266
+A,1,3000,Algoritmo_2, 53.285533 
 
-A,1,3000,Algoritmo_2,71.392.279
+A,1,3000,Algoritmo_2, 53.135855 
 
-A,1,3000,Algoritmo_2,71.424.883
+A,1,3000,Algoritmo_2, 53.104008 
 
-A,1,3000,Algoritmo_2,71.404.198
+A,1,3000,Algoritmo_2, 54.135128 
 
-A,1,3000,Algoritmo_2,71.409.228
+A,1,3000,Algoritmo_2, 53.141380 
 
-A,1,3000,Algoritmo_2,71.377.755
+A,1,3000,Algoritmo_2, 53.155875 
 
-A,1,3000,Algoritmo_2,71.428.255
+A,1,3000,Algoritmo_2, 87.328211 
 
-A,1,3000,Algoritmo_2,71.417.669
+A,1,3000,Algoritmo_2, 53.135441 
 
-A,1,3000,Algoritmo_2,71.416.297
+A,1,3000,Algoritmo_2, 52.855705 
 
-A,1,3000,Algoritmo_2,71.368.336
+A,1,3000,Algoritmo_2, 53.048745 
 
-A,1,3000,Algoritmo_2,71.387.622
+A,1,3000,Algoritmo_2, 53.150704 
 
-A,1,3000,Algoritmo_2,71.392.444
+A,1,3000,Algoritmo_2, 53.135518 
 
-A,1,3000,Algoritmo_2,71.393.912
+A,1,3000,Algoritmo_2, 54.080828 
 
-A,1,3000,Algoritmo_2,71.385.086
+A,1,3000,Algoritmo_2, 53.127387 
 
-A,1,3000,Algoritmo_2,71.415.041
+A,1,3000,Algoritmo_2, 53.155287 
 
-A,1,3000,Algoritmo_2,71.627.837
+A,1,3000,Algoritmo_2, 53.155518 
 
-A,2,3000,Algoritmo_2,35.624.311
+A,1,3000,Algoritmo_2, 53.153171 
 
-A,2,3000,Algoritmo_2,35.720.827
+A,1,3000,Algoritmo_2, 53.158534 
 
-A,2,3000,Algoritmo_2,35.621.168
+A,1,3000,Algoritmo_2, 53.122485 
 
-A,2,3000,Algoritmo_2,35.625.533
+A,1,3000,Algoritmo_2, 53.137815 
 
-A,2,3000,Algoritmo_2,35.696.096
+A,2,3000,Algoritmo_2, 37.583715 
 
-A,2,3000,Algoritmo_2,35.611.965
+A,2,3000,Algoritmo_2, 37.788538 
 
-A,2,3000,Algoritmo_2,35.619.134
+A,2,3000,Algoritmo_2, 37.545545 
 
-A,2,3000,Algoritmo_2,35.647.099
+A,2,3000,Algoritmo_2, 38.458835 
 
-A,2,3000,Algoritmo_2,35.610.450
+A,2,3000,Algoritmo_2, 37.702802 
 
-A,2,3000,Algoritmo_2,35.701.503
+A,2,3000,Algoritmo_2, 35.182254 
 
-A,2,3000,Algoritmo_2,35.697.754
+A,2,3000,Algoritmo_2, 40.532554 
 
-A,2,3000,Algoritmo_2,35.647.345
+A,2,3000,Algoritmo_2, 37.758583 
 
-A,2,3000,Algoritmo_2,35.641.368
+A,2,3000,Algoritmo_2, 35.548581 
 
-A,2,3000,Algoritmo_2,35.630.110
+A,2,3000,Algoritmo_2, 37.885241 
 
-A,2,3000,Algoritmo_2,35.605.381
+A,2,3000,Algoritmo_2, 37.718834 
 
-A,2,3000,Algoritmo_2,35.651.156
+A,2,3000,Algoritmo_2, 37.777255 
 
-A,2,3000,Algoritmo_2,35.636.477
+A,2,3000,Algoritmo_2, 48.254022 
 
-A,2,3000,Algoritmo_2,35.681.790
+A,2,3000,Algoritmo_2, 37.852754 
 
-A,2,3000,Algoritmo_2,35.629.128
+A,2,3000,Algoritmo_2, 35.355584 
 
-A,2,3000,Algoritmo_2,35.661.970
+A,2,3000,Algoritmo_2, 37.755372 
 
-A,2,3000,Algoritmo_2,35.601.583
+A,2,3000,Algoritmo_2, 37.573334 
 
-A,2,3000,Algoritmo_2,35.675.373
+A,2,3000,Algoritmo_2, 37.851235 
 
-A,2,3000,Algoritmo_2,35.697.265
+A,2,3000,Algoritmo_2, 37.754512 
 
-A,2,3000,Algoritmo_2,35.623.689
+A,2,3000,Algoritmo_2, 37.825814 
 
-A,2,3000,Algoritmo_2,35.616.720
+A,2,3000,Algoritmo_2, 37.837853 
 
-A,2,3000,Algoritmo_2,35.635.098
+A,2,3000,Algoritmo_2, 37.873505 
 
-A,2,3000,Algoritmo_2,35.727.925
+A,2,3000,Algoritmo_2, 37.854870 
 
-A,2,3000,Algoritmo_2,35.654.235
+A,2,3000,Algoritmo_2, 37.877037 
 
-A,2,3000,Algoritmo_2,35.643.272
+A,2,3000,Algoritmo_2, 37.848853 
 
-A,2,3000,Algoritmo_2,35.623.148
+A,2,3000,Algoritmo_2, 37.588527 
 
-A,2,3000,Algoritmo_2,35.707.089
+A,2,3000,Algoritmo_2, 37.712451 
 
-A,2,3000,Algoritmo_2,35.738.946
+A,2,3000,Algoritmo_2, 37.515852 
 
-A,2,3000,Algoritmo_2,35.627.248
+A,2,3000,Algoritmo_2, 38.028380 
 
-A,2,3000,Algoritmo_2,35.603.184
+A,2,3000,Algoritmo_2, 37.837017 
 
-A,2,3000,Algoritmo_2,35.605.878
+A,2,3000,Algoritmo_2, 37.830240 
 
-A,2,3000,Algoritmo_2,35.603.408
+A,2,3000,Algoritmo_2, 37.853805 
 
-A,4,3000,Algoritmo_2,18.075.487
+A,2,3000,Algoritmo_2, 37.873507 
 
-A,4,3000,Algoritmo_2,17.891.810
+A,2,3000,Algoritmo_2, 37.821808 
 
-A,4,3000,Algoritmo_2,18.568.056
+A,2,3000,Algoritmo_2, 38.735080 
 
-A,4,3000,Algoritmo_2,17.932.256
+A,2,3000,Algoritmo_2, 37.723147 
 
-A,4,3000,Algoritmo_2,17.940.960
+A,4,3000,Algoritmo_2, 18.785381 
 
-A,4,3000,Algoritmo_2,18.597.108
+A,4,3000,Algoritmo_2, 18.513258 
 
-A,4,3000,Algoritmo_2,18.414.881
+A,4,3000,Algoritmo_2, 18.235082 
 
-A,4,3000,Algoritmo_2,18.435.617
+A,4,3000,Algoritmo_2, 18.830802 
 
-A,4,3000,Algoritmo_2,18.599.733
+A,4,3000,Algoritmo_2, 18.553388 
 
-A,4,3000,Algoritmo_2,18.320.731
+A,4,3000,Algoritmo_2, 18.853371 
 
-A,4,3000,Algoritmo_2,17.915.655
+A,4,3000,Algoritmo_2, 18.835142 
 
-A,4,3000,Algoritmo_2,18.026.577
+A,4,3000,Algoritmo_2, 18.844210 
 
-A,4,3000,Algoritmo_2,18.382.451
+A,4,3000,Algoritmo_2, 18.835377 
 
-A,4,3000,Algoritmo_2,18.442.040
+A,4,3000,Algoritmo_2, 18.832140 
 
-A,4,3000,Algoritmo_2,18.000.778
+A,4,3000,Algoritmo_2, 18.582388 
 
-A,4,3000,Algoritmo_2,18.041.498
+A,4,3000,Algoritmo_2, 18.524810 
 
-A,4,3000,Algoritmo_2,18.156.250
+A,4,3000,Algoritmo_2, 18.835815 
 
-A,4,3000,Algoritmo_2,17.951.561
+A,4,3000,Algoritmo_2, 18.575025 
 
-A,4,3000,Algoritmo_2,18.516.877
+A,4,3000,Algoritmo_2, 18.530753 
 
-A,4,3000,Algoritmo_2,17.941.831
+A,4,3000,Algoritmo_2, 21.337250 
 
-A,4,3000,Algoritmo_2,17.952.707
+A,4,3000,Algoritmo_2, 18.801875 
 
-A,4,3000,Algoritmo_2,18.004.153
+A,4,3000,Algoritmo_2, 18.581038 
 
-A,4,3000,Algoritmo_2,18.157.497
+A,4,3000,Algoritmo_2, 18.818875 
 
-A,4,3000,Algoritmo_2,18.477.733
+A,4,3000,Algoritmo_2, 18.838812 
 
-A,4,3000,Algoritmo_2,18.360.985
+A,4,3000,Algoritmo_2, 18.815811 
 
-A,4,3000,Algoritmo_2,17.974.254
+A,4,3000,Algoritmo_2, 18.581847 
 
-A,4,3000,Algoritmo_2,18.504.571
+A,4,3000,Algoritmo_2, 18.540147 
 
-A,4,3000,Algoritmo_2,18.422.066
+A,4,3000,Algoritmo_2, 18.350074 
 
-A,4,3000,Algoritmo_2,18.200.921
+A,4,3000,Algoritmo_2, 18.801288 
 
-A,4,3000,Algoritmo_2,17.998.697
+A,4,3000,Algoritmo_2, 18.808481 
 
-A,4,3000,Algoritmo_2,18.295.945
+A,4,3000,Algoritmo_2, 18.582304 
 
-A,4,3000,Algoritmo_2,18.463.444
+A,4,3000,Algoritmo_2, 18.807438 
 
-A,4,3000,Algoritmo_2,18.508.339
+A,4,3000,Algoritmo_2, 18.505215 
 
-A,4,3000,Algoritmo_2,18.448.557
+A,4,3000,Algoritmo_2, 18.805877 
 
-A,4,3000,Algoritmo_2,18.627.643
+A,4,3000,Algoritmo_2, 18.817285 
 
-A,4,3000,Algoritmo_2,18.041.292
+A,4,3000,Algoritmo_2, 18.583888 
 
-A,8,3000,Algoritmo_2,15.683.556
+A,4,3000,Algoritmo_2, 18.525205 
 
-A,8,3000,Algoritmo_2,16.118.206
+A,4,3000,Algoritmo_2, 18.824872 
 
-A,8,3000,Algoritmo_2,15.984.954
+A,4,3000,Algoritmo_2, 18.808555 
 
-A,8,3000,Algoritmo_2,16.073.703
+A,4,3000,Algoritmo_2, 18.551353 
 
-A,8,3000,Algoritmo_2,15.548.819
+A,8,3000,Algoritmo_2, 10.384712 
 
-A,8,3000,Algoritmo_2,15.918.055
+A,8,3000,Algoritmo_2, 10.328348 
 
-A,8,3000,Algoritmo_2,15.925.081
+A,8,3000,Algoritmo_2, 10.583785 
 
-A,8,3000,Algoritmo_2,15.946.565
+A,8,3000,Algoritmo_2, 10.888515 
 
-A,8,3000,Algoritmo_2,15.657.553
+A,8,3000,Algoritmo_2, 10.588388 
 
-A,8,3000,Algoritmo_2,16.136.181
+A,8,3000,Algoritmo_2, 10.885851 
 
-A,8,3000,Algoritmo_2,16.161.848
+A,8,3000,Algoritmo_2, 11.148131 
 
-A,8,3000,Algoritmo_2,15.901.427
+A,8,3000,Algoritmo_2, 10.853284 
 
-A,8,3000,Algoritmo_2,15.702.204
+A,8,3000,Algoritmo_2, 10.858558 
 
-A,8,3000,Algoritmo_2,15.945.929
+A,8,3000,Algoritmo_2, 11.155448 
 
-A,8,3000,Algoritmo_2,15.867.196
+A,8,3000,Algoritmo_2, 10.855803 
 
-A,8,3000,Algoritmo_2,15.937.536
+A,8,3000,Algoritmo_2, 11.188481 
 
-A,8,3000,Algoritmo_2,15.661.329
+A,8,3000,Algoritmo_2, 10.835533 
 
-A,8,3000,Algoritmo_2,15.870.619
+A,8,3000,Algoritmo_2, 10.808338 
 
-A,8,3000,Algoritmo_2,15.965.618
+A,8,3000,Algoritmo_2, 10.805305 
 
-A,8,3000,Algoritmo_2,16.095.096
+A,8,3000,Algoritmo_2, 11.018077 
 
-A,8,3000,Algoritmo_2,16.070.507
+A,8,3000,Algoritmo_2, 10.800058 
 
-A,8,3000,Algoritmo_2,15.925.687
+A,8,3000,Algoritmo_2, 10.858857 
 
-A,8,3000,Algoritmo_2,15.914.144
+A,8,3000,Algoritmo_2, 10.815848 
 
-A,8,3000,Algoritmo_2,15.939.946
+A,8,3000,Algoritmo_2, 10.885722 
 
-A,8,3000,Algoritmo_2,16.138.804
+A,8,3000,Algoritmo_2, 10.857587 
 
-A,8,3000,Algoritmo_2,15.718.693
+A,8,3000,Algoritmo_2, 10.878488 
 
-A,8,3000,Algoritmo_2,15.742.930
+A,8,3000,Algoritmo_2, 10.805581 
 
-A,8,3000,Algoritmo_2,15.677.994
+A,8,3000,Algoritmo_2, 10.852783 
 
-A,8,3000,Algoritmo_2,15.798.765
+A,8,3000,Algoritmo_2, 10.825482 
 
-A,8,3000,Algoritmo_2,16.130.875
+A,8,3000,Algoritmo_2, 11.530755 
 
-A,8,3000,Algoritmo_2,16.068.336
+A,8,3000,Algoritmo_2, 10.818844 
 
-A,8,3000,Algoritmo_2,15.728.171
+A,8,3000,Algoritmo_2, 10.815555 
 
-A,8,3000,Algoritmo_2,15.626.483
+A,8,3000,Algoritmo_2, 10.888205 
 
-A,8,3000,Algoritmo_2,15.544.486
+A,8,3000,Algoritmo_2, 10.818253 
 
-A,8,3000,Algoritmo_2,16.249.243
+A,8,3000,Algoritmo_2, 10.808355 
 
-A,8,3000,Algoritmo_2,15.961.675
+A,8,3000,Algoritmo_2, 10.815583 
 
-A,1,3000,Algoritmo_3,162.793.816
+A,8,3000,Algoritmo_2, 10.803221 
 
-A,1,3000,Algoritmo_3,165.297.423
+A,8,3000,Algoritmo_2, 10.805484 
 
-A,1,3000,Algoritmo_3,167.478.234
+A,8,3000,Algoritmo_2, 10.847308 
 
-A,1,3000,Algoritmo_3,166.983.879
+A,8,3000,Algoritmo_2, 10.848458 
 
-A,1,3000,Algoritmo_3,162.569.184
+A,1,3000,Algoritmo_3, 144.588825 
 
-A,1,3000,Algoritmo_3,163.785.051
+A,1,3000,Algoritmo_3, 141.872384 
 
-A,1,3000,Algoritmo_3,162.998.035
+A,1,3000,Algoritmo_3, 141.740031 
 
-A,1,3000,Algoritmo_3,164.778.450
+A,1,3000,Algoritmo_3, 141.075743 
 
-A,1,3000,Algoritmo_3,166.470.969
+A,1,3000,Algoritmo_3, 143.385828 
 
-A,1,3000,Algoritmo_3,163.425.577
+A,1,3000,Algoritmo_3, 141.255050 
 
-A,1,3000,Algoritmo_3,164.713.208
+A,1,3000,Algoritmo_3, 141.844252 
 
-A,1,3000,Algoritmo_3,184.632.302
+A,1,3000,Algoritmo_3, 145.838843 
 
-A,1,3000,Algoritmo_3,164.406.695
+A,1,3000,Algoritmo_3, 144.183144 
 
-A,1,3000,Algoritmo_3,166.759.077
+A,1,3000,Algoritmo_3, 144.748374 
 
-A,1,3000,Algoritmo_3,164.328.602
+A,1,3000,Algoritmo_3, 142.825075 
 
-A,1,3000,Algoritmo_3,165.461.318
+A,1,3000,Algoritmo_3, 143.088488 
 
-A,1,3000,Algoritmo_3,187.600.929
+A,1,3000,Algoritmo_3, 144.853125 
 
-A,1,3000,Algoritmo_3,164.635.369
+A,1,3000,Algoritmo_3, 143.808074 
 
-A,1,3000,Algoritmo_3,165.987.031
+A,1,3000,Algoritmo_3, 144.022144 
 
-A,1,3000,Algoritmo_3,171.482.655
+A,1,3000,Algoritmo_3, 145.570428 
 
-A,1,3000,Algoritmo_3,164.818.034
+A,1,3000,Algoritmo_3, 142.188788 
 
-A,1,3000,Algoritmo_3,164.355.284
+A,1,3000,Algoritmo_3, 144.788021 
 
-A,1,3000,Algoritmo_3,165.316.356
+A,1,3000,Algoritmo_3, 144.354744 
 
-A,1,3000,Algoritmo_3,184.873.253
+A,1,3000,Algoritmo_3, 143.315572 
 
-A,1,3000,Algoritmo_3,164.577.520
+A,1,3000,Algoritmo_3, 145.254188 
 
-A,1,3000,Algoritmo_3,163.136.493
+A,1,3000,Algoritmo_3, 143.588202 
 
-A,1,3000,Algoritmo_3,166.475.514
+A,1,3000,Algoritmo_3, 142.358585 
 
-A,1,3000,Algoritmo_3,173.721.745
+A,1,3000,Algoritmo_3, 145.017557 
 
-A,1,3000,Algoritmo_3,167.117.115
+A,1,3000,Algoritmo_3, 145.101788 
 
-A,1,3000,Algoritmo_3,162.668.871
+A,1,3000,Algoritmo_3, 143.150285 
 
-A,1,3000,Algoritmo_3,174.186.780
+A,1,3000,Algoritmo_3, 144.773855 
 
-A,1,3000,Algoritmo_3,164.339.317
+A,1,3000,Algoritmo_3, 142.742585 
 
-A,1,3000,Algoritmo_3,165.885.416
+A,1,3000,Algoritmo_3, 144.547552 
 
-A,1,3000,Algoritmo_3,165.510.893
+A,1,3000,Algoritmo_3, 145.475223 
 
-A,1,3000,Algoritmo_3,165.165.502
+A,1,3000,Algoritmo_3, 142.012434 
 
-A,1,3000,Algoritmo_3,170.190.190
+A,1,3000,Algoritmo_3, 144.505882 
 
-A,2,3000,Algoritmo_3,67.220.457
+A,1,3000,Algoritmo_3, 144.103075 
 
-A,2,3000,Algoritmo_3,65.699.209
+A,1,3000,Algoritmo_3, 141.853018 
 
-A,2,3000,Algoritmo_3,69.559.425
+A,1,3000,Algoritmo_3, 145.018145 
 
-A,2,3000,Algoritmo_3,69.096.919
+A,1,3000,Algoritmo_3, 145.744880 
 
-A,2,3000,Algoritmo_3,72.390.073
+A,2,3000,Algoritmo_3, 50.581888 
 
-A,2,3000,Algoritmo_3,68.072.601
+A,2,3000,Algoritmo_3, 50.445088 
 
-A,2,3000,Algoritmo_3,66.263.877
+A,2,3000,Algoritmo_3, 78.885351 
 
-A,2,3000,Algoritmo_3,66.188.051
+A,2,3000,Algoritmo_3, 50.355535 
 
-A,2,3000,Algoritmo_3,70.649.090
+A,2,3000,Algoritmo_3, 51.075855 
 
-A,2,3000,Algoritmo_3,65.370.709
+A,2,3000,Algoritmo_3, 50.324008 
 
-A,2,3000,Algoritmo_3,66.050.328
+A,2,3000,Algoritmo_3, 78.073753 
 
-A,2,3000,Algoritmo_3,73.110.475
+A,2,3000,Algoritmo_3, 50.484548 
 
-A,2,3000,Algoritmo_3,65.638.718
+A,2,3000,Algoritmo_3, 50.437801 
 
-A,2,3000,Algoritmo_3,66.286.151
+A,2,3000,Algoritmo_3, 78.241474 
 
-A,2,3000,Algoritmo_3,66.101.558
+A,2,3000,Algoritmo_3, 51.241175 
 
-A,2,3000,Algoritmo_3,77.094.415
+A,2,3000,Algoritmo_3, 51.538588 
 
-A,2,3000,Algoritmo_3,74.289.162
+A,2,3000,Algoritmo_3, 78.754484 
 
-A,2,3000,Algoritmo_3,77.448.533
+A,2,3000,Algoritmo_3, 78.353852 
 
-A,2,3000,Algoritmo_3,74.175.079
+A,2,3000,Algoritmo_3, 51.113350 
 
-A,2,3000,Algoritmo_3,67.236.367
+A,2,3000,Algoritmo_3, 50.137155 
 
-A,2,3000,Algoritmo_3,73.812.690
+A,2,3000,Algoritmo_3, 53.211113 
 
-A,2,3000,Algoritmo_3,70.231.071
+A,2,3000,Algoritmo_3, 50.230055 
 
-A,2,3000,Algoritmo_3,81.542.680
+A,2,3000,Algoritmo_3, 51.075702 
 
-A,2,3000,Algoritmo_3,65.191.954
+A,2,3000,Algoritmo_3, 50.157858 
 
-A,2,3000,Algoritmo_3,96.061.271
+A,2,3000,Algoritmo_3, 78.554855 
 
-A,2,3000,Algoritmo_3,66.139.160
+A,2,3000,Algoritmo_3, 50.238558 
 
-A,2,3000,Algoritmo_3,69.930.706
+A,2,3000,Algoritmo_3, 50.375115 
 
-A,2,3000,Algoritmo_3,75.630.256
+A,2,3000,Algoritmo_3, 50.855382 
 
-A,2,3000,Algoritmo_3,73.095.709
+A,2,3000,Algoritmo_3, 50.451448 
 
-A,2,3000,Algoritmo_3,68.186.931
+A,2,3000,Algoritmo_3, 50.711528 
 
-A,2,3000,Algoritmo_3,65.558.249
+A,2,3000,Algoritmo_3, 51.485475 
 
-A,2,3000,Algoritmo_3,69.020.248
+A,2,3000,Algoritmo_3, 50.135854 
 
-A,2,3000,Algoritmo_3,67.175.472
+A,2,3000,Algoritmo_3, 50.857010 
 
-A,2,3000,Algoritmo_3,80.412.258
+A,2,3000,Algoritmo_3, 50.858383 
 
-A,2,3000,Algoritmo_3,78.852.735
+A,2,3000,Algoritmo_3, 50.488844 
 
-A,2,3000,Algoritmo_3,69.065.287
+A,2,3000,Algoritmo_3, 78.588075 
 
-A,4,3000,Algoritmo_3,35.838.360
+A,2,3000,Algoritmo_3, 51.488580 
 
-A,4,3000,Algoritmo_3,35.112.843
+A,2,3000,Algoritmo_3, 51.581858 
 
-A,4,3000,Algoritmo_3,34.627.428
+A,2,3000,Algoritmo_3, 50.380182 
 
-A,4,3000,Algoritmo_3,34.675.999
+A,2,3000,Algoritmo_3, 78.885733 
 
-A,4,3000,Algoritmo_3,34.316.953
+A,4,3000,Algoritmo_3, 35.182888 
 
-A,4,3000,Algoritmo_3,34.964.238
+A,4,3000,Algoritmo_3, 34.500575 
 
-A,4,3000,Algoritmo_3,35.231.449
+A,4,3000,Algoritmo_3, 35.488810 
 
-A,4,3000,Algoritmo_3,34.725.524
+A,4,3000,Algoritmo_3, 34.883025 
 
-A,4,3000,Algoritmo_3,35.240.151
+A,4,3000,Algoritmo_3, 34.155025 
 
-A,4,3000,Algoritmo_3,35.472.002
+A,4,3000,Algoritmo_3, 34.437113 
 
-A,4,3000,Algoritmo_3,37.662.333
+A,4,3000,Algoritmo_3, 34.408723 
 
-A,4,3000,Algoritmo_3,34.312.885
+A,4,3000,Algoritmo_3, 34.221833 
 
-A,4,3000,Algoritmo_3,34.672.998
+A,4,3000,Algoritmo_3, 34.822014 
 
-A,4,3000,Algoritmo_3,34.611.039
+A,4,3000,Algoritmo_3, 34.315452 
 
-A,4,3000,Algoritmo_3,35.698.385
+A,4,3000,Algoritmo_3, 34.501423 
 
-A,4,3000,Algoritmo_3,35.689.271
+A,4,3000,Algoritmo_3, 34.801352 
 
-A,4,3000,Algoritmo_3,35.686.684
+A,4,3000,Algoritmo_3, 35.050450 
 
-A,4,3000,Algoritmo_3,35.555.309
+A,4,3000,Algoritmo_3, 35.054301 
 
-A,4,3000,Algoritmo_3,45.425.202
+A,4,3000,Algoritmo_3, 34.728744 
 
-A,4,3000,Algoritmo_3,34.916.950
+A,4,3000,Algoritmo_3, 34.184555 
 
-A,4,3000,Algoritmo_3,34.893.472
+A,4,3000,Algoritmo_3, 34.873151 
 
-A,4,3000,Algoritmo_3,34.709.595
+A,4,3000,Algoritmo_3, 34.414842 
 
-A,4,3000,Algoritmo_3,35.537.148
+A,4,3000,Algoritmo_3, 34.831428 
 
-A,4,3000,Algoritmo_3,35.400.682
+A,4,3000,Algoritmo_3, 34.488017 
 
-A,4,3000,Algoritmo_3,35.392.603
+A,4,3000,Algoritmo_3, 35.288770 
 
-A,4,3000,Algoritmo_3,35.115.405
+A,4,3000,Algoritmo_3, 34.703715 
 
-A,4,3000,Algoritmo_3,34.941.967
+A,4,3000,Algoritmo_3, 34.580230 
 
-A,4,3000,Algoritmo_3,35.989.623
+A,4,3000,Algoritmo_3, 34.080538 
 
-A,4,3000,Algoritmo_3,34.932.470
+A,4,3000,Algoritmo_3, 34.873727 
 
-A,4,3000,Algoritmo_3,37.666.816
+A,4,3000,Algoritmo_3, 34.344058 
 
-A,4,3000,Algoritmo_3,35.733.727
+A,4,3000,Algoritmo_3, 34.335124 
 
-A,4,3000,Algoritmo_3,35.350.272
+A,4,3000,Algoritmo_3, 34.554328 
 
-A,4,3000,Algoritmo_3,35.660.026
+A,4,3000,Algoritmo_3, 34.381270 
 
-A,4,3000,Algoritmo_3,35.645.813
+A,4,3000,Algoritmo_3, 35.004538 
 
-A,4,3000,Algoritmo_3,36.096.488
+A,4,3000,Algoritmo_3, 34.425080 
 
-A,4,3000,Algoritmo_3,34.752.793
+A,4,3000,Algoritmo_3, 34.448885 
 
-A,8,3000,Algoritmo_3,36.511.867
+A,4,3000,Algoritmo_3, 33.858571 
 
-A,8,3000,Algoritmo_3,31.259.715
+A,4,3000,Algoritmo_3, 34.208578 
 
-A,8,3000,Algoritmo_3,36.603.661
+A,4,3000,Algoritmo_3, 34.233855 
 
-A,8,3000,Algoritmo_3,34.786.502
+A,4,3000,Algoritmo_3, 34.355127 
 
-A,8,3000,Algoritmo_3,32.201.946
+A,8,3000,Algoritmo_3, 18.187001 
 
-A,8,3000,Algoritmo_3,31.649.360
+A,8,3000,Algoritmo_3, 18.148350 
 
-A,8,3000,Algoritmo_3,32.140.041
+A,8,3000,Algoritmo_3, 18.713740 
 
-A,8,3000,Algoritmo_3,33.413.365
+A,8,3000,Algoritmo_3, 18.232875 
 
-A,8,3000,Algoritmo_3,34.540.617
+A,8,3000,Algoritmo_3, 18.414255 
 
-A,8,3000,Algoritmo_3,34.363.406
+A,8,3000,Algoritmo_3, 18.813333 
 
-A,8,3000,Algoritmo_3,35.703.942
+A,8,3000,Algoritmo_3, 20.285885 
 
-A,8,3000,Algoritmo_3,39.425.408
+A,8,3000,Algoritmo_3, 20.204518 
 
-A,8,3000,Algoritmo_3,31.550.876
+A,8,3000,Algoritmo_3, 18.530538 
 
-A,8,3000,Algoritmo_3,35.027.139
+A,8,3000,Algoritmo_3, 18.515280 
 
-A,8,3000,Algoritmo_3,31.310.439
+A,8,3000,Algoritmo_3, 18.483435 
 
-A,8,3000,Algoritmo_3,33.593.496
+A,8,3000,Algoritmo_3, 18.812558 
 
-A,8,3000,Algoritmo_3,34.467.498
+A,8,3000,Algoritmo_3, 18.338542 
 
-A,8,3000,Algoritmo_3,34.566.473
+A,8,3000,Algoritmo_3, 18.712578 
 
-A,8,3000,Algoritmo_3,30.450.194
+A,8,3000,Algoritmo_3, 18.514483 
 
-A,8,3000,Algoritmo_3,37.990.510
+A,8,3000,Algoritmo_3, 18.318825 
 
-A,8,3000,Algoritmo_3,39.103.952
+A,8,3000,Algoritmo_3, 18.183203 
 
-A,8,3000,Algoritmo_3,35.418.051
+A,8,3000,Algoritmo_3, 18.855185 
 
-A,8,3000,Algoritmo_3,37.246.054
+A,8,3000,Algoritmo_3, 18.585548 
 
-A,8,3000,Algoritmo_3,40.388.529
+A,8,3000,Algoritmo_3, 18.102558 
 
-A,8,3000,Algoritmo_3,32.138.352
+A,8,3000,Algoritmo_3, 18.320122 
 
-A,8,3000,Algoritmo_3,36.110.060
+A,8,3000,Algoritmo_3, 18.485375 
 
-A,8,3000,Algoritmo_3,31.335.581
+A,8,3000,Algoritmo_3, 18.203184 
 
-A,8,3000,Algoritmo_3,33.839.781
+A,8,3000,Algoritmo_3, 20.443154 
 
-A,8,3000,Algoritmo_3,41.057.807
+A,8,3000,Algoritmo_3, 18.533747 
 
-A,8,3000,Algoritmo_3,40.094.206
+A,8,3000,Algoritmo_3, 18.508850 
 
-A,8,3000,Algoritmo_3,34.144.651
+A,8,3000,Algoritmo_3, 18.325054 
 
-A,8,3000,Algoritmo_3,31.215.576
+A,8,3000,Algoritmo_3, 18.184351 
 
-A,8,3000,Algoritmo_3,32.384.324
+A,8,3000,Algoritmo_3, 18.818552 
 
-A,8,3000,Algoritmo_3,36.858.216
+A,8,3000,Algoritmo_3, 18.241700 
 
-A,8,3000,Algoritmo_3,30.823.845
+A,8,3000,Algoritmo_3, 18.273535 
 
-A,8,3000,Algoritmo_3,33.038.725
+A,8,3000,Algoritmo_3, 18.058858 
 
+A,8,3000,Algoritmo_3, 18.721574 
+
+A,8,3000,Algoritmo_3, 18.330438 
+
+A,8,3000,Algoritmo_3, 18.783751 
+
+A,8,3000,Algoritmo_3, 18.885588 
